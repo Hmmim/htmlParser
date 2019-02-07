@@ -12,7 +12,7 @@ def printY(y, data):
         data[str(y.contents[0])] = str(y.nextSibling).replace(u'\xa0', u'').strip()
 
 if __name__ == "__main__":
-    print("Hello World")
+    print("Hello World!")
     req = urllib.request.Request("https://www.mz.co.kr/portfolio-items/2011applicationlg-u-plus/")
     data = urllib.request.urlopen(req).read()
 
