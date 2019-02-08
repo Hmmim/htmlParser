@@ -1,47 +1,65 @@
 import urllib.request   
-from bs4 import BeautifulSoup
+from bs4 import Tag, NavigableString, BeautifulSoup
 
 import json
 
-def printY(y, data):
-    if str(y.nextSibling).find("font-size") > 0 or str(y.nextSibling).replace(u'\xa0', u' ') == ' ':
-        print("%s , %s" % (str(y.contents[0]) , str(y.nextSibling.nextSibling.contents[0]).strip()))
-        data[str(y.contents[0])] = str(y.nextSibling.nextSibling.contents[0]).strip()
-    else:
-        print("%s , %s" % (str(y.contents[0]) , str(y.nextSibling).strip()))
-        data[str(y.contents[0])] = str(y.nextSibling).replace(u'\xa0', u'').strip()
+def printY(y, jsonData):
+	if str(y.nextSibling).find("font-size") > 0 or str(y.nextSibling).find("span style") > 0 or str(y.nextSibling).replace(u'\xa0', u' ') == ' ':
+		#print("%s , %s" % (str(y.text) , str(y.nextSibling.nextSibling.text).strip()))
+		if isinstance(str(y.nextSibling.nextSibling), Tag):
+			jsonData[str(y.text).replace(u'\xa0', u'').strip()] = str(y.nextSibling.nextSibling.text).strip()
+		elif isinstance(str(y.nextSibling.nextSibling), NavigableString):
+			jsonData[str(y.text).replace(u'\xa0', u'').strip()] = str(y.nextSibling.nextSibling).replace(u'\xa0', u'').strip().strip()
+	else:
+        #print("%s , %s" % (str(y.text) , str(y.nextSibling).strip()))
+		jsonData[str(y.text).replace(u'\xa0', u'').strip()] = str(y.nextSibling).replace(u'\xa0', u'').strip()
 
 if __name__ == "__main__":
-    print("Hello World!")
-    req = urllib.request.Request("https://www.mz.co.kr/portfolio-items/2011applicationlg-u-plus/")
-    data = urllib.request.urlopen(req).read()
+	print("Hello World!")
 
-    bs = BeautifulSoup(data, 'html.parser')
+	linkTextFilePath = "D:\python\htmlParser\linkList.txt"
 
-    divClassGrid4 = bs.find("div", {"class": "grid4 col"})
-    
-    tagP = divClassGrid4.find_all("p")
+	linkFile = open(linkTextFilePath,'r')
+	outData = []
+	links = linkFile.readlines()
+	for link in links:
+		try:
+			req = urllib.request.Request(link.replace(u'\n', u''))
+			reqData = urllib.request.urlopen(req).read()
 
-    chkList = ['PROJECT', 'CLIENT', 'TYPE', 'DEBUT DATE', 'Production Coordinator', 'Design, Animation', 'Storyboards, Animation', 'Lighting, Shading, Rendering', 'Animation, Modeling', 'Created']
+			bs = BeautifulSoup(reqData, 'html.parser')
 
-    jsonData = {}
+			divClassGrid4 = bs.find("div", {"class": "grid4 col"})
+			
+			tagP = divClassGrid4.find_all("p")
 
-    data = {}
+			chkList = ['PROJECT', 'CLIENT', 'TYPE', 'DEBUT DATE', 'Production Coordinator', 'Design, Animation', 'Storyboards, Animation', 'Lighting, Shading, Rendering', 'Animation, Modeling', 'Created']
 
-    idxTagP = 0
-    for x in tagP:
-        try:
-            idxTagY = 0
-            for y in x.contents:
-                for z in chkList:
-                    if str(y).find(z) > 1:
-                        printY(y, data)
-                        break
-        except UnicodeEncodeError:
-            print("Error : %d" % (idxTagP))
-        finally:
-            idxTagP += 1
+			jsonData = {}
 
-    print(json.dumps(data))
-    with open('data.json', 'w') as outfile:
-        json.dump(data, outfile)
+			jsonData["link"] = req.full_url
+
+			idxTagP = 0
+			for x in tagP:
+				try:
+					idxTagY = 0
+					for y in x.contents:
+						for z in chkList:
+							if str(y).find(z) > 1:
+								printY(y, jsonData)
+								break
+				except UnicodeEncodeError:
+					print("Error : %d" % (idxTagP))
+				finally:
+					idxTagP += 1
+			print(jsonData)
+			outData.append(jsonData)
+		except:
+			print("error link : %s" % (req.full_url))
+		finally:
+			#print(json.dumps(data))
+			jsonData = {}
+
+	#print(json.dumps(data))
+	with open('data.json', 'w') as outfile:
+		json.dump(outData, outfile)
