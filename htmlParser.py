@@ -22,21 +22,32 @@ def getTag(bs):
 	chkList = ['PROJECT', 'CLIENT', 'TYPE', 'DEBUT DATE', 'Production Coordinator', 'Design, Animation', 'Storyboards, Animation', 'Lighting, Shading, Rendering', 'Animation, Modeling', 'Created']
 
 	jsonData["link"] = req.full_url
-
+	scriptIdx = 1
 	for x in tagP:
 		try:
-			for y in x.contents:
-				for z in chkList:
-					if str(y).find(z) > 1:
-						printY(y, jsonData)
-						break
+			if len(x.text.strip()) < 50:
+				for y in x.contents:
+					for z in chkList:
+						if str(y).find(z) > 1:
+							printY(y, jsonData)
+							break
+			else:
+				jsonData["script%d" % scriptIdx] = x.text.strip()
+				scriptIdx += 1
 		except UnicodeEncodeError:
 			print("Error : UnicodeEncodeError")
 		finally:
 			pass
 
 def getImage(bs):
-	pass
+	divClassGrid8 = bs.find("div", {"class": "grid8 col"})
+
+	tagImgs = divClassGrid8.find_all("img")
+
+	imgIdx = 1
+	for img in tagImgs:
+		jsonData["image%d" % imgIdx] = img['src']
+		imgIdx += 1
 
 if __name__ == "__main__":
 	print("Hello World!")
@@ -65,9 +76,8 @@ if __name__ == "__main__":
 		except:
 			print("error link : %s" % (req.full_url))
 		finally:
-			#print(json.dumps(data))
 			jsonData = {}
 
 	#print(json.dumps(data))
-	with open('data.json', 'w') as outfile:
-		json.dump(outData, outfile)
+	with open('data.json', 'w', encoding='utf-8') as outfile:
+		json.dump(outData, outfile, ensure_ascii=False)

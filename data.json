@@ -1,868 +1,1615 @@
 [{
     "link": "https://www.mz.co.kr/portfolio-items/200902oz/",
-    "PROJECT": "OZ 4\ub300 \ub2e8\ub9d0\uae30 \uc0ac\uc774\ud2b8",
+    "PROJECT": "OZ 4대 단말기 사이트",
     "TYPE": "VIDEO",
-    "DEBUT DATE": "2008~2009"
+    "DEBUT DATE": "2008~2009",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202547/%EC%A7%80%EC%A0%95_2.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202548/oz012.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202549/%EC%98%81%EC%97%AD_21.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202549/%EC%98%81%EC%97%AD_31.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202550/%EC%98%81%EC%97%AD_41.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sk%ec%97%94%ed%81%ac%eb%a6%b0-%ec%97%94%ed%81%ac%eb%a6%b0%eb%aa%b0-%eb%a6%ac%eb%89%b4%ec%96%bc-2/",
     "CLIENT": "SK ENCLEAN",
     "TYPE": "WEB SHOPPING MALLMANAGE",
-    "DEBUT DATE": "2007.12~"
+    "DEBUT DATE": "2007.12~",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/04/14203427/W_sk%EC%97%94%ED%81%AC%EB%A6%B0%EB%AA%B0-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203314/SK%EC%97%94%ED%81%AC%EB%A6%B0-%EC%97%94%ED%81%AC%EB%A6%B0%EB%AA%B0-%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B8021.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%98%a5%ec%85%98-%ec%8a%a4%ec%b9%b4%ec%9d%b4%ed%94%84/",
     "CLIENT": "EBAY KOREA",
-    "TYPE": "INFORMATION AND COMMUNICATION"
+    "TYPE": "INFORMATION AND COMMUNICATION",
+    "script1": "옥션 스카이프의 홈페이지가 새롭게 리뉴얼을 단행, 밝고 경쾌하면서 심플한 분위기로 고객에게 다가왔다. 새롭게 단장한 사이트는 각각의 상품을 상품 구매 프로세스에 의해 구매하던 기존의 상품구매 방식을 탈피해 한 페이지에서 여러 가지 상품을 한번에 통합적으로 구매하도록 하여 요금제 구매 고객의 구매 동선을 일원화하고, 핵심 상품과 서비스를 메인 비주얼 영역을 통해 전달, 상품의 이해도를 높였다.\n\t 오픈 방식은 기존 그랜드 오픈(grand open) 방식에서 벗어나 주요 기능에 따른 단계별 오픈 방식을 채택함으로써 폐쇄 그룹 테스트(closed beta test)와 열린 그룹 테스트(open beta test)가 순차적으로 이뤄지게 했고, 이를 통해 사이트의 오류와 오작동은 줄이면서 전체적인 완성도는 높이고자 하였다.",
+    "script2": "디자인 측면에서는 옥션 스카이프의 브랜드 아이덴티티(brand identity) 확립과 사용성 증대에 중점을 두고 사용자의 편리성/시인성/가독성을 극대화하는 컬러 시스템(color system)을 채용하여 사용자의 정보의 취득 및 사용이 용이하도록 했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/01/14204428/01-e1369304548518-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204429/20090123_%EC%98%A5%EC%85%98%EC%8A%A4%EC%B9%B4%EC%9D%B4%ED%94%84.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg%ed%8c%8c%ec%9b%8c%ec%bd%a4-xpeed-%ea%b5%ac%ec%b6%95/",
     "PROJECT": "LG POWERCOMXPEED",
     "TYPE": "INFORMATION COMMUNICATION",
-    "DEBUT DATE": "2009.01"
+    "DEBUT DATE": "2009.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/01/14204413/04_%EC%9B%B9_10_LG-POWERCOM_20130523-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationmicrosoft/",
     "CLIENT": "MICROSOFT",
-    "PROJECT": "MS BI CENTER"
+    "PROJECT": "MS BI CENTER",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/11/14204724/01-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/1998online-shopping-mallmegazone/",
-    "PROJECT": "MEGAZONE"
+    "PROJECT": "MEGAZONE",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/1998/12/14204428/04_%EC%9B%B9_1_%EB%A9%94%EA%B0%80%EC%A1%B4%EC%87%BC%ED%95%91%EB%AA%B0_20130523-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203937/main1.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/remix-korea-08-site/"
+    "link": "https://www.mz.co.kr/portfolio-items/remix-korea-08-site/",
+    "script1": "Remix 는 매년 Microsoft에서 주최하는 행사로 2008년 5월 Remix08 Korea Beyond RIA 라는 이름으로 사이트가 open되었다. 이는 행사(홍보용) 사이트로 Silverlight 주 기능과 비주얼적인면을 중점적으로 구현되어있다. DESIGN CONCEPT은 실크로드라는 모티브를 가지고 진행하였다. 모든 웹의 진화과정은 본 사이트를 중심으로 이루어지며 발전한다라는 뜻을 내포 하고 있다 전체적인 흐름을 본다면 01.Deep-zoom 기능을 이용하여 웹의 진화 과정을 나타내었다. 전체적인 흐름을 한눈에 볼 수 있도록 디자인 되어있으며 상세 설명은 Click Drag를 이용하여 한 페이지에서 확인이 가능하다. 02. 미디어 기능 또한 제작이 가능하여 동영상을 사용자가 원하는 곳에 위치 시키며 크기 및 방향 조절이 가능하여 원하는 화면으로 세팅이 가능하다. 해당 페이지는 카테고리별로 구분되어 있어 체크박스를 통해 원하는 영상만 나열할 수 있다. Remix08 행사 때 진행되었던 영상이 제공되어 있다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2008/04/14204425/REMIX011.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204423/remix02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204424/remix03.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationahnlab-2/",
     "CLIENT": "AHNLAB",
-    "PROJECT": "TRUSGUARD UTM(UNIFED THREAT MANAGEMENT) UI\uad6c\ud604"
+    "script1": "PROJECT TRUSGUARD UTM(UNIFED THREAT MANAGEMENT) UI구현",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204449/012.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204450/023.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationmicrosoft-2/",
     "CLIENT": "MICROSOFT",
-    "PROJECT": "MS BI CENTER"
+    "PROJECT": "MS BI CENTER",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/11/14204724/01-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011applicationsk-cc/",
     "CLIENT": "SK C&C",
-    "PROJECT": "\ud55c\uad6d\uad50\uc721\uacfc\ud559\ud559\uc220\uc815\ubcf4\uc6d0(KERIS) \ub514\uc9c0\ud138\uad50\uacfc\uc11c"
+    "PROJECT": "한국교육과학학술정보원(KERIS) 디지털교과서",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204454/014.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204456/024.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011applicationlg-u-plus/",
     "CLIENT": "LG U PLUS",
-    "PROJECT": "LGT\uace0\uac1d\ub9de\ucda4\ucee8\uc124\ud305"
+    "PROJECT": "LGT고객맞춤컨설팅",
+    "script1": "LG텔레콤은 핸드폰 대리점을 위하여 오프라인에서 사용 가능하고 또한 고객과 함께 사용하는 프로그램으로서 집중 할 수 있는 UI를 갖고 있으며, 요금 시뮬레이션 및 타사 요금과 효과적인 비교가 간편한 소프트웨어의 개발을 위해 WPF 기술을 사용하기로 결정했다.",
+    "script2": "그에 따라 LG텔레콤은 Visual C#, .NET Framework 3.0, 그리고 외부 데이터 관리는 XML을 이용하여 고객맞춤컨설팅 애플리케이션을 개발했다. 또한 HTTP 프로토콜을 사용하여 소프트웨어를 업데이트할 수 있도록 했다. 지금까지의 애플리케이션의 경우 대부분 개발사나 고객들이 사용자경험(UX)보다는 비용과 기능에 더 많은 신경을 썼으나, 이번에는 무엇보다 고객의 사용자경험에 초점을 두고 프로젝트를 진행하였다.",
+    "script3": "이를 위해서 먼저 WPF를 이용한 비즈니스 모델의 수립 및 적용을 시연하고 백오피스 업무에 효율적인 플랫폼이라는 장점을 부각하는 등 WPF에 대한 공감대를 형성하는 일이 중요했다. LG텔레콤의 새로운 고객맞춤컨설팅 애플리케이션은 향상된 사용자 인터페이스를 통해 고객에게 휴대폰을 소개하고 선택하도록 하고, 제휴카드를 시뮬레이션하거나, 기존 요금정보, 종합결과, 개통지원 등 다양한 기능을 제공함으로써 고객 만족도를 높이고 있다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/12/14204522/01-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204524/028.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2009-%ec%9d%b8%ec%b2%9c-%ec%84%b8%ea%b3%84%eb%8f%84%ec%8b%9c-%ec%b6%95%ec%a0%84/",
-    "PROJECT": "INCHEON GLOBAL FAIR&FESTIVAL"
+    "PROJECT": "INCHEON GLOBAL FAIR&FESTIVAL",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202551/%EC%98%81%EC%97%AD_15.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202554/%EC%98%81%EC%97%AD_142.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202555/%EC%98%81%EC%97%AD_161.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-gd510-product-video/",
     "PROJECT": "LG MOBILEGD510 PRODUCT",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202556/%EC%A7%80%EC%A0%95_6.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202557/%EC%A7%80%EC%A0%95_41.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202557/%EC%A7%80%EC%A0%95_111.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204409/LG-MOBILE-GD510-PRODUCT_02.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204410/LG-MOBILE-GD510-PRODUCT_04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sooryehan-microsoft-site-intro/",
     "PROJECT": "SOORYHAN MICROSOFT SITE INTRO",
     "CLIENT": "SOORYEGAN",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2009.08"
+    "DEBUT DATE": "2009.08",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202600/%EC%A7%80%EC%A0%95_33.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204408/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9D%B8%ED%8A%B8%EB%A1%9C_01.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204409/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%9D%B8%ED%8A%B8%EB%A1%9C_02.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202600/%EC%A7%80%EC%A0%95_291.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202601/%EC%A7%80%EC%A0%95_301.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lgt-%ed%86%b5%ed%95%a9-%ec%9b%b9%ec%82%ac%ec%9d%b4%ed%8a%b8/",
     "PROJECT": "LG U PLUS",
     "CLIENT": "LG U PLUS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14203826/20090723_LG%ED%85%94%EB%A0%88%EC%BD%A4-1.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/lg%ed%85%94%eb%a0%88%ec%bd%a4-oz-1%ec%9d%b8%ec%b9%ad-%ec%8a%a4%ed%83%80%eb%8d%b0%ec%9d%b4%ed%8a%b8-%ea%b2%8c%ec%9e%84/"
+    "link": "https://www.mz.co.kr/portfolio-items/lg%ed%85%94%eb%a0%88%ec%bd%a4-oz-1%ec%9d%b8%ec%b9%ad-%ec%8a%a4%ed%83%80%eb%8d%b0%ec%9d%b4%ed%8a%b8-%ea%b2%8c%ec%9e%84/",
+    "script1": "PROJECT LGTELECOM OZ FIRST PERSON STARDATE GAME (FPSD)",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14203844/1%EC%9D%B8%EC%B9%AD-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-cns-%ed%84%b0%ec%b9%98%eb%8b%a5%ed%84%b0/",
     "PROJECT": "LG CNS",
     "CLIENT": "LG CNS TOUCHDOCTOR",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "script1": "터치닥터는 LG CNS에서 인텔과 합작으로 고혈압, 당뇨, 비만, 스트레스 등을 관리해주는 홈 헬스 케어 건강 단말기를 개발하게 되어 그 단말기를 웹과 연동하고, 터치닥터 단말기를 홍보할 수 있는 온라인 창구로 만든 신규 건강 포털 사이트입니다. 건강관리기능은 단말기 회원의 경우 단말에서 측정된 건강 데이터들을 웹 에서도 확인 할 수 있는 기능이며 일반 웹 회원의 경우 측정된 건강상태를 입력하여 관리하고 한 달에 한번 측정,입력 된 데이터를 기준으로 헬스리포트를 발행하여 건강상태에 대해 분석을 해주는 기능입니다. 그리고 그 측정, 입력된 정보들은 쌍방의 동의 하에 가족이나 지인이 된 회원들간의 공개가 가능하며 서로 조언을 해주고 응원해 줄 수 있는 건강관리 커뮤니케이션 창구 기능이 있어 웹 2.0의 쇼셜 네트워크 이론을 적용하고 있습니다. 터치닥터 신규 건강포털 프로젝트는 건강에 관심 있는 일반인들에게 많은 정보를 제공하고 건강관리를 할 수 있는 프로그램 제공을 통해 국민건강 증진에 도움을 주고자 하는 의도에서 구축되었으며 디자인적인 측면보다는 웹 상에서 사용자에게 제공되는 서비스 중심으로 구축 된 사이트입니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14203827/20090723_%ED%84%B0%EC%B9%98%EB%8B%A5%ED%84%B0-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-%ec%ba%94%ec%9c%a0-801ex/",
     "PROJECT": "LG CanU 801EX",
-    "DEBUT DATE": "2009.06"
+    "DEBUT DATE": "2009.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/06/14203824/20090623_%EC%BA%94%EC%9C%A0-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ea%b3%a0%ec%9a%a9%eb%85%b8%eb%8f%99%eb%b6%80-%ec%b7%a8%ec%97%85%ed%8f%ac%ed%84%b8%ec%82%ac%ec%9d%b4%ed%8a%b8-",
     "PROJECT": "MOLAB EMPLOYMENT PORTAL SITEWORKNET",
     "CLIENT": "MOLAB",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.06"
+    "DEBUT DATE": "2009.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/06/14203825/20090623_%EC%9B%8C%ED%81%AC%EB%84%B7-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%98%ac%eb%a6%bc%ed%91%b8%ec%8a%a4-%ed%95%9c%ea%b5%ad-%eb%b8%8c%eb%9e%9c%eb%93%9c-%ec%82%ac%ec%9d%b4%ed%8a%b8/",
     "PROJECT": "OLYMPUS BRAND SITE",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "script1": "디지털 카메라 전문업체 올림푸스 한국은 원빈과 전속모델 계약을 체결하면서 '원빈과 올림푸스 PEN의 디지털카메라 전문업체 올림푸스한국은 원빈과 전속모델 계약을 체결하면서 '원빈과 올림푸스 PEN의 만남'이라는 주제로 촬영된 광고를 공개했다. \n\t 그에 따라 올림푸스 한국 홈페이지에서도 광고 컨셈을 기초로 메인페이지 디자인을 새롭게 개편했다. 기존 홈페이지의 레이아웃에서 크게 벗어나지 않으면서 광고의 컨셈을 디자인에 자연스렇게 적용 시켰으며 광고에서 보여주는 것과 같이 '부드러움'과 '카리스마'로 대비되는 두이미지의 원빈을 카메라의 이미지와 매치시켜 보여주는데 주력했다. 뿐만아니라 PENSTYLE 홈페이지에도 카메라의 감성적이면서도 강력한 기능을 원빈의 부드러움과 강인한 이미지에 녹여 깨끗한 영상으로 표현해 냈다. '만남'이라는 주제로 촬영된 광고를 공개했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14203827/20090723_%EC%98%AC%EB%A6%BC%ED%91%B8%EC%8A%A4-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204657/img_news_10.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ed%95%9c%ea%b5%ad%ec%9d%80%ed%96%89-%ec%96%b4%eb%a6%b0%ec%9d%b4%ec%b2%ad%ec%86%8c%eb%85%84-",
     "PROJECT": "KOREA BANKEDU",
     "CLIENT": "KOREABANK",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14204430/2_hera1984-e1369304955874-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/hp-%eb%b9%85%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8/",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14203959/main-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ed%95%9c%eb%9d%bc%ea%b7%b8%eb%a3%b9-%eb%b8%8c%eb%9e%9c%eb%93%9c-%ec%82%ac%ec%9d%b4%ed%8a%b8/",
     "PROJECT": "HALLABRAND SITE",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14204412/04_%EC%9B%B9_16_HALLA-BRAND-SITE_20130523-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg%ec%84%b1%eb%82%a8%eb%8f%84%ec%84%9c%ea%b4%80-lg-elit/",
-    "PROJECT": "LG SANGNAM LIBRARYLG ELIT"
+    "PROJECT": "LG SANGNAM LIBRARYLG ELIT",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/04/14204436/LG%EC%83%81%EB%82%A8_elit_main_copy-e1369306518291-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204437/LG%EC%83%81%EB%82%A8_elit_main2_copy1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%98%a5%ec%85%98-%ec%b1%85%ea%b3%bc%ec%9d%8c%ec%95%85/",
     "CLIENT": "EBAY KOREA",
     "TYPE": "<strong></strong>",
-    "DEBUT DATE": "2009.04"
+    "DEBUT DATE": "2009.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/04/14203822/20090423_%EC%98%A5%EC%85%98%EC%B1%85%EA%B3%BC%EC%9D%8C%EC%95%85-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ed%8d%bc%ec%8b%9c%ed%94%bd%ec%97%90%ec%96%b4-naiade-%eb%a6%ac%ec%a1%b0%ed%8a%b8-%ea%b5%ac%ec%b6%95/",
-    "PROJECT": "PACIFIC AIRNAIADE RESORT"
+    "PROJECT": "PACIFIC AIRNAIADE RESORT",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/04/14204432/4-e1369305625720-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%95%84%ec%8b%9c%ec%95%84%eb%82%98-%ed%81%b4%eb%9f%bd/",
     "PROJECT": "ASIANA CLUB",
-    "DEBUT DATE": "2009.07"
+    "DEBUT DATE": "2009.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/07/14204412/04_%EC%9B%B9_17_ASIANA-CLUB_20130523-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg%ed%8c%8c%ec%9b%8c%ec%bd%a4-premian/",
     "PROJECT": "LG POWERCOMPREMIAN",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.06"
+    "DEBUT DATE": "2009.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/06/14203825/20090623_LG%ED%8C%8C%EC%9B%8C%EC%BD%A4-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sk%ec%97%90%eb%84%88%ec%a7%80-enclean-%ed%8f%ac%ed%84%b8%ea%b5%ac%ec%b6%95-%eb%b0%8f-%ec%9a%b4%ec%98%81/",
     "PROJECT": "SK ENERGY DRIVING WORLD",
-    "DEBUT DATE": "2009.04"
+    "DEBUT DATE": "2009.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/04/14204431/0-2_lotusms12-e1369305362424-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg%ec%83%9d%ed%99%9c%ea%b1%b4%ea%b0%95-%eb%b3%b4%eb%8b%8c-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "PROJECT": "LG CAREVONIN",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2009.05"
+    "DEBUT DATE": "2009.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/05/14203824/20090523_%EB%B3%B4%EB%8B%8C-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationahnlab/",
     "CLIENT": "AHNLAB",
-    "PROJECT": "APC 4.0(AHNLAB POLICY CENTER 4.0) UI \uad6c\ud604"
+    "PROJECT": "APC 4.0(AHNLAB POLICY CENTER 4.0) UI 구현",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204443/011.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204445/022.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204447/032.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2003/",
     "PROJECT": "SKHAPPY AUTO MEMBERS",
     "CLIENT": "SK",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.08"
+    "DEBUT DATE": "2009.08",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/08/14203829/20090823_%ED%95%B4%ED%94%BC%EC%98%A4%ED%86%A0%EB%A9%A4%EB%B2%84%EC%8A%A4-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ltgc-microsite-intro/",
     "PROJECT": "LTGC MICROSITE INTRO",
     "CLIENT": "LG",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2009.10"
+    "DEBUT DATE": "2009.10",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202603/%EC%A7%80%EC%A0%95_9.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202603/%EC%A7%80%EC%A0%95_12.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202604/%EC%A7%80%EC%A0%95_4-11.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204408/LTGC-MICROSITE-INTRO_02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ohui-microsite/",
     "PROJECT": "OHUI MICROSITE",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2009.12"
+    "DEBUT DATE": "2009.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202606/1228_3%EC%B0%A8_final_1.wmv_000008775.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202607/1228_3%EC%B0%A8_final_1.wmv_0000007671-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202607/1228_3%EC%B0%A8_final_1.wmv_0000062061.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204407/OHUI-MICROSITE_03.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/samsung-kies-program-guide/",
     "PROJECT": "SAMSUNG 'KIES' PROGRAM GUIDE",
     "CLIENT": "SAMSUNG",
     "TYPE": "AD&MARKETING",
     "DEBUT DATE": "2010.01",
-    "Design, Animation": "Park So-jung",
-    "Storyboards, Animation": "Paik Young-hoon3D",
-    "Lighting, Shading, Rendering": "Cha Yu-hwan",
-    "Animation, Modeling": "Jung Min-kwan",
-    "Created": "Indigo, MEGAZONE"
+    "script1": "Production Coordinator Won Dong-yeon Creative Directors,Fabrication: Lee Sung-jin 2D\nDesign, Animation Park So-jung\nStoryboards, Animation Paik Young-hoon 3D\nLighting, Shading, Rendering Cha Yu-hwan\nAnimation, Modeling Jung Min-kwan\nCreated Indigo, MEGAZONE",
+    "script2": "Samsung Kies is a PC Software you can use to connect your PC with your handset. Samsung Kies offers many widgets providing various functions between your PC and mobile phone. The applications can be downloaded using the Samsung Apps widget. Using Samsung Kies, viewing applications is easier and more convenient. You can use full screen view on your PC regardless of your mobile network. You can also enjoy customised service simply by becoming a member or registering your mobile phone.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202609/%EC%98%81%EC%97%AD_32.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202610/%EC%98%81%EC%97%AD_71.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202610/%EC%98%81%EC%97%AD_191.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204405/SAMSUNG-KIES-PROGRAM-GUIDE_04.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204406/SAMSUNG-KIES-PROGRAM-GUIDE_05.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/boys-like-girls-_heart-heart-heartbreak-mv/",
-    "PROJECT": "BOYS LIKE GIRLS HEART HERAT HEARTBREAK M/V",
+    "script1": "PROJECT BOYS LIKE GIRLS HEART HERAT HEARTBREAK M/V",
     "CLIENT": "SAMSUNG",
-    "DEBUT DATE": "2009.12"
+    "DEBUT DATE": "2009.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202612/ces3-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202613/ces21-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202614/DSC008401-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204406/BOYS-LIKE-GIRLS-HEART-HERAT-HEARTBREAK-MV_02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/oz-2-0-application-guide/",
     "PROJECT": "LG OZ 2.0 APPLICATION GUIDE",
     "CLIENT": "LG",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2010.03"
+    "DEBUT DATE": "2010.03",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202615/%EC%98%81%EC%97%AD_1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202617/%EC%98%81%EC%97%AD_2-11.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202618/%EC%98%81%EC%97%AD_3-11.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204404/LG-OZ-2.0-APPLICATION-GUIDE_04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/cookie-2-lg-ku9200/",
     "PROJECT": "COOKIE 2(LG-KU9200)",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2010.03"
+    "DEBUT DATE": "2010.03",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202619/%EC%98%81%EC%97%AD_13.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204400/COOKIE-2LG-KU9200_01.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202620/%EC%98%81%EC%97%AD_91.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202621/%EC%98%81%EC%97%AD_101.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204401/COOKIE-2LG-KU9200_06.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ces-2009-samsung-3d-tv-contents/",
     "PROJECT": "CES 2009 SAMSUNG 3DTV CONTENTS",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2010.02"
+    "DEBUT DATE": "2010.02",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202624/7.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202625/31-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202626/41.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2010-shanghai-expo-samsung-3d-promotion/",
     "CLIENT": "SAMSUNG",
-    "DEBUT DATE": "2010.07"
+    "DEBUT DATE": "2010.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/07/14204404/SHANGHAI-EXPO-SAMSUNG-3D-PROMOTION_04-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202628/91-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202629/111-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/samsung-storm-concept-notebook-promotion/",
     "PROJECT": "SAMSUNG STORM CONCEPT NOTEBOOK PROMOTION",
     "CLIENT": "SAMSUNG",
-    "DEBUT DATE": "2010.07"
+    "DEBUT DATE": "2010.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/07/14204716/SAMSUNG-STORM-CONCEPT-NOTEBOOK-PROMOTION_05-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202715/%EC%9C%88%EB%8F%84%EC%9A%B02C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_81.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202727/%EC%9C%88%EB%8F%84%EC%9A%B02C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_101.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202741/%EC%9C%88%EB%8F%84%EC%9A%B02C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_121.png",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204402/SAMSUNG-STORM-CONCEPT-NOTEBOOK-PROMOTION_01.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204403/SAMSUNG-STORM-CONCEPT-NOTEBOOK-PROMOTION_02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%eb%a1%af%eb%8d%b0%ec%b9%a0%ec%84%b1-%ec%82%ac%ec%9d%b4%ed%8a%b8-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "PROJECT": "LOTTE CHILSUNG WEB SITE",
     "CLIENT": "LOTTE CHILSUNG",
     "TYPE": "BUSINESS",
-    "DEBUT DATE": "2010.07"
+    "DEBUT DATE": "2010.07",
+    "script1": "롯데칠성 이라고 하면 ‘칠성 사이다’ 만 알고 있는 고객에게 32개의 다양한 음료 브랜드를 가지고 있는 롯데칠성음료를 알리고 최대한 제조사의 색깔은 배제하고 각 브랜드를 최대한 노출하여 온라인에서의 마케팅 전초 기지의 역할을 담당할 수 있도록 구성하였으며, 브랜드관/상황별 맞춤 음료제공/2%등 이슈가 되었던 다양한 TVCF/음료를 이용한 이벤트 등 볼꺼리와 재미를 동시에 제공하고 있다.",
+    "script2": "사이트의 메인 컨셉은 고객의 입장에서 음료의 공통점이 물과 컵이라는 소재를 이용하여 음료의 특징을 표현하였으며, 브랜드 로고를 이용하여 물방울 안에 통일되게 표현하여 많은 브랜드를 깔끔하게 통일하였고 또한 개별 브랜드관 마다 별도의 메인을 제공하여 특징적인 브랜드 아이덴티티를 표현하였다.\n\t컨텐츠로는 상황과 장소에 맞는(TPO) 음료 추천 정보와 재미 있는 미션과 장보기 컨셉의 쇼핑카트 등 정기 이벤트를 제공하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/07/14204316/04_%EC%9B%B9_24_LOTTE-CHILSUNG-WEB-SITE_20130522-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%98%a5%ec%85%98-%ec%a4%91%ea%b3%a0%ec%9e%a5%ed%84%b0-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "PROJECT": "AUCTION 2ND HAND MARKET",
     "CLIENT": "EBAY KOREA",
     "TYPE": "WEB",
-    "DEBUT DATE": "2009.11"
+    "DEBUT DATE": "2009.11",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2009/11/14203830/20091123_%EC%98%A5%EC%85%98%EC%A4%91%EA%B3%A0%EC%9E%A5%ED%84%B0-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-%ec%83%81%ec%82%ac-%ed%99%88%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "PROJECT": "LG INTERNATIONAL",
     "CLIENT": "LG",
     "TYPE": "FINANCE/BUSINESS",
-    "DEBUT DATE": "2010.01"
+    "DEBUT DATE": "2010.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/03/14203444/W_lg%EC%83%81%EC%82%AC%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203308/LG-%EC%83%81%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B802-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203308/LG-%EC%83%81%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B803-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sc%ec%a0%9c%ec%9d%bc%ec%9d%80%ed%96%89-we%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "PROJECT": "STANDARD CHARTERED WEB SITE",
     "CLIENT": "STANDARD CHARTERED",
-    "TYPE": "FINANCE/BUSINESS"
+    "TYPE": "FINANCE/BUSINESS",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/03/14203443/W_sc%EC%A0%9C%EC%9D%BC%EC%9D%80%ED%96%89-we%EB%A6%AC%EB%89%B4%EC%96%BC-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-display-%ed%99%88%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "BUSINESS",
-    "DEBUT DATE": "2010.03"
+    "DEBUT DATE": "2010.03",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/04/14204317/04_%EC%9B%B9_22_LG-DISPALY_20130522-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203311/LG-DISPLAY-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B802.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%98%a5%ec%85%98-%eb%8f%84%ec%84%9c%eb%aa%b0/",
     "PROJECT": "SHOPPING MALL AUCTION",
     "CLIENT": "EBAY KOREA",
     "TYPE": "DISTRIBUTION/SELL",
-    "DEBUT DATE": "2010.01"
+    "DEBUT DATE": "2010.01",
+    "script1": "국내 최대 도서 오픈몰인 '옥션 도서몰'이 소비자 편의기능을 강화하여 새롭게 단장하였다.\n\t 간단한 사용자 PC 쿠키 기능을 이용한 카테고리 히스토리 기능을 구현함으로써 브라우저를 종료하였을 경우에도 마지막으로 열람된 카테고리가 활성화 되도록 제작되었고. 플래시를 지양함으로 Cross-Browser 및 Cross-Device를 완벽히 지원하며, 동일한 상품 진열 영역을 상품 노출 과 배너 게시를 동시에 운용할 수 있도록 slot 개념의 개발 적용 도입을 통해 상황별로 유연하게 대처할 수 있는 웹사이트의 모습을 보여주고 있다.\n\t 또한 기존의 오픈몰에서 보여지는 무분별한 상품 노출보다는 전략적으로 killer-contents를 최대한 부각시킬 수 있는 환경을 구성함으로써, 과도한 상품게시로 인한 시선 분산을 막고 프리미엄 영역의 의미를 새롭게 부여함으로써 Seasonal한 상품 및 issue 상품의 노출을 소비자에게 자연스럽게 강조할 수 있도록 설계되었다.\n\t '옥션 도서몰'은 이렇게 새롭게 바뀌어진 모습을 통해 소비자와 판매자를 모두 만족시킬 수 있는, 진정한 오픈몰 선두주자로서 자리를 잡을 것으로 기대된다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/02/14203423/W_%EC%98%A5%EC%85%98%EB%8F%84%EC%84%9C%EB%AA%B0-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204658/img_news_2.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-%ed%94%bc%eb%94%94%ec%95%84-2/",
     "PROJECT": "LG U PLUS PEDIA",
     "CLIENT": "LG UP PLUS",
     "TYPE": "COMMUNICATION",
-    "DEBUT DATE": "2010.05"
+    "DEBUT DATE": "2010.05",
+    "script1": "LG U PLUS PEDIA 사이트는 3사 통신사 최초로 집단지성 성격의 개방형 사이트인 위키피디아를 롤모델로 제작 된 정보 제공 사이트이다. 하지만, 일반 유저들에게 편집권한을 부여한 위키피디아와는 달리 LG U PLUS PEDIA는 LG U PLUS의 전문자료 및 지식을 업로드하고 글에 대한 편집 권한을 가진 유저(LG U PLUS pedia partner)들의 활동을 통해, 일반 유저들이게 정보를 제공하는 사이트이다. 일반 유저 즉 블로거나 온라인 활동이 활발한 파트너들의 정보로 이루어진다. 예를 들어, 서비스나 상품에 대한 소비자의 입장에서 자세한 정보 뿐만 아니라, 뉴스, 블로그, 카페 등에서의 관련 자료를 링크하여 공유함으로써 One-stop 서비스를 제공하고 있다. 이러한 서비스는 소비자의 입장에서의 정보를 전달하는 LG U PLUS PEDIA가 탈 통신을 추구하는 LG U PLUS의 기업 사상과 일치 하다고 할 수 있다.",
+    "script2": "현재 파트너들이 직접 만든 83개의 포스트와 다양한 마케팅 사이트의 허브 역할로 LG U PLUS의 서비스를 커뮤니케이션 하는데 중심에 있다. 현재 LG U PLUS PEDIA 내 온국민은yo, 옵티머스Q, canU XOXO, 프리스타일폰, 갤럭시U 등 7개의 프로모션 사이트들을 탑재하고 있으며, LG LG U PLUS PEDIA 론칭 후(2010년 5월) 약 누적PV 540만, UV 400만 명이 찾는 명실상부한 LG U+ 마케팅 사이트로 자리매김 하고 있다. 이렇게 많은 소비자들이 찾는 이유는 LG U PLUS의 서비스들을 딱딱하게 정보화 시킨 형태가 아닌 파트너들이 고객의 입장에서 직접 입력하는 “활용기”라는 정보를 통해 소비자들이 보다 쉽고, 즐겁게 커뮤니케이션 할 수 있기 때문이다. 향후 지속적인 포스트 및 프로모션 사이트 추가와 LG U PLUS직원이 언제든 원하는 서비스 및 상품을 소개 할 수 있는 프로세스를 구축하여 고객과의 실시간에 가까운 정보를 제공 할 계획이다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/06/14203435/P_lg-U-%ED%94%BC%EB%94%94%EC%95%84.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-%ec%83%9d%ed%99%9c%ea%b1%b4%ea%b0%95-%eb%9d%bc%eb%81%84%eb%b2%a0%eb%a5%b4-%ed%82%a4%ec%8a%a4-%ed%88%ac-%ec%97%b0%ec%95%84/",
     "PROJECT": "KISS TO YUNA",
     "CLIENT": "LG CARE",
     "TYPE": "COSMETICS",
-    "DEBUT DATE": "2010.02"
+    "DEBUT DATE": "2010.02",
+    "script1": "연아의 ‘본드걸 메인크업’은 바로 라끄베르.!\n\t연아의 빙판위의 열정을 라끄베르의 붉은 립스틱으로 표현하려 했다.메인에서 서브로 이동하는 인터렉션도 연아가 빙판을 미끄러져 이동하는 것을 상징화하여 제작.프로모션은 연아의 금메달을 기다리는 많은 분들의 참여로 성공적으로 진행되었다. 금메달을 예상하고 우승 이벤트까지 모두 기획 어떤 누구보다.. 떨리는 마음으로 경기를 보았다는….",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/03/14203444/W_lg%EC%83%9D%ED%99%9C%EA%B1%B4%EA%B0%95-%EB%9D%BC%EB%81%84%EB%B2%A0%EB%A5%B4-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilemr-dumb-go-down/",
     "PROJECT": "MR.DUMB GO DOWN!",
     "CLIENT": "MEGAZONE",
     "TYPE": "MOBILE APP",
-    "DEBUT DATE": "2009"
+    "DEBUT DATE": "2009",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204516/19.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204518/220.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204520/37.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-3%ec%82%ac-%ed%86%b5%ed%95%a9%ed%99%88%ed%8e%98%ec%9d%b4%ec%a7%80-%ea%b5%ac%ec%b6%95/",
+    "script1": "AWARD 2010년 WEB AWARD KOREA 기술이노베이션 부문 대상\n\t2010년 WEB AWARD KOREA 통신서비스 부문 대상\n\tKOREA DIGITAL MEDIA FESTIVAL AWARD 대상",
     "CLIENT": "LG U PLUS",
     "TYPE": "INFORMATION COMMUNICATION",
-    "DEBUT DATE": "2010.07"
+    "DEBUT DATE": "2010.07",
+    "script2": "탈통신을 지향하며 새롭게 출범한 U+의 각 대표 서비스 사이트인 LG텔레콤, 엑스피드, 데이콤을 각 서비스의 특성을 유지하면서 새로운 통합 브랜드의 아이덴티티를 적용하여 LG U+ 통합 website로 구현하였다.",
+    "script3": "각 서비스 부문의 메인 페이지에는 서비스 별 고유의 Brand Concept과 고유의 서비스, 컨텐츠를 가장 효과적으로 표현하기 위해 고객의 사용 동선을 고려한 심플한 화면 UI를 구현함과 동시에 서비스 별 Killer Content를 동일한 위치에 배열하여 고객 편의성과 마케팅적인 역량 강화 전략를 동시에 충족할 수 있도록 구성하였다.\n\t 또한 새로운 브랜드인 U+의 아이덴티티를 형상화 한 디자인 아키텍쳐를 통해 시각적 통일성 및 브랜드 인지도를 강화하였으며, 이용자의 메뉴 접근성에 대한 User Experience 분석을 통해 쉽고 편리하게 각 서비스 페이지로 자유롭게 이동할 수 있는 Map Style의 새로운 One Way Navigation UI를 통해 초기 화면에서 최고 3Depth까지 한번에 이동할 수 있는 새로운 접근 방식을 제시하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/08/14203433/W_lg-u3%EC%82%AC-%ED%86%B5%ED%95%A9%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203303/LG-U-3%EC%82%AC-%ED%86%B5%ED%95%A9%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%B6%95_%EC%83%81%EC%84%B802.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-uplus-homepage-intro/",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2010.11"
+    "DEBUT DATE": "2010.11",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202745/08-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202746/051-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202748/041-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204357/u01.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204358/u04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/o-hui-power-cell-no-1-userguide/",
+    "script1": "AWARD 2010 WEB AWARD KOREA PRODUCT PROMOTION 최우수상 수상",
     "PROJECT": "O HUI POWER CELL NO.1 USERGUIDE",
     "CLIENT": "LG CARE",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2010.09"
+    "DEBUT DATE": "2010.09",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202749/10-2.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202755/11-11-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202757/2C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_8-11.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-3dtv-cctv-cf/",
     "PROJECT": "LG 3DTV CCTV CF",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "VIDEO",
-    "DEBUT DATE": "2010.10"
+    "DEBUT DATE": "2010.10",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202758/01-2.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/coed-school-too-late-music-video/",
     "PROJECT": "'TOO LATE' M/V",
     "CLIENT": "COED SCHOOL",
-    "DEBUT DATE": "2010.09"
+    "DEBUT DATE": "2010.09",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202759/2C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_10-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204400/TOO-LATE_03.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204359/TOO-LATE_01.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202803/2C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_12-11.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202804/2C_%EC%BB%A8%ED%8A%B8%EB%A1%A4_171.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/french-cafemix-tvcf/",
     "CLIENT": "NAMYANG",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2010.12"
+    "DEBUT DATE": "2010.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202808/INDIGO01-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202821/INDIGO021-1.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202825/INDIGO031.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/cash-bee_-homepage-intro/",
-    "DEBUT DATE": "2010.12"
+    "DEBUT DATE": "2010.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202829/INDIGO-1-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202839/INDIGO-31.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202843/INDIGO-51.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-uplus-mobile-installation/",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2010.12"
+    "DEBUT DATE": "2010.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/12/14203757/lg-u-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204356/LG-U-PLUS-MOBILE-INSTALLATION.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/olympus_pen-homepage-intro/",
     "CLIENT": "OLYPUS",
-    "DEBUT DATE": "2011.01"
+    "DEBUT DATE": "2011.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202859/INDIGO-76.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202907/INDIGO-661-1.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202912/INDIGO-5555551-1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/samsung-9-series-notebook-cormmercial/",
     "CLIENT": "SAMSUNG",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.01"
+    "DEBUT DATE": "2011.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/01/14204001/main-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202920/all1-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ces-2011_samsung-3d-arena/",
     "CLIENT": "SAMSUNG",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.01"
+    "DEBUT DATE": "2011.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202924/INDIGO-4.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202929/all-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-uplus-optimus-3d-phone/",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.02"
+    "DEBUT DATE": "2011.02",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202932/INDIGO-56.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202942/Optimus3D-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/alicia-tvcf/",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.04"
+    "DEBUT DATE": "2011.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202950/INDIGO-9.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202952/021-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%8b%a0%ed%95%9c%ec%b9%b4%eb%93%9c-new-%ed%99%88%ed%8e%98%ec%9d%b4%ec%a7%80-%ea%b5%ac%ec%b6%95-%ec%bb%a8%ec%84%a4%ed%8c%85-",
+    "script1": "AWARD 2010년 Web Award Korea 서비스이노베이션 부문 대상\n\t2010년 Web Award Korea 신용카드 부문 대상\n\t2010 Internet echo Award 최고대상\n\tKorea Digital Media Festival Award 최우수상",
     "PROJECT": "SHINHAN CARD WEB SITE",
     "CLIENT": "SHINHAN CARD",
     "TYPE": "BUSINESS",
-    "DEBUT DATE": "2010.09"
+    "DEBUT DATE": "2010.09",
+    "script2": "기존 금융사이트의 보수성향을 과감히 탈피하고, 고객 지향적이고, 혁신적인 웹 사이트 개편을 통하여, 명실상부한 1등 카드사로서의 위상을 정립함으로써, 고객과 가맹점 그리고 신한카드간 상생의 연결고리를 마련하여 인간존중, 사용자 주권 강화, 상호공영, 사회공헌의 신한카드 웹사이트 4대 철학을 구현할 수 있는 미래지향적이고 Smart & Dynamic한 웹사이트 구축을 목표로 하였다.",
+    "script3": "모든 고객에게 일률적 서비스를 제공하기 보다는 고객상황 별로 최적화된 정보를 전달할 수 있는 “Smart Website”가 될 수 있도록 개인화 부문에 많은 역량을 집중하였다.\n\t국내 최초로 스마트오퍼, 머니세이버, 포인트플러스, 신상품체험단 등 인터넷 홈페이지를 활용한 기존의 카드 Business 생태계에서는 볼 수 없었던 신한카드만의 차별화된 고객 혜택형 e-Biz 전문 마케팅 플랫폼을 구축하는데 역점을 두었다.\n\t 따라서, 신한카드 홈페이지 회원이라면, 누구보다 차별적이고 다양한 Benefit을 추가로 제공받게 됨으로서, 진정한 e-생활파트너로써 자리매김할 것으로 확신한다.\n\t광범위한 컨텐츠 및 기능을 효율적으로 전달하기 위한 드러나지 않은 다양한 UI적 장치(페이퍼비젼 3D 플래쉬, 플랙스 등)을 도입하여 디자인과 고객의 이용편리성을 겸비한 웹사이트가 되도록 개편하였다. \n\tMental Model 분석으로 고객의 행동연관관계를 파악하여, 인체공학적 ‘F’자 메뉴체계로 재정비하였고, 심플하고, 직관적인 디자인을 구현하여, 핵심서비스에 대한 고객의 웹접근성을 강화하였다. \n\t이렇게 신한카드는 고객만족 경영철학을 바탕으로 한 끊임없는 노력으로 2010년에는 표준협회, 능률협회, 일본능률협회로부터 업계 최다 고객만족상(총8개)을 수상한 바 있다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/10/14204314/04_%EC%9B%B9_34_LOTTE-EBCARD_20130522-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203252/2010.09_%EC%8B%A0%ED%95%9C%EC%B9%B4%EB%93%9C021.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203253/2010.09_%EC%8B%A0%ED%95%9C%EC%B9%B4%EB%93%9C031.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lgt-sme-ict-%ed%99%88%ed%8e%98%ec%9d%b4%ec%a7%80-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "CLIENT": "LG U PLUS",
-    "TYPE": "WEB"
+    "TYPE": "WEB",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/12/14203441/W_u-ez-work.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203301/LGT-SME-ICT-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC_%EC%83%81%EC%84%B802-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sk-vixlam-%ea%b3%a8%ed%94%84-%ec%87%bc%ed%95%91%eb%aa%b0-%ea%b5%ac%ec%b6%95/",
     "TYPE": "LEISURE/SPORTS",
-    "DEBUT DATE": "2010.12"
+    "DEBUT DATE": "2010.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/12/14203435/W_sk-vixlam-golf-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-%ec%83%9d%ed%99%9c%ea%b1%b4%ea%b0%95-%ec%98%a4%ed%9c%98-%ec%85%80%ed%8c%8c%ec%9b%8c-%eb%84%98%eb%b2%84%ec%9b%90-",
     "PROJECT": "O HUI POWER CELL NO.1 USERGUIDE",
     "CLIENT": "LG CARE",
     "TYPE": "COSMETIOCS",
-    "DEBUT DATE": "2010.09"
+    "DEBUT DATE": "2010.09",
+    "script1": "LG생활건강 오휘에서 셀 파워 넘버원 에센스를 출시하여 이와 함께 온라인 캠페인을 진행하였다. 셀 파워 넘버원 에센스는 오휘만의 줄기세포 연구로 찾아낸 12가지 독자성분과 미백, 탄력 등의 기능성 에센스로 ‘세포충전’이라는 메시지를 던지고 있었으며, 이 충전의 의미는 성분적인 피부세포의 충전과 용기적인 리필 충전의 2가지로 나누어진다. 황금비율(1:1.618)로 디자인된 제품용기는 리필교체가 가능한 용기로 신선한 세포와 함께 신선한 용기도 언제든지 충전한다는 메시지를 담고 있다. 셀 파워 넘버원 에센스의 오프라인 컨셉이 세포충전(세포탐사) 중심이었다면, 온라인 컨셉은 용기충전에 포커스를 맞춰 3D쇼룸영상을 자체 제작, 제품의 성분, 디자인 및 리필 교체방법 등을 알기 쉬운 영상 형태로 전달하였다. 또한, 1,111명의 정품 체험단 이벤트와 최첨단 제품이미지를 간접적으로 전달하는 트위터 이벤트로 오휘를 대표하는 에센스 제품임을 부곽시켰다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/10/14203445/W_lg%EC%83%9D%ED%99%9C%EA%B1%B4%EA%B0%95-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-%ec%98%a8%ea%b5%ad%eb%af%bc%ec%9d%80-yo-yosuda/",
+    "script1": "AWARD 2010년 WEB AWARD KOREA SERVICE PROMOTION부문 우수상",
     "PROJECT": "YO!YOSUDASERVICE PROMOTION",
     "CLIENT": "LG U PLUS",
-    "DEBUT DATE": "2010.10"
+    "DEBUT DATE": "2010.10",
+    "script2": "LG U+의 획기적인 가족통신비 절감 요금제인 ‘온국민은yo’를 알리기 위한 온라인 프로모션 웹사이트로 제작되었다. 일방적인 정보 전달형 컨텐츠 대신 방문자가 1인칭 양방향 수다게임 시뮬레이션을 통해 요금제의 장점을 체험해 볼 수 있는 웹사이트이다. LG U+ 가족요금제 ‘온국민은yo’의 핵심 타겟층인 주부들을 대상으로 방문자가 가상 공간의 인물들과 수다를 즐기면서 쉽게 공감하고 서비스의 장점을 이해할 수 있도록 기획되었다. 세계최초 양방향 수다게임을 구현하기 위해 게임 도중 방문자가 입력 가능한 단어에 따라 다양한 경우의 수와 반응을 마련함은 물론, 방문자가 입력한 가구 통신비 비용을 통해 ‘온국민은yo’의 할인 절감액을 자연스럽게 알아볼 수 있다. 또한 게임 곳곳에 숨겨져 있는 1만원을 찾는 이벤트도 동시에 참여 가능하며 인터랙티브한 게임요소들로 인한 재미요소도 놓치지 않았다. ‘yo suda’게임은 웹사이트 오픈 후 10일만에 약 10만여 명이 참여하였고 게임 후기와 히든게임 참여 방법 등 자발적이고 다양한 온라인 컨텐츠들을 만들어 냈다. 주부들의 입장에서 일상적인 다양한 수다를 통해 ‘온국민은yo’ 서비스를 친근하게 이야기함으로써 타겟층의 큰 호응과 효과적인 브랜딩 효과까지 이룬 프로모션이다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/11/14203432/P_lg-u-yosuda.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204253/yo1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204253/yo3.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204254/yo5.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204254/yo4.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204255/yo8.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/tnfu/",
     "PROJECT": "SOORYEHAN",
     "CLIENT": "LG CARE",
     "TYPE": "COSMETICE",
-    "DEBUT DATE": "2011.01"
+    "DEBUT DATE": "2011.01",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203843/unnamed-file-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204252/3-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2010learning-servicekgu/",
     "PROJECT": "KGULEARNING SERVICE",
     "CLIENT": "KGU",
-    "DEBUT DATE": "2010~"
+    "DEBUT DATE": "2010~",
+    "script1": "– 2010년 9월 사회교육원 원격도입 관련 산학협정식\n\t– 경기대학교 사회교육원과 메가존이 산학연 협력으로 원격교육 학점인증기관 설립\n\t– 학점 은행제 관련 원격시설 도입 및  위탁운영 사업",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2010/10/14204315/04_%EC%9B%B9_27_KGU-LEARNING-SERVICE_20130522-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203945/sub-022.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/olleh-kt-4g-tvcf/",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.04"
+    "DEBUT DATE": "2011.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202954/INDIGO-45-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14202956/all-2-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/o-hui-smart-cover-sunblock-3-0-full-ver/",
     "CLIENT": "LG CARE",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.05"
+    "DEBUT DATE": "2011.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203001/INDIGO-77.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203839/SMART.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/nouveau-smartphone-android-lg-optimus-black-pub-tv/",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.05"
+    "DEBUT DATE": "2011.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203004/7-1-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203004/4-1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203005/10-1-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-optimus-3d-p920-30s/",
     "CLIENT": "LG ELECTRONICS",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.07"
+    "DEBUT DATE": "2011.07",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203006/4-2-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203006/2.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203007/3-1-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204352/LG-OPTMUS_05.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204352/LG-OPTMUS_06.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/seoul-motor-show-2011_hyundai_sonata_hybrid/",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.05"
+    "DEBUT DATE": "2011.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203010/INDIGO-65-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203012/total.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/u-4g-lte_-infographic-for-national-branch-display/",
-    "CLIENT": "LG U PLUS"
+    "script1": "Client U PLUS 4G LTE INFOGRAPHIC NATIONAL BRANCH DISPLAY",
+    "CLIENT": "LG U PLUS",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203015/INDIGO-88.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203017/total-1-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lotte-cashbee-card/",
     "PROJECT": "LOTTE EBCARD",
     "CLIENT": "LOTTE",
-    "DEBUT DATE": "2011.06"
+    "DEBUT DATE": "2011.06",
+    "script1": "‘캐시비’는 충전식 선불 교통카드 기능과 세븐 일레븐, 바이더 웨이, 롯데리아, 엔젤리너스 커피, 롯데월드 등 롯데그룹 계열사에서 충전한 금액 한도내에서 사용이 가능한 신개념 카드이다. 본 사업은 새롭게 출시되는 브랜드인 ‘캐시비’의 웹 사이트 구축 사업으로 기존 교통카드 이용 고객을 위한 학생할인카드 등록 기능, 어린이/청소년을 자녀를 두고 있는 부모 또는 성인의 소득공제 등록 기능을 기본적으로 제공한다. 또한 ‘캐시비’를 소지하신 고객들의 이용 편의성을 돕는 정보성 컨텐츠인 충전소/사용처 검색 기능, 롯데멤버스 포인트 적립률 안내 등의 정보를 종합 취득할 수 있는 사이트의 역할도 수행한다.",
+    "script2": "아울러 캐시비 그린 마일리지 개념을 도입하여 ‘대중교통 이용을 통해 환경 사랑을 행동으로 실천하는 것’이라는 긍지를 심어 줄 수 있도록 하였다. 또한, 이를 통해 ‘캐시비’ 브랜드의 가치를 향상시키는 부분에도 역점을 두어 사이트를 구축하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/06/14203439/W_lotte-ebcard-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204610/1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204611/2-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204612/3-2.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204614/4-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ea%b8%b0%ec%95%84%eb%8c%80%ec%b1%85-%eb%a6%ac%eb%89%b4%ec%96%bc/",
     "CLIENT": "KFHI",
-    "TYPE": "PUBLIC INSTITUTION"
+    "TYPE": "PUBLIC INSTITUTION",
+    "script1": "“그들과 우리 사이의 이야기 공간을 넘어 이어주는 웹사이트”\n\t1989년 국내 최초로 지원받는 NGO가 아닌 ‘지원하는 NGO’ 단체로 설립된 기아대책은 4,125명의 이사와 약 35만명의 후원회원을 보유한 원조기구입니다. 국내와 북한을 포함한 해외 82개국에서 3만여명의 어린이들의 생명을 지켜주는 단체이다. 후원자와 후원을 받아야 하는 어린이가 직접적으로 소통할 수 있는 플랫폼을 구축하기 위해 기존의 전달적인 방식을 넘어 “그들의 이야기”와 ”우리들의 이야기” 사이의 스토리적인 연관 관계를 위한 다양한 시도가 이루어졌습니다.\n\t \n| CONTENTS",
+    "script2": "\"글로벌 표준을 위한 새로운 영상 처리 플랫폼 구현”  \n\t기아대책은 우리나라만이 아닌 글로벌 단체임으로 이번 한국사이트 개편이 글로벌 표준으로까지 확장될 수 있기를 TFT는 희망하였습니다. 따라서 설계 단계부터 글로벌 영상 플랫폼인 U-Tube 및 각종 SNS 등 커뮤니케이션 도구와의 원활한 연계성을 위한 다양한 기술이 도입되었습니다. 서버에 영상을 등록하여 이를 서비스하던 기존의 영상 처리 방식을 과감히 버리고, YouTube에 등록한 영상을 사이트 전면에서 디스플레이하고 등록된 컨텐츠를 전 세계 사용자와 실시간으로 공유하고 필요 시 각 SNS매체로 연동할 수 있는 기술 도입을 통해 글로벌 매체와의 확장성을 고려하였으며, 공감돠 감동을 위한 스토리텔링 기법을 통한 <말라리아> <수자원개발>등 생생한 6개의 플래시 영상 제작을 통해 새로운 후원 콘텐츠를 개발하였습니다. \n\t  \n| DESIGN\n\t “감동과 감정을 공감하는 디자인”  \n\t보다 효과적인 원조를 위해, 감동과 감정이 살아있는 감성적인 홈페이지를 만든다는 것이 원칙이었습니다. 후원이 필요한 세계의 어린이들의 감정을 이미지로, 플래시 영상으로 강조하여 후원자 그룹의 감동을 이끌어 내는 것이야 말로 이번 작업의 가장 중요한 부분이었습니다. 즉, 콘텐츠 자체가 장조되어야만 하는 프로젝트였기에 사이트의 프레임과 T&M은 최대한 미니멀하게 만들어야 했다. White를 최대한 확장하고, 기아대책의 상징색인 Green을 point칼라로 사용하였으며, 특히 자칫 상업적이고 딱딱한 느낌을 주는 고딕보다는 명조체를 적극 활용함으로 사이트 전반적인 온기를 높이는 디자인을 시도하였습니다. 또한 단순한 컨텐츠의 나열을 넘어 사이트를 통해 어려운 이웃에 공감하는 스토리텔링을 표현할 수 있는 표현 구조를 채택하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/05/14203428/W_%EA%B8%B0%EC%95%84%EB%8C%80%EC%B1%85-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203239/%EC%83%81%EC%84%B8011-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203240/%EC%83%81%EC%84%B8021-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%9b%85%ec%a7%84%ed%8c%a8%ec%8a%a4%ec%9b%90-%ed%86%b5%ed%95%a9%ec%82%ac%ec%9d%b4%ed%8a%b8-%ea%b5%ac%ec%b6%95/",
     "CLIENT": "WOONGJIN PASSONE",
     "TYPE": "EDUCATION",
-    "DEBUT DATE": "2011.07"
+    "DEBUT DATE": "2011.07",
+    "script1": "‘웅진패스원’은 국내 대표 교육 기업인 웅진 그룹의 교육 포털 사이트로서, 공무원 등 성인 교육의 전 분야에서 수험 관련 컨텐츠를 서비스하는 국내 대표적인 성인 취업/직업 교육 전문 사이트이다. 금번 통합 오픈을 통해 다양한 수험 사이트에 대한 진정한 통합 서비스를 제시할 수 있는 교육 허브 사이트를 지향하였다.\n\t 금번 개편에서는 성인 취업/직업 교육의 선두 기업인 웅진패스원의 핵심가치인 고객과 함께 소통하고, 동행하고자 하는 의지 표현에 중점을 두었으며, “고객과 직접 소통하고 공감하는 새로운 기업 사이트의 Brand Identity확립”을 위해 기업의 일방적인 메시지 전달이 아닌 고객과 직접 소통할 수 있는 새로운 스타일의 참여형 인터랙션을 구현하다.\n\t 또한, 이용자와 웅진패스원의 메시지가 함께 어우러지면서 수험생을 응원하고, 합격의 그 날까지 고객과 함께 하겠다는 메시지를 전달하고자 하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/07/14203434/W_woongjinpassone-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204618/12-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204620/22-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204621/32-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204622/41-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ktn-ok114-%ea%b5%ac%ec%b6%95/",
     "PROJECT": "KTN OK114",
     "TYPE": "SERVICE",
-    "DEBUT DATE": "2011.06"
+    "DEBUT DATE": "2011.06",
+    "script1": "‘케이티엔(주)’은 전화번호부 제조 전문회사로써, 전화번호부 산업을 상향산업으로의 전환을 이루어낸 국내유일의 기업입니다. 당사에서 제작되는 모든 전화번호부는 실명확인으로 검증된 자료와 관공서와의 협조 및 자체조사를 진행하고 있으며, 누락된 정보를 조사하고 정확한 정보를 수록하는 등 정밀성이 뛰어난 가공 데이터를 양산하여 “생활의 지혜와 향기”라는 전화번호부를 발행하고 있습니다. 또한 기존 오프라인에서 온라인으로의 전환을 통해 좀더 다양한 접근을 시도하고 있습니다.",
+    "script2": "[개편사항]\n\t1. Site Concept\n\t‘OK114’라는 브랜딩을 통한 전화번호 전문 검색엔진 사이트 구축 및 홈페이지 빌더의 다각적 활용유도 및 노출빈도 극대화\n\t2. Layout 변경\n\t고객 접점 맞춤형 Brand Identity 확립\n\t3. Contents Categorizing\n\tMain Contents 분류: 업체정보(Enjoy, Life, Care)\n\tSub Contents 분류: 생활정보, 민원정보, 여행정보, 축제정보, 여행기",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/06/14203430/W_ktn-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203243/114_%EC%83%81%EC%84%B8021.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203243/114_%EC%83%81%EC%84%B8031-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/skt-biz-%ec%9b%8c%ed%81%ac%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/",
     "PROJECT": "SKTELECOM TBIZ POINT",
     "CLIENT": "SKTELECOM",
-    "DEBUT DATE": "2011.07"
+    "DEBUT DATE": "2011.07",
+    "script1": "SKT에서 중소기업 유무선 통합 경영지원 솔루션 Tbizpoint Workplace를 런칭하였다.Tbizpoint를 통하여 제공하는 Cloud 기반 서비스중 활용도 높은 서비스로 구성된 Tbizpoint Workplace는 메일, 일정관리, 팩스, 전자 결재, SNS 등 기업의 핵심 업무를 한번의 로그인으로 편리하게 사용할 수 있을 뿐만 아니라 CEO북스, CEO미래리포트, 법무/노무/세무 영상 등 고품질의 컨텐츠를 고객에게 제공하여 기업 경쟁력 확보를 위한 지원을 한다.\n\t 또한 기업 ERP시스템을 워크 플래이스에 통합 연동하여 기업 고유의 업무 또한 빠르고 편리하게 처리 가능하며 간단한 설정으로 고유의 자사 워크플래이스 환경 구축이 가능하므로 통합적인 업무 효율 증대를 도모하여 합리적인 가격에 고가의 그룹웨어를 대신할 수 있도록 서비스를 구축하였다",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/08/14204414/04_%EC%9B%B9_37_SKTELECOM-TBIZ-POINT_20130523-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204415/sktbiz_%EC%83%81%EC%84%B8021.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203244/sktbiz_%EC%83%81%EC%84%B8011.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ed%95%b4%ed%83%9c%ec%9d%8c%eb%a3%8c-%ec%8d%a8%eb%8b%88%ed%85%90-%ec%8a%a4%ed%8c%8c%ed%81%b4%eb%a7%81-",
+    "script1": "Award 2011year Web Award Korea Event Promotion part  grand prize",
     "PROJECT": "SUNNY10 SPARKLING",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.07"
+    "DEBUT DATE": "2011.07",
+    "script2": "써니텐은 신제품 스파클링에이드 출시에 맞춰 마이크로사이트를 오픈\n\t– Core Target : 20세 ~25세 여성\n\t– Object : 써니텐 스파클링 에이드 제품 홍보를 통한 인지도 증대\n\t– Promotion : 이번 캠페인은 브랜드 이미지 제고와 신제품 스파클링에이드 홍보를 목적으로 진행되었으며, 빅뱅을 메인 모델로 새로워진 써니텐 CM송과 댄스를 제작하여 온라인을 통해 공개 하였다.\n\t그 외 마이크로사이트에서는 ‘GD&TOP 댄스배틀’, ‘GD 보고 있나?’, ‘빅뱅 절친 인증샷’등 모델 빅뱅을 활용한 3가지 이벤트를 진행하였으며, 이외에도 스크린세이버, 월페이퍼 등 빅뱅의 다양한 컨텐츠를 제공하여 소비자들의 자발적인 컨텐츠 확산을 유도하였다.\n\t– review : 다음 초기 배너 상품을 활용한 브랜드 노출 및 이벤트 페이지 유입(2025 여성 타깃 약 2백 3십만 명 중 45.45% 인 1백여 만 명에게 광고 노출), 써니텐 스파클링에이드의 이미지 및 인지도 제고를 위해 온라인과 모바일을 통한 프로모션 진행(18만 회 사이트 방문, 6만 3천 회 이벤트 참여)",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/07/14203441/P_haitai-beverage-sunny10-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204250/unnamed-file-2.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-eri-online/",
     "CLIENT": "LG ERI",
     "TYPE": "ECONOMY INFORMATION",
-    "DEBUT DATE": "2011.04"
+    "DEBUT DATE": "2011.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/04/14204640/banner_web_lgeri-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203404/img_portfolio_151.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203405/img_portfolio_161-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011admarketinglg-care/",
     "PROJECT": "THEFACESHOP ICEBERG ADVENTURE",
     "CLIENT": "LG CARE",
     "TYPE": "COSMETICS",
-    "DEBUT DATE": "2011.05"
+    "DEBUT DATE": "2011.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/06/14204251/unnamed-file-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204251/thefaceshop.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012smart-tvmagazone/",
     "PROJECT": "SIN YOUNBOK'S GALLERY",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2011"
+    "DEBUT DATE": "2011",
+    "script1": "The Digital Gallery ‘Pungsokhwacheop’ of Korean painter Shin Yun-bok, better known by his pen name Hyewon, was designated as a national treasure no.135. It includs all 30 paintings such as <Resounding Geomungo / Praiseworthy lotus>, <Scenery on Dano day>, <Lovers under the moon>, <Nothing happens in the gibang chamber>, <Whiling away the hours at a cheongru>, etc.",
+    "script2": "The application is being serviced through Samsung Apps amongst 136 countries worldwide.",
+    "script3": "This is the first gallery which is applied homegrown solution by MEGAZONE, it has been subsequently published in Smart TV, Smart Phone, Tablet PC and a variety of devices.",
+    "script4": "Service Language : Korean, English\n\tService Platform : Samsung SMART TV, Apple iOS",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/05/14204056/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204058/24.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204100/42.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204102/51.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011smart-tvmegazone/",
     "PROJECT": "JUMPING!JUMPING!",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2011.05"
+    "DEBUT DATE": "2011.05",
+    "script1": "It is an educational application for children ages from 5 to 12. The animals will jump in random order while player must remember the order and click the right animals. You can train your memory by playing this game. Higher stages will have more jumps and animals to make it harder.",
+    "script2": "This game is being serviced through Samsung Apps amongst 136 countries worldwide starting from Korea since August 2011.",
+    "script3": "The application was strategically designed from its planning stage to support ‘One Source, Multi Device’. The game app was released in subsequent order for Smart TV, Smart Phone, Tablet PC and variety of devices.\n\t– Service Language : Korean, English\n\t– Service Platform : Samsung SMART TV, Apple iOS",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/07/14204029/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204031/2.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204032/3.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204034/4.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204036/5.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012smart-tvmegazone/",
     "PROJECT": "ABC PUZZLE",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2011"
+    "DEBUT DATE": "2011",
+    "script1": "The ABC Puzzle was designed for Education purpose, by combining spelling presented in an image. The game requires concentration and speed to win points. \n\t The application is being serviced since October 2011 through Samsung Apps amongst 136 countries worldwide.",
+    "script2": "The application was strategically designed from its planning stage to support ‘One Source, Multi Device’. The game app was released in subsequent order for Smart TV, Smart Phone, Tablet PC and variety of devices. \n\t– Service Language : English\n\t– Service Platform : Samsung SMART TV, Apple iOS",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/06/14204049/12.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204051/23.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204052/33.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204054/41.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationmegazone/",
     "PROJECT": "PILING 2012",
     "CLIENT": "MEGAZONE",
     "TYPE": "CYWORLDAPP",
-    "DEBUT DATE": "2011"
+    "DEBUT DATE": "2011",
+    "script1": "Piling 2012 is a social game that well puts together the impact of sports and action games by highlighting comic animation and personality of each character. This game brings you in your childhood since it is based on the subject that you might enjoy more than once with your schoolmate.",
+    "script2": "Four characters play as one team while 2 different teams compete each other by taking turns in offense and defense. Those who keep team gauge longer will win the game. The game was launched in Cyworld App store.",
+    "script3": "Main System : Offense and defense system, Character(team management) system, Ability system, Item system, Level system, Tournament system, etc.\n\t– Service Language : Korean\n\t– Service Platform : Cyworld AppStore",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/07/14204526/12.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204528/221.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204530/38.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationms-bi-center-looking-glass/",
     "CLIENT": "MICROSOFT",
-    "PROJECT": "MS BI CENTER LOOKING GLASS"
+    "PROJECT": "MS BI CENTER LOOKING GLASS",
+    "script1": "DESCRIPTION  MICROSOFT Microsoft BI SOLUTION를 이용하여 진행되는 프로모션 현황 모니터링 서비스",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/04/14204718/01-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204720/0210.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204722/036.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/2011webdaishin/"
+    "link": "https://www.mz.co.kr/portfolio-items/2011webdaishin/",
+    "script1": "대신증권에서 은행제휴 투자자들을 위한 신규브랜드 CREON (Creative + Online)을 런칭하였다.\n\t CREON은 창조적인 서비스 제공을 통해 투자자의 온라인 파트너로 선택 받고자 하는 의지를 담은 브랜드로서, 대신증권의 이미지를 탈피하여 CREON 서비스만의 특장점을 전달하고자 노력하였다. 감성적인 접근을 통한 메인 디자인 및 고객 중심의 컨텐츠 구성을 위해 노력하였다. 또한 신규 브랜드 런칭에 맞춰 홈페이지뿐 만이 아니라 CREON 고객만을 위한 HTS (Home Trading System)도 기존 시스템과 다른 컬러를 도입하여 차별화를 두었으며, 주요 화면 디자인 개선 및 로그인, 바탕화면, 크레온데스크 등의 신규 서비스를 구축하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204659/img_news_7.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%95%84%ec%82%ac%ec%9d%b4-%ec%a2%8b%ec%9d%80-%eb%a7%a5%ec%a3%bc%ec%9d%98-%ed%99%95%ec%8b%a4%ed%95%9c-%ec%a6%9d%ea%b1%b0-",
+    "script1": "Award 2011년 Web Award Korea Mobilewed brand/Marketing부분 최우수상",
     "PROJECT": "ASLOTTE LIQUOR ASAHI",
     "CLIENT": "LOTTE LIQUOR",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.09"
+    "DEBUT DATE": "2011.09",
+    "script2": "엔젤링을 만들어서 찍어올리는 UCC 이벤트는 홈페이지와 페이스북으로 사진을 같이 올릴수 있도록 구현, SNS를 연계한 프로모션으로 신규 런칭한 아사히 페이스북과 트위터로 유입을 연결 하여 홍보 활동을 펼침.\n\t 오프라인과 연계한 프로모션으로는 아사히 매장내 테이블텐트와 쉬트에 디자인 QR 을 배포하여 오프라인에서 모바일 접속시 실시간 추첨 프로모션을 진행하여 9월런칭 후 현재 10만명 유저들의 참여가 이어지고 있다.",
+    "script3": "아사히의 프리미엄이미지와 남자의 블랙슈트를 연상하게 하는 블랙의 컬러와 맥주의 골드오렌지 색상과 포인트로 레드 컬러를 적절히 잘 사용하여 모바일의 한정된 사이즈내에서 임팩트있고 주목도 있게 표현하였다. \n\t 특히 제품소개와 프로모션 부분을 명확하게 컬러를 차별하게 메뉴바에 적용하여 사용자로 하여금 직관적인 표현하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/09/14203440/P_asahi-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204245/%EC%95%84%EC%82%AC%EC%9D%B4.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%e8%84%ab-%ed%83%88-asian-cross-road/",
-    "PROJECT": "\u812b TAL, Asian Cross Road",
+    "PROJECT": "脫 TAL, Asian Cross Road",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.10"
+    "DEBUT DATE": "2011.10",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203018/Tal_018.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203019/Tal_006-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203020/Tal_016.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204350/TAL01.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204351/TAL06.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-uplus-theater-advertising-seoul-ver-a/",
     "PROJECT": "LG U PLUS THEATER ADVERTISING SEOUL VER A",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2011.12"
+    "DEBUT DATE": "2011.12",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203021/tistory_com_20120215_143644.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204349/theater-advertising_02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203021/tistory_com_20120215_143724.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203022/tistory_com_20120215_143812-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/hyundai-2013-santafe-unveiling-movie/",
     "PROJECT": "HYUNDAI 2013 SANTAFE UNVEILING MOVIE",
     "TYPE": "VIDEO",
-    "DEBUT DATE": "2012.04"
+    "DEBUT DATE": "2012.04",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/04/14204000/main.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204348/HYUNDAI2013_07.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204348/HYUNDAI2013_06.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204347/HYUNDAI2013_01.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203023/6-2-1.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203024/5-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ugalaxy-s3-web-promotion-intro/",
     "PROJECT": "LG U PLUS GALAXY S3 PROMOTION INTRO",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203024/03-3.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203025/01-1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203026/05-1-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/google-enterprise-atmosphere-on-tour-2012-korea/",
-    "PROJECT": "GOOGLE ENTERPRISE ATMOSPHERE ON TOUR 2012, KOREA",
+    "script1": "PROJECT GOOGLE ENTERPRISE ATMOSPHERE ON TOUR 2012, KOREA",
     "CLIENT": "GALA LAB",
     "TYPE": "VIDEO",
-    "DEBUT DATE": "2012.05"
+    "DEBUT DATE": "2012.05",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203028/ebi_google_pre_012.mov_20121008_110116.311.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203029/ebi_google_pre_012.mov_20121008_105614.652-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203029/ebi_google_pre_012.mov_20121008_105730.999.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204346/google07.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lotteconf-moblie/",
     "PROJECT": "LOTTECONF MOBILE",
     "CLIENT": "LOTTECONF",
     "TYPE": "DISTRIBUTION/SELL",
-    "DEBUT DATE": "2012.01"
+    "DEBUT DATE": "2012.01",
+    "script1": "‘롯데제과’는 국내 대표 기업인 롯데 그룹의 모기업으로서 식품업계를 대표하는 기업입니다. 금번 프로젝트는 “Responsive Web Design” 반응형 웹이라는 기술을 도입하여 PC를 제외한 모든 device에 최적화된 롯데제과만의 서비스를 제공하는 동시에 영업사원들이 언제 어디에서든 제품 홍보를 할 수 있도록 구축되었습니다. 웹사이트 관리자와의 연계를 통해 별도의 관리 프로그램 없이 운영이 가능하도록 구축되었습니다.",
+    "script2": "디자인 측면에서 보면 롯데제과의 포인트 컬러를 유지하면서 쉽고 편한 레이아웃, 직관적인 아이콘으로 친근하고 단순한 look&feel을 표현하였습니다. 모바일의 특성상 화려한 디자인 요소를 표현하기보다는 정보전달의 기능적인 측면을 강조하였습니다.  원하는 컨텐츠를 가장 단순하고 보기 쉽게 찾을 수 있도록 확장된 네비게이션으로 표현하였으며 운영 시 리스트를 최대한으로 줄이기 위해 최적화된 디자인 패턴으로 구성하려고 많은 노력을 했습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/02/14204128/11.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204131/210.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204134/34.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-system-total-project/",
     "TYPE": "INFORMATION AND COMMUNICATIONS",
-    "DEBUT DATE": "2012.01"
+    "DEBUT DATE": "2012.01",
+    "script1": "LG U+는 고객 서비스 경험 개선과 온라인 판매 채널로써의 경쟁력 확보를 위하여 서비스 별로 운영되고 있던 기존의 33개 대외 홈페이지들을 통합한 LG U+ 통합홈페이지를 구축하였다. 국내 통신업계 최초로 ‘One Source, Multi User’ 방식을 도입하여, 하나의 Source로 PC 뿐 아니라, 모든 스마트폰, 태블릿 PC 등 다양한 플랫폼과 디바이스에서도 웹 페이지와 동일한 사용 환경을 고객에게 제공할 수 있도록 개발된 LG U+ 통합홈페이지는 Connected Your Real Life, LG U+라는 브랜드 이미지를 가지고, 서비스의 사용을 Smart한 기능과 Simple한 디자인 요소가 어우러져 유비쿼터스 시대에 맞는 Mobility한 사용성과 Attractive한 감동을 고객과 공감할 수 있도록 하였다.",
+    "script2": "또한, 사용자의 사용 정보 및 UX적 이용 패턴을 분석하고 이를 바탕으로 고객의 목적에 부합하는 유용한 서비스를 제공하는 RBMS 서비스, 간편하고 효율적인 사이버상담(ERMS) 솔루션을 적용한 고객상담서비스(eCRM)를 통해서 기업에게는 다양한 마케팅 채널을 제공하고 동시에 고객 만족도를 높일 수 있도록 개발되었다.\n\tLG U+ 통합홈페이지는 고객과 더욱 가까워지려는 LG U+의 의지를 충실히 반영하여 불필요하고 장식적인 요소를 최대한 자제하고, 이용 고객에게 꼭 필요한 정보를 분석하여 재구성함으로써, 단순히 서비스들의 통합이 아닌 고객의 목적에 따른 최적화된 정보를 다양한 매체에서 아무런 제약 없이 이용할 수 있게 하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/02/14204422/04_%EC%9B%B9_38_LG-U-PLUS-WEB-SITE_20130523.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204615/11-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204616/21-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204617/31-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lotte-shopping-mobile/",
     "PROJECT": "LOTTE SHOPPING MALL",
     "TYPE": "DISTRIBUTION/SELL",
-    "DEBUT DATE": "2012.01"
+    "DEBUT DATE": "2012.01",
+    "script1": "롯데쇼핑 모바일 웹페이지 서비스는 명절날 선물을 수령받는 사람들에게 모바일 SMS를 이용하여 수령받을 상품의 이미지와 상세정보를 제공하여, 고객만족도를 높이고자 함에 있습니다. 상품을 수령받을 사람에게 SMS를 통해서 상품의 이미지와 정보들을 제공함으로써, 고객이 상품에 대한 만족도를 높이고, 아울러, 이를 통해서 롯데쇼핑의 서비스 이미지를 높이는 효과를 갖게될 것입니다.",
+    "script2": "본 서비스는 단순히 편의성을 제공하는 것이 아니라, 설날이나 한가위와 같은 명절에 선물을 주는 사람과 받는 사람 모두의 마음을 고려한 세심한 배려가 담겨진 서비스가 아닐까 합니다. 이러한 특성을 고려하여, 화려한 디자인 보다는 모바일의 특성인 정보전달의 측면을 더 고려하였습니다. 상품에 대한 이미지와 정보를 한눈에 보기 쉽도록 고려하였으며, 유사한 펴턴으로 보다 쉽게 정보를 얻을 수 있도록 노력하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/02/14204126/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204552/225.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204555/312.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-4g-lte/",
     "PROJECT": "LG U PLUS WEB SITE",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.10"
+    "DEBUT DATE": "2011.10",
+    "script1": "\"최강의 네트워크가 최강의 디바이스를 만나 최고의 서비스를 제공\" 한다는 LG U+ LTE 서비스의 목표를 웹사이트에서도 속도가 능력이라는 컨셉과 브랜드 아이덴티티를 적용하여 구현한 웹사이트이다.\n\t전체적인 정보구조로는 LG U+ LTE를 소개하는 상단 영역, LTE 핸드폰 및 디바이스를 소개하는 우측 영역, LG U+ LTE만의 서비스를 소개하는 좌측 영역, 그리고 프로모션을 안내하는 하단 영역 등 총 4개의 영역으로 구성되어 있다.\n\t웹사이트 접속후 첫 모션부터 절제된 모션 효과를 통해 U+ LTE 서비스의 빠른 속도를 직•간접적으로 체험 할 수 있도록 최적화하여 구현하였다. \n\t 또한 각 메뉴별로 페이스북, 트위터등 SNS API를 통한 연동을 구현하여 사용자들이 스스로 U+ LTE 서비스에 대한 정보를 공유할 수 있도록 장치를 구현하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/10/14203446/W_lg-U-4G-lte.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%eb%8d%94%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%83%b5-%eb%85%b8%eb%9e%80%eb%9d%a0%ec%9d%98-%eb%a7%88%eb%b2%95/",
+    "script1": "AWARD 2011년  Web Award Korea Cosmetics Promotion부문 우수상",
     "PROJECT": "THEFACESHOP",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.10"
+    "DEBUT DATE": "2011.10",
+    "script2": "보다 영한 타겟에게 노란띠를 알리기위해 진행된 이번 캠페인은 기존 모델인 김현중과 함께 소녀시대 서현을 커플로 등장시켜 노란띠 제품을 보다 감성적으로 어필하는데 주력하였다.\n\t제품 중심의 메시지 전달에서 과감히 탈피한 이번 캠페인은 도심속에서 노란띠의 마법으로 자연스럽게 만나는 두사람의 드라마틱한 상황을 인트로를 통해 노출하고, 사이트 전반에 걸쳐 상징적인 노란띠의 메타포를 활용하여 제품의 이미지를 전달하였다.\n\t 온오프라인이 동시에 진행된 이번 캠페인은 소원을 적으면 이루어지는 옐로우 위시 트리 이벤트를 온오프라인에서 동시에 진행, 소비자에게 일관된 메시지를 전달하였다.\n\t온라인에서는 김현중과 서현의 노란띠 러브 스토리를 시각적으로 보여주는 영상 프로모션을 진행하여, 프로모션에 참여한 소비자들은 그들과 함께 노란띠의 설렘을 간접 체험할 수 있었다.\n\t이번 노란띠 캠페인에서 가장 주목할 만한 부분은 젋은 타겟을 겨냥한 뉴미디어와의 접목이다.\n\t 온라인에서는 SNS(페이스북, 트위터, 미투데이)를 연계하여 소비자가 자신이 이용하는 SNS을 통해 소통 할 수 있게 하였으며, 모바일에서는 김현중과 서현의 커플송을 공개하여 소비자들의 뜨거운 반응을 이끌어 냈다.\n\t 노란띠 캠페인은 온라인의 주요 포털과 제품의 주 고객층인 여성타겟의 커뮤니티를 통해 홍보하였고 모바일 광고를 통해 모바일 사이트로 유입을 이끌어 냈다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/10/14203438/W_thefaceshop-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203249/%EB%A7%88%EB%B2%95_%EC%83%81%EC%84%B8021.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/%ec%a1%b4%ec%8a%a8%ec%a6%88-%eb%b2%a0%ec%9d%b4%eb%b9%84-%ec%88%98%eb%94%a9%eb%82%b4%ec%b6%94%eb%9f%b4-2%ec%b0%a8-",
+    "script1": "AWARD 2011년 Web Award Korea Cosmetics Promotion 부문 우수상",
     "PROJECT": "JOHNSONSBABY PROMOTION",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2011.11"
+    "DEBUT DATE": "2011.11",
+    "script2": "Baby Skincare 대표 브랜드 존슨즈 베이비에서 건조한 아기 피부를 위해 launching한 baby premium product \"수딩 내추럴\"을 타겟에게 효과적으로 알리기 위해 제작 되었다.",
+    "script3": "– Core Target : 0~36개월의 아기를 둔 mom.\n\t– Key message : 지난 1차 캠페인에서 \"건조한 아기 피부\"에 좋다는 message로 소비자에게 접근하였다면,이번 2차 캠페인 <수딩내추럴 두근두근 7일의 7가지 변화>는 \"유난히 건조한 아기 피부 7 부위\"를 key message로 잡아 mom target에게 강하게 어필하고자 함\n\t– Promotion : Mom target에게 수딩 내추럴을 효과적으로 빠르게 객관적으로 알리기 위해서는 온라인 WOM activity가 중요함. 그리하여 <100인의 체험단>을 진행하기로 하였고, 매주 25명씩 4주간 릴레이 형식으로 체험후기가 업로드 될 예정, 7일동안 매일 미션에 따라 블로그에 포스팅을 하도록 하여, 수딩 내추럴을 꾸준히 사용할 수 있게 하였다. 수딩 내추럴의 효능을 소비자가 직접 체험하여야 온라인 WOM activity가 성공적으로 이루어질 수 있기에 7일간의 미션을 부여(수딩 내추럴이 100인의 체험단에게 주는 benefit)\n\t 1) 체험 제품 및 단계별 경품 증정하여, 체험단 운영이 잘 돌아갈 수 있도록 함. \n\t 2) TV CF 모델의 기회도 주어짐. \n\t 3) 유난히 건조한 아기 피부 7부위에 좀 더 신경을 쓰고 케어를 할 수 있음. \n\t– Creative Design : 유난히 건조한 아기 피부 7부위와 100인의 체험단이 되면 받게 되는 benefit를 직관적으로 전달하기 위하여, 1차 체험단의 후기 및 1차 TV CF 모델을 활용하여 페이지를 구성하였으며, mom target이 쉽게 우리의 message를 명확하게 이해할 수 있도록 제작되었다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2011/11/14203437/W_johnsonsbaby_soothing-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204219/%EB%82%B4%EC%B6%94%EB%9F%B4.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/2013application/"
+    "link": "https://www.mz.co.kr/portfolio-items/2013application/",
+    "script1": "A lot of people say KoAlarm is very simple application. And they say it is easier to use, and making use KoAlarm more often. You can register an alarm and turn it on/off with just few touches, also it provides presets for more convinient use. In addition, uniformly arranged layout is designed to comfort the user's heart.",
+    "script2": "Features\n\t– Easy alarm, change to timer mode.\n\t– provides presets for commonly used timers.\n\t– Adding new alarm/timer, turning them on/off, easy to edit.\n\t– beautiful design",
+    "script3": "What's Next\n\tWe cannot be destructive to the concept of KoAlarm that is to be \"Convinient\" by adding unnecessary features.\n\tAt least for now. But if you have easier manipulations or better ideas please let us know.\n\tThey can be new topics for the next weekly meeting. But you do not have worry. We are already working on improving the source codes as well as keeping up with the new Windows.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/10/14204112/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204602/227.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204604/314.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012webcoex/",
     "PROJECT": "CYBERCOEXWEB MANAGE",
     "CLIENT": "COEX",
     "TYPE": "WEB SHOPPING MALLMANAGE",
-    "DEBUT DATE": "2012"
+    "DEBUT DATE": "2012",
+    "script1": "– 전시회의 사이버화를 통해 중소기업 활성화의 목적성을 지향\n\t– 판매전용 상품과 전시전용 상품으로 노출이 가능 (판매 및 전시 기능)\n\t– 오프라인 전시회 및 코엑스몰과 연계로 고객 편의성 증대",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/05/14203932/main_780.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203935/sub-021.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012smart-tvmegazone-2/",
     "PROJECT": "PUMPKIN TOWER",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2011"
+    "DEBUT DATE": "2011",
+    "script1": "A seasonal game for Holloween for Smart TVs. Players must pile up pumpkins being dropped by a wicked witch.\n\t The game was lunched since October 2011 through Samsung Apps amongst 136 countries worldwide.\n\t– Service Language : English\n\t– Service Platform : Samsung SMART TV",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/06/14204043/11.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204045/22.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204047/32.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012smart-tvmegazone-3/",
     "PROJECT": "CHRISTMAS TOWER",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2011"
+    "DEBUT DATE": "2011",
+    "script1": "A seasonal game for Christmas for Smart TVs. Players must pile up gifts being dropped by a santa.\n\t The game was lunched since December 2011 through Samsung Apps amongst 136 countries worldwide.\n\t– Service Language : English\n\t– Service Platform : Samsung SMART TV",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/06/14204038/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204040/21.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204042/31.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012smart-tvmegazone-4/",
     "PROJECT": "TRAFFIC LIGHT RACING",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2013"
+    "DEBUT DATE": "2013",
+    "script1": "신호등 레이싱은 5-12세의 아동에게 안전 운전의 중요성을 가르치는 교육용 게임입니다. 신호등을 무시하거나, 교통법규를 위반하게 되면 곰돌이 경찰이 점수를 빼앗고, 안전운전을 교육합니다. 신호등 레이싱을 플레이하는 아동은 신호등과 교통법규 준수의 중요성을 인식하게 됩니다.",
+    "script2": "– Service Language : Korean\n\t– Service Platform : Samsung SMART TV",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204104/1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204106/25.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011mobilelotte/",
     "CLIENT": "LOTTE WORLD",
     "TYPE": "MOBILE",
-    "DEBUT DATE": "2011.10"
+    "DEBUT DATE": "2011.10",
+    "script1": "롯데월드 어트랙션 정보안내 및 국내 최초 멀티UI 솔루션을 납품하였습니다. 롯데월드내 각 어트랙션별 대기시간 조회 및 예약기능 연동을 가능 하게 하였으며 화면의 메인 UI를 시즌별, 테마별로 사용자의 요구에 따라 변경할 수 있는 맞춤형 UI 지원하고 있습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204207/15.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204557/226.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204559/313.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilelotte-chilsung/",
     "PROJECT": "LOTTE CHILSUNGMOBILE",
     "TYPE": "MOBILE WEB",
-    "DEBUT DATE": "2012"
+    "DEBUT DATE": "2012",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204502/016.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204503/026.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204506/033.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2011webkyowonlife/",
-    "PROJECT": "\uad50\uc6d0\ub77c\uc774\ud504 \ud648\ud398\uc774\uc9c0 \uc2e0\uaddc \uad6c\ucd95",
+    "PROJECT": "교원라이프 홈페이지 신규 구축",
     "CLIENT": "KYOWONLIFE",
-    "TYPE": "WEB"
+    "TYPE": "WEB",
+    "script1": "‘물망초’는 빨간펜, 구몬학습, 웰스정수기로 유명한 교원그룹의 상조 서비스 브랜드로서, 믿을 수 있는 기업에서 시작한 상조 서비스인 만큼 향후 발전 가능성이 기대되고 있다.\n\t ‘물망초’의 홈페이지는 브랜드의 아이덴티티를 표현하고자 한 다양한 고민의 흔적이 나타나고 있다. 메인 칼라를 활용한 디자인이나, ‘물망초’의 가치를 나타내고자 곳곳에 배치한 다양한 컨텐츠가 그 흔적이다.\n\t 또한 고객의 선택을 돕고자 개발된 ‘사이버견적’은 다른 홈페이지와는 차별화된 요소들을 보이고 있으며, 장례정보, 장례절차 가상체험 등의 컨텐츠는 고객들에게 다양한 정보를 제공하고 있다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204704/unnamed-file-3.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204707/01-3.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204710/02-3.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204713/03-3.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/ulte-library-of-dreams-campaign/",
     "PROJECT": "LG U PLUS LTE LIBRARY OF DREAMS CAMPAIGN",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203026/001.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204345/LG-U-PLUS-LTE02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203027/004.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203027/006.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/cheonggyefarm/",
     "PROJECT": "CHEONGGYEFARM",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/06/14204339/cheonggye01.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204338/cheonggye05.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204341/cheonggye02.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204342/cheonggye03.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204343/cheonggye04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/hangame-hangang/",
     "PROJECT": "HANGAME HANGANG",
     "CLIENT": "HANGAME",
     "TYPE": "VIDEO",
-    "DEBUT DATE": "2012.08"
+    "DEBUT DATE": "2012.08",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/08/14204337/hangame01.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203032/Hangame_hangang_Story2_980x360_0809.mov_20121008_111314.774-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203032/Hangame_hangang_Story2_980x360_0809.mov_20121008_111326.505.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/lg-u-volte/",
     "PROJECT": "LG U PLUS VOLTE",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2012.09"
+    "DEBUT DATE": "2012.09",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204229/volte011.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204236/volte022.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204237/volte032.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204237/volte042.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204238/volte052.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204244/volte06.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/verisign-hashlink/",
     "PROJECT": "VERISIGNHASHLINK",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2012.09"
+    "DEBUT DATE": "2012.09",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203035/verisign_700.mov_20121008_111902.843.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203035/verisign_700.mov_20121008_111948.224.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203036/verisign_700.mov_20121008_111842.064-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204336/verisign07.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/nescafe-story/",
     "PROJECT": "NESCAFE STORY",
     "CLIENT": "NESCAFE",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2012.10"
+    "DEBUT DATE": "2012.10",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203036/1-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203037/5-2-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203038/7-3.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/pepero_app-promotion/",
     "PROJECT": "PEPERO APP PROMOTION",
     "CLIENT": "LOTTE",
     "TYPE": "PROMOTION",
-    "DEBUT DATE": "2012.11"
+    "DEBUT DATE": "2012.11",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/11/14204715/PEPERO-APP-PROMOTION03.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203038/pepero_1121_h264.MOV_20121122_150127.200-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203039/pepero_1121_h264.MOV_20121122_150147.2151.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204332/PEPERO-APP-PROMOTION01.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204333/PEPERO-APP-PROMOTION02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012-prugo-valley-prugio-view-shooting/",
     "PROJECT": "DAEWOOPRUGO VALLEY(SHOOTION)",
     "TYPE": "AD&MARKETING",
-    "DEBUT DATE": "2012.11"
+    "DEBUT DATE": "2012.11",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203042/INDIGO-545-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203043/prugio_1120.mov_20130114_132239.931-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203043/prugio_1120.mov_20130114_132328.931.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203044/prugio_1120.mov_20130114_132404.718.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204330/04-1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/gs-global/",
     "PROJECT": "GS GLOBAL WEB SITE",
     "CLIENT": "GS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "script1": "GS글로벌은 전세계로부터 유입되는 다양한 잠재 고객과의 비즈니스 연계를 강화하기 위하여 기존의 노후된 시스템과 홈페이지를 개편하여 심미적, 기능적으로 최신의 트랜드를 반영한 홈페이지로 리뉴얼 할 필요성이 있었습니다. 비즈니스적으로 GS글로벌은 최고의 인재를 바탕으로 글로벌 네트워크를 지속적으로 확장하고 있으며 경쟁력있는 사업을 지속적으로 발굴 및 확장하고 있는 회사로 비즈니스 성격상 다양한 국가와 통신 환경에서 GS글로벌의 사이트를 방문하는 고객들을 위하여 홈페이지를구성할 니즈가 있었습니다.",
+    "script2": "메가존에서는 GS그룹과의 연속적인 아이덴티티를 유지하면서도 GS글로벌만의 유니크한스타일을 창조하기 위하여 우선적으로 주목하였던 것이 화려하면서도 유연한 느낌을 강조한 GS그룹이 공통적으로사용하는 CI이였으며, 이를 바탕으로 컬러 톤과 디자인적인요소로 활용하기로 하였습니다. 따라서 GS글로벌의 CI의 색상을 분해 및 재구성하여 사이트상에 시각적인 즐거움을 줄 수 있는 요소로 반영하였으며 이로 인하여 산뜻하면서도 통일 된 GS그룹의 아이덴티티를 유지할 수 있게 되었습니다. 또한 비즈니스 성격상 중요한 요소인 글로벌 네트워크경쟁력을 표현하기 위하여 지도인터렉션을 적극 활용하여 전세계에 폭넓게 진출한 GS글로벌의 활동영역을한눈에 쉽게 파악할 수 있는 비주얼적 효과를 얻도록 하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/06/14204313/04_%EC%9B%B9_40_GS-GLOBAL-WEB-SITE_20130522.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204623/01-3.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204624/02-3.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204626/03-3.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204628/04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/everstudy/",
     "PROJECT": "EVERSTUDY WEB SITE",
     "CLIENT": "EVERSTUDY",
     "TYPE": "WEB",
-    "DEBUT DATE": "2012.07"
+    "DEBUT DATE": "2012.07",
+    "script1": "“지식의 공유, 세대간소통을 통한 따뜻한 지식 공동체”를 기업이념으로 한 에버스터디㈜가 대한민국 모든 학생들에게 학습과 생활 등 모든 부분에서 최고의 멘토링과 커뮤니케이션을제공하고자 everstudy 홈페이지를 오픈하였습니다.",
+    "script2": "everstudy 홈페이지는 “따뜻한 지식 공동체”의 형성을 위하여 불필요한 요소를 최대한 배제하고, 사용자에게꼭 필요한 정보를 분석하여 재구성함으로써 단순히 서비스의 제공이 아닌 사용자의 목적에 따른 최적화된 정보를 다양한 매체에서 아무런 제약 없이 이용할 수 있게 하였습니다.",
+    "script3": "SNS 선두주자 페이스북을 벤치마킹하여 미리보기, 더보기기능으로 콘텐츠의 종류, 질적 수준을 한 눈에 볼 수 있습니다. 딱딱한 게시물 형태가 아닌 멘티들의 짧은 질문글과 멘토들의 답변으로 대화형식으로 멘토링이 가능한 UI입니다. 언제든 검색어를 입력하면 원하는 정보를 찾을 수있으며 1:1 질문이 가능하여 복잡한 검색과정과 필터링 작업을 단축할 수 있도록 하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/07/14203427/everstudy.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203832/01-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203834/02-2.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204323/04_%EC%9B%B9_41_EVERSTUDY-WEB-SITE_%EC%83%81%EC%84%B8_20130522.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/sonykorea-bp-website-renewal/",
     "PROJECT": "SONYKOREA WEB SITE",
     "TYPE": "WEB",
-    "DEBUT DATE": "2012.10"
+    "DEBUT DATE": "2012.10",
+    "script1": "소니 코리아 B&P사이트는 글로벌 코포레이션인 소니의 한국 사이트이다. 소니코리아에서는 전세계 공통으로 유통 판매되고있으며 전문가 제품 라인인 카메라, 캠코터등을 효과적으로 소개 할 수 있는 사이트 구축에 대한 니즈가 있었다. 그래서 전문가용 제품과 방송 프로페셔널용 하이엔드의 제품 정보과 함께 다양한 지원 정보까지 한 곳에서 확인 지원받을 수 있는 사이트로 제작했다.",
+    "script2": "소니의 제품 자체가 가지는 매력적인 디자인을 사이트전반에 적극 활용하여 전문가 제품라인을 소니의 아이덴티티를 활용하면서도 더욱 세련된 웹디자인으로 표현했다. 보다 편리하게 이용할 수 있도록 심플하고 단순한 IA구조로 개편되었으며, 제품특성을 반영하여 전문가를 위한 세련되고 깔끔한 제품 이미지를 중심으로 디자인을 변경했다. ﻿특히 소니의 많은 제품들을 방문자의 입장에 맞추어 찾아 볼 수 있도록 고려한 메뉴구조를 가지고 있으며 하나의 제품 페이지를 통하여 사이트 곳곳에 준비되어 있는 관련 정보를 한눈에 모아 볼 수 있게 되어있다. 뉴스등의 게시판을 통하여서도 관련 된 제품을 바로 찾아갈 수 있도록 설계되어 있어 방문자에게 편리함을 제공한다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203412/banner_web_sony-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203447/110123.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203448/110223-1.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/2012application7days/"
+    "link": "https://www.mz.co.kr/portfolio-items/2012application7days/",
+    "script1": "Do you remember what things you did last holiday? What kinds of methods do you use for keeping records for what you have experienced?\n\tOnce you input simple text content and add pictures, 7Days will arrange your story of a week neat and tidy.\n\tYou can use 7Days as simple memo, diary, or photo album generally. People, who live no weekends like few of my collegues, can use 7Days as the minutes of meetings or work scheduler.",
+    "script2": "Features\n\t– History of a week that is displayed on the same screen.\n\t– Set a special day in the week.\n\t– Easy to change dates with calendar.\n\t– Friendly guide screen.",
+    "script3": "What's Next\n\tYou get to take pictures of precious moments that you want to keep the momories with your cell phone. We are considering making '7Days' for Windows Phone 8. Also, we are considering of connecting to other devices via SkyDrive, and if it happens, 'Record with your cell phone and watch them with your tablet' scenario will be completed. (looks very familiar?)",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/07/14204726/13.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204732/229.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204734/316.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012social-commerceahnlab/",
     "PROJECT": "AHNLAB MALL WEBSITE MANAGE",
     "TYPE": "WEBSITE DEVELOPMENT, WEBSITE MANAGE",
-    "DEBUT DATE": "2012.08~"
+    "DEBUT DATE": "2012.08~",
+    "script1": "보안제품 외, 일반 상품 판매를 위한 UI 개선\n\t일반 상품 판매에 최적화된 관리자시스템 개선",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/08/14203922/main_780.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203927/sub01.jpg"
 }, {
-    "link": "https://www.mz.co.kr/portfolio-items/2012applicationdragcal/"
+    "link": "https://www.mz.co.kr/portfolio-items/2012applicationdragcal/",
+    "script1": "Do you know what 'MR', 'M+', and 'MC' do? You are not weired. There are lots more people in the world who do not know the difference between 'CE' and 'C'.\n\tDragcal was made for those people who just want to simply calculate. (including me – the coordinator)\n\tA powerful feature which allows you to save and use numerical formulas and results by drag & drop. In addition to that, it also provides 'LeftHandMode' for left-handed users.",
+    "script2": "FEATURES\n\t– 4 slots in total for saving numerical formulas and results.\n\t– Virtual keys are located familiarly just like NumPad. \n\t– supports both right-handed and left-handed. \n\t– Snap mode supporting all features",
+    "script3": "WHAT'S NEXT\n\tA feature to print the results or save them as a file is planned to be added in the next major update. You will need a pen and paper before the update.Drag & Drop feature to other application in snap mode is what most people desire (excluding the developers), and it is now on testing. Very sadly, 'share results via Facebook' feature is excluded.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204121/11.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204124/29.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilemountain-book/",
     "PROJECT": "MOUNTAIN BOOK WEB SITE",
     "CLIENT": "MOUNTAIN BOOK",
     "TYPE": "MOBILE APP",
-    "DEBUT DATE": "2012.12"
+    "DEBUT DATE": "2012.12",
+    "script1": "블랙야크 창립 40주년을 맞아 진행하는 명산40도전 프로그램의 필수 어플리케이션이다. 국내 대표명산40개의 등산지도 및 코스정보 제공하며 GPS탐방기록, GPS트래킹 저장할 수 있다. 탐방 스토리 실시간 작성 및 공유가 가능하며 명산인증 및 명산40프로그램 정보를 확인 할 수 있다. 지도다운로드를 포함 모든 서비스 완전무료서비스이다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/12/14204533/01.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204535/029.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204537/035.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilenescafe/",
     "PROJECT": "NESCAFE DOLCE GUSTOMOBILECOMMERCE",
     "TYPE": "MOBILE",
-    "DEBUT DATE": "2012.10"
+    "DEBUT DATE": "2012.10",
+    "script1": "돌체구스토의 캡슐머신과 캡슐을 돌체구스토 커머스사이트에서 편리하게 구입할 수 있는 모바일웹사이트 구축하였습니다. SNS와 카다로그 기능 및 장바구니 기능을 모바일앱과 유사한 UI로 제공하여 사용성의 편리함 강조하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204202/14.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204544/223.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204547/310.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilemegazone/",
     "PROJECT": "KPOP BOARD",
     "CLIENT": "MEGAZONE",
     "TYPE": "MOBILEAPP",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204212/16.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204214/217.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilelg-u-plus/",
     "PROJECT": "LG U PLUS CUSTOMER CARE CENTER",
     "CLIENT": "LG U PLUS",
     "TYPE": "MOBILE",
-    "DEBUT DATE": "2012.06"
+    "DEBUT DATE": "2012.06",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204217/17.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204550/224.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204551/311.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012mobilesktelecom/",
     "PROJECT": "WESCORE",
     "CLIENT": "SKTELECOM",
     "TYPE": "MOBILE APP",
-    "DEBUT DATE": "2012.12"
+    "DEBUT DATE": "2012.12",
+    "script1": "위스코어는 쇼핑, 레저와 여가 활동을 나눌 수 있습니다. 새롭게 개편되는 위스코어는 쇼핑, 캠핑, 자전거, 반려동물, 여행 등 다양한 레저와 여가를 함께 나누는 사람들의 공간입니다. 간편하게 활동과 나의 추천 아이템을 남기고, 공유할 수 있습니다. 사진과 상품검색으로 쉽게 글을 쓰고 활동할 수 있는 부담없는 글쓰기 기능을 제공합니다. 또한 위스코어의 활동들을 다른 SNS로 친구, 지인들과 쉽게 공유할 수 있습니다.\n\t 위스코어는 글 속에 언급된 상품 정보와 가격 비교 정보까지 제공합니다.\n\t컨텐츠에 함께 등록된 상품에 대해서는 기본적인 상품 정보 외에도 가격비교 정보까지 제공해줌으로써, 활동 뿐만아니라 관심이 가는 활동 아이템에 대한 가격도 쉽게 확인해 볼 수 있습니다.",
+    "script2": "Wescore is personal social network that is the best way to share recreation and leisure with Friend and Wescore user group.\n\tAnd for those of you who want one goods to share to all of your favorite networks like Facebook and Twitter you can easily search goods, upload photos directly from Wescore, all-in-one.",
+    "script3": "｜ FUNCTION\n\tCapture photos with custom-designed filters and editing features.\n\tSearch all goods in the Basket.\n\tAll-in-one posting to Facebook and Twitter.\n\tAvailable on iPhone, iPad, iPad mini and Android.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204416/18.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204539/222.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204540/39.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204542/44.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2012applicationmetalwar/",
     "PROJECT": "METALWAR",
     "CLIENT": "MEGAZONE",
     "TYPE": "SOCIAL NETWORK GAME",
-    "DEBUT DATE": "2012.10.10"
+    "DEBUT DATE": "2012.10.10",
+    "script1": "•Social Game 최초로 친구간의 경쟁과 약탈을 전면에 내세워 인기몰이를 한 전략시뮬레이션 장르의 대형게임(싸이월드 앱스토어의 최신 핫 앱스 카테고리에서 서비스 전기간에 걸쳐 1~5위 유지)",
+    "script2": "•유저는 영웅이 되어 자신의 기지를 성장시키고, 병력을 생산하여 상대 영웅을 약탈해, 전쟁을 종식시키고 대륙을 제패해야 하는 임무를 부여 받음",
+    "script3": "•핵심시스템 :퀘스트시스템, 상점시스템, 랭킹시스템, 턴방식 전투시스템, 업적시스템, 아이템시스템, 건물시스템, 영웅장비 시스템, 레벨시스템, 강화제작시스템, 맵확장시스템, 던전시스템, PVP시스템, 친구시스템, 길드 시스템",
+    "script4": "– Service Language : Korean\n\t– Service Platform : Cyworld AppStore, Naver SocialApps",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204826/01.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204831/05.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204834/02.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204837/03.png",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204841/04.png",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204847/06.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/mountain-book/",
     "PROJECT": "MOUNTAIN BOOK WEB SITE",
     "CLIENT": "MOUNTAIN BOOK",
     "TYPE": "WEB",
-    "DEBUT DATE": "2012.12"
+    "DEBUT DATE": "2012.12",
+    "script1": "블랙야크 고객사와첫 미팅에서 담당자가 강조한 프로젝트의 기본 컨셉은 “등산이 세상을 아름답게 만듭니다” 였습니다. 또한 전국의 산을 중심으로 하는 모두를 위한 산행커뮤니티의구축에 대한 니즈를 가지고 있었습니다. 각종 산악회와 포털 사이트에 흩어져 있는 산행과 관련된 정보들을 하나로 모으고, 처음 등산을 접하는 초보자에서부터 수십 년의 산행경험을 가진 사람들이 자신의 경험을 공유하고 선의의 경쟁과자극을 주고 받을 수 있는 공간, “즐겁고 유용한 탐방문화 공간” 을만드는 것이 마운틴북 프로젝트의 목표였습니다.",
+    "script2": "마운틴북 웹사이트는 2013년 1년간 진행될 명산40 캠페인을중심으로 많은 정보를 쉽게 찾을 수 있게 디자인 되었습니다. 사용자들이 명산40 인증활동에 적극적으로 참여하고 주차별, 산별 인증샷과댓글을 시간 순으로 볼 수 있도록 하였습니다. 실제 산행에 필요한 정보를 산별로 탐방가이드의 형태로 구성하여, 산행 전 준비물 준비에서부터 산행 후 인근 맛집 정보까지 한번에 확인 하여 사용자에게 보다 많은정보를 쉽게 전달하고자 노력하였습니다. 또한, 사용자들이 찍은사진을 이용하여 산행후기를 올릴 수 있는 공간을 만들고, 테마별로 다양한 스토리가 올라올 수 있도록배려하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2012/12/14204312/04_%EC%9B%B9_44_MOUNTAIN-BOOK-WEB-SITE_20130522.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203416/mountainbook_co_kr_20130425_133158-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/04/14203418/mountainbook_co_kr_20130425_133326.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013-web-blackyak/",
     "PROJECT": "BLACKYAK",
     "CLIENT": "DONGJIN",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.04"
+    "DEBUT DATE": "2013.04",
+    "script1": "간단한 메뉴지만 기업홈페이지와 마찬가지로 사용성이 떨어지는 UI구조로 구성되어 있는 기존의 웹사이트를, 간결하고 필요한 정보들로만 짜여지도록 재구성하였다. 또한 세계 시장에서 자리를 잡아가는 본 브랜드에 걸맞는 이미지를 구축하고자 하였다. 본 웹사이트 리뉴얼의 목표는 첫번째 글로벌 웹사이트를 제작함으로써 글로벌 기업으로 한 단계 더 도약할 수 있는 교두보 역할을 할 수 있도록 하는 것이며, 두번째는 해외의 웹 환경을 고려하여 동적인 비주얼 효과를 지양하고 정보전달 중심의  IA 구성 및 UI 설계 하였다.",
+    "script2": "블랙야크 브랜드의 아이덴티티를 사용자들에게 강하게 심어주기 위하여 기존 상품 이미지를 메인에 걸었던 디자인을 배제하고 히말라야 산맥, 야크 이미지를 주로 사용했다. 상품 조회 시 사용자 편의를 위하여 페이지 이동 없이 조회가 가능하도록 디자인했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204301/04_%EC%9B%B9_52_BLACKYAK_20130522.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204301/banner_web_by021.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203521/01.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203523/02-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203525/03-1.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204318/04_%EC%9B%B9_52_BLACKYAK_%EC%83%81%EC%84%B8_20130522.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013weblorealparis/",
     "PROJECT": "LOREAL PARIS WEB SITE",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.04"
+    "DEBUT DATE": "2013.04",
+    "script1": "로레알 그룹의 세계 적인 명성에 비하여 로레알파리가 국내 화장품 업계에서의 점유율은 비교적 낮으며 이 또한 염색 약 브랜드의 인지도로 편중되어 있어, 종합 뷰티 코스메틱 브랜드로서의 위상을 높이고 다양한 로레알파리의 제품 소개와 활용 더불어 온라인 콘텐트 제공 채널을 구현하는 것을 목표로 앞으로 계획중인 온라인 마케팅 활동에서 매출 증가에 긍정적인 영향을 줄 수 있는 베이스 기지의 역할을 수행 할 수 있는 구성 사이트 제작하는 것을 목표로 하였으며, 또한 2013년 하반기 전격적인 쇼핑몰로의 전환을 고려한 설계가 반영되었다.",
+    "script2": "로레알파리는 글래머러스하고 시크한 컨셉을 표현하기 위하여 사이트 전반에 블랙 배경을 사용 하였고 세련된 제품과 모델이미지를 사이트 전반에 활용하여 디자인 되었습니다. 또한 로레알파리의 글로벌브랜드에서 사용하고 있는 켑슐이라는 두 가지 형태의 디자인 컨텐츠가 한 쌍을 이루는 UI요소를 국내 정서에 맞게 개선하여 디자인을 적용하였으며, 사용자에게 제품의 이미지를 전달하는데 효과적인 디자인을 구현 하였다.",
+    "script3": "PC웹의 모든 페이지가 모바일 RWD로 구현되어 있으며 사용자에게 제품과 컨텐츠 간의 연결점을 만들어 주는 것에 초점을 두었다.\n\t1.RWD 를 적용한 프로젝트\n\t2.SNS facebook 회원연동 및 로그인 기능\n\t3.URL 라우팅(Routing) 으로 SEO 최적화 구현\n\t4.DI(StructureMap) 기술을 이용하여 모듈간 종속성 분리\n\t5.MVC3 / EntityFramework4 적용, Amazon SES 메일서비스 적용\n\t6.뷰티 플러스 서치(네이버 API연동)\n\t7.사용자 입장의 3가지 GNB 설계\n\t8.제품 정보와 컨텐츠 정보의 조합\n\t9.겟더룩 컨텐츠 커뮤니티 마이크로 사이트\n\tRWD로 구현된 타임 라인 형태의 브랜드 히스토리",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14204309/04_%EC%9B%B9_48_LOREAL-PARIS-WEB-SITE_20130522-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203538/01.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203543/02.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203546/03-2.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204320/04_%EC%9B%B9_48_LOREAL-PARIS-WEB-SITE_%EC%83%81%EC%84%B8_20130522.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webdongjinl/",
     "PROJECT": "DONGJIN WEB SITE",
     "CLIENT": "DONGJIN",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.03"
+    "DEBUT DATE": "2013.03",
+    "script1": "창립 40주년을 맞은 ㈜블랙야크의 기업홈페이지는 그 위상에 맞지 않고 트렌드와는 동떨어진 디자인을 가지고 있었다. 또한 사용자가 기업홈페이지에서 얻길 원하는 회사의 정보와 고객서비스 등의 정보등을 찾기 어려운 UI구조로 웹사이트 사용에 불편이 뒤따랐다. 따라서 본 웹사이트 리뉴얼의 목표는 첫번째 지주기업의 이미지 제고, 두번째 사용자에게 쉬운 웹사이트, 세번째 웹접근성 준수였다. 이에 메가존㈜는 지주회사 이미지를 줄 수 있는 트렌디한 디자인과, 정리되지 않았던 메뉴와 컨텐츠의 정리, 사용자 패턴을 예측한 UI구조를 구현하도록 했다. 또한 모바일에서도 거의 동일한 서비스를 제공할 수 있도록 했다.",
+    "script2": "지주회사 이미지를 제고하기 위하여, 하얀색을 기본 색상으로 사용하였으며 안정감을 줄 수 있는 사각형 박스로 컨텐츠 영역의 구분을 명확하게 했다. 또한 그러한 디자인 구성은 사용자에게 효율적인 정보전달을 도울 수 있을 것이다. 블랙야크 로고 색상인 빨강, 검정색으로 포인트를 주어 기업의 아이덴티티를 나타낼 수 있도록 했다. 또한, 40주년을 기념하여 구축한 40주년 역사관을, 확연히 다른 디자인과 UI로 구성함으로써 따로 웹사이트가 있는 듯한 생각이 들도록 제작하했다. 특히, 사진으로 보는 40년 메뉴에서는 ㈜블랙야크 회사가 산악인을 위한 아웃도어 의류를 생산하는 회사란 점에서 착안하여, 산맥 모양의 내비게이션으로 년도 이동을 가능하도록 하는 등 사진 조회 할 때도 회사의 아이덴티티를 제고할 수 있는 방법을 모색했다. 또한 모바일에서도 웹사이트와 동일한 톤앤매너를 적용하여 프로젝트 목적에 부합할 수 있도록 했다.",
+    "script3": "기존 메뉴 및 컨텐츠 등의 관리가 어려웠던 부분을 장기적인 웹사이트 관리 및 운영을 위하여 관리자 페이지를 구축했다. 또한 장애인 차별 금지법에 의거하여 웹접근성을 준수 수준에 맞췄다. 모바일 웹에서도 동일한 기능을 사용할 수 있도록 했다. 다음 지도맵을 연동하여 사용자가 찾고자 하는 ㈜블랙야크에 속하는 브랜드 매장을 찾기 쉽도록 구현했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/03/14204310/04_%EC%9B%B9_47_%EB%8F%99%EC%A7%84_20130520.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203604/%EC%83%81%EC%84%B801.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203609/%EC%83%81%EC%84%B802.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203613/%EC%83%81%EC%84%B803.png",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204322/04_%EC%9B%B9_47_%EB%8F%99%EC%A7%84_%EC%83%81%EC%84%B8_20130522.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webeverland/",
     "PROJECT": "SAMSUNG EVERLAND EDU SCHOOL",
-    "TYPE": "WEB"
+    "TYPE": "WEB",
+    "script1": "｜ PLAN\n\t 9개의 체험 학습 프로그램의 소개를 주목적으로 하는 홈페이지의 성격을 고려하여  메인 페이지부터 체험학습 메뉴까지 적극적으로 프로그램 노출에 포커싱 하여 설계하였고 추후 상품의 확장성을 고려하여 좌우 스크롤을 최대한 활용하였다. 또한, 웹접근성을 준수하는 대체텍스트 및 선형화 작업 등의 홈페이지 구조적인 측면도 같이고려하여 접근성과 편의성을 높이고자 했다. \n\t 상품의 전체 목록부터 카테고리 목록의 UI를 다양하게 표현함으로써 시각적으로도 재미있고 다양해 보이도록 구성하였고 인디케이터 및 on/off 효과를 적극적으로 확용함으로써 사용자의 혼란을 최소화할 수 있도록 고민하여 표현하였다. 그리고 체험상품 정보와 지역별 담당자 안내 정보를 모바일로 연계함으로써 스마트폰 유저의 체험참여 및 홈페이지 이용에 편의를 제공하도록 설계하였다.",
+    "script2": "홈페이지의 주요 고객인 선생님(학생)의 눈높이에 맞춰 정리되고 깨끗한 레이아웃으로 구성하였고 에버랜드의 CI 컬러를 적극 활용함으로써 브랜드 아이덴티티를 유지하였다. 또한, 메뉴별로 CI컬러를 활용하여 페이지별 색상을 다각화하여 심미적 효과를 상승시켰으며, 픽토그램, 아이콘 등의 활용과 인디케이터 등의 UX적 편의기능을 구성 요소로 접목시키면서 서비스의 완성도를 높이려 노력하였다.",
+    "script3": "가로 스크롤의 컨셉을 살린 Unique한 UI 구조를 효과적으로 표현할 수 있도록 UI스크립트를 활용하였으며 전반적인 정보 및 서비스에 접근이 쉽도록 제작하였다. 또한, 이용안내 및 상담문의 등의 메뉴에서 클릭 포인트 매칭 및 지도 On/Off 스트립트 효과를 통해 시각적인 재미요소를 적용하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204256/04_%EC%9B%B9_53_SAMSUNG-EVERLAND_20130522.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204630/unnamed-file-2.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204632/33-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204259/01-2.png",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203619/02-1.png",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203623/03.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013mobileskplanet/",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.04"
+    "DEBUT DATE": "2013.04",
+    "script1": "정보의 홍수 속에서 좀더 유용한 정보를 얻을 수 있는 방법이 무엇일까? 라는 질문으로 부터 시작된 큐레이션 서비스는 각 유저가 정보의 생성자로서 정보 가공을 통해 양질의 정보를 제공할 수 있는 서비스 입니다. 국내 대표 비교 사이트인 바스켓이 보유하고 있는 소호몰을 통해 양질의 패션 정보를 큐레이션 서비스와 접목하여 스타일북이 만들어지게 되었습니다.  Stylebook은 Social과 Shopping을 결합한 Mobile 특화 Curation 서비스로 언제, 어디서나 Mobile을 통해 사람들과 쇼핑 경험을 공유할 수 있는 Platform입니다.",
+    "script2": "스타일북 이라는 서비스 명을 잘 표현할 수 있도록 책이라는 느낌을 살릴 수 있도록 디자인 하였으며 사용자에게 책을 보고 있다는 경험을 주기 위한 다양한 요소를 적용하였습니다. 전체적인 레이아웃은 이미지 기반의 큐레이션 서비스인 Pinterest를 모티브로 하고 있습니다. 개발 기간상 전체 반응형 웹으로 구현되지는 못했으나 list view 에 대해서는 반응형으로 동작하도록 구축하였습니다.",
+    "script3": "앱과 동일한 기능 구현을 목표로 API 수정을 최소한으로 작업하였습니다. 앱은 로그인을 해야만 서비스를 이용할 수 있는데 반해 웹 서비스는 개방이라는 취지에 맞도록 비 로그인 상태에서도 대부분 서비스를 이용할 수 있도록 구현하고 로그인이 필요한 서비스에 한해서만 로그인을 유도하고 있습니다. 공유 서비스에 있어서는 앱에서 제공되는 카카오톡 공유가 PC 웹 에서는 제공되지 않아 핀터레스트로 대체 하였으며 공유된 페이지에 대해서는 모든 디바이스에서 확인 할 수 있도록 별도의 웹 페이지를 제작하여 접근성을 높였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14204411/04_%EC%9B%B9_49_STYLEBOOK_20130523-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204153/213.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204155/36.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204636/011-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webgetfile/",
     "PROJECT": "GETFILE RENEWAL",
     "CLIENT": "BITAMIND",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.05"
+    "DEBUT DATE": "2013.05",
+    "script1": "비타마인드의 디자인콘텐츠몰 '겟파일'사이트가 5월1일부터 새롭게 리뉴얼 오픈을 했다. 겟파일은 웹디자인,일러스트,포토,편집포토,플래시 등의 다양한 디자인관련 콘텐츠를 제공하는 사이트이다. 또한, 콘텐츠를 제작할 수 있는 회원이라면 누구나 직접 판매자가 되어 콘텐츠를 유,무료로 거래할 수 있다. 이번 개편으로 사용자의 편의성과 접근성을 개선하고, 콘텐츠 정보를 제공하는 사용자서비스를 강화하였으며, 다양해진 전문 카테고리를 통해 보다 빠른 검색이 가능하도록 구축했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204639/getfile1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203652/02-2.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203726/getfile01.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webseoulshinmun/",
     "PROJECT": "K-POP CPVER DANCE FESTIVAL",
-    "DEBUT DATE": "2013.05"
+    "DEBUT DATE": "2013.05",
+    "script1": "｜PLAN\n\t 전 세계적으로 한류 열풍이 불고 있는 가운데, 한국의 가요가 큰 인기를 끌고 있으며 더불어 한국의 아이돌 또한 우상으로 여겨지고 있다. 이를 바탕으로 K-POP Cover Dance Festival을 온.오프라인에서 진행하고 있으며 메가존(주)는 웹사이트를 제작하여 위의 활동을 하는 데에 온라인에서의 활동 무대를 구축하는 것을 지원하였다.\n\t 본 웹사이트를 통하여 사용자들이 Festival에 참가할 수 있으며 다른 사람들이 올린 동영상을 감상, 응원 등을 할 수 있도록 제작하였다.\n\t소개, 3개의 라운드, 미디어로 사용자들이 웹사이트를 통해 얻고자 하는 목적, 정보를 취득할 수 있도록 최대한 단순한 IA로 구축하여 기존에 존재하였던 불필요한 요소들은 제거하고자 하였다.\n\t Round1에서는 사용자의 참여를, Round2에서는 Round1에서 뽑힌 참가자들의 동영상을 게재, Final Round에서는 마지막 승자가 누구인지, 더불어 오프라인에서 촬영한 추가 동영상을 추가하였다.\n\t 명예의 전당 메뉴에서는 2011년 부터 현재까지의 우승자들의 리스트를 제공하고 있다.",
+    "script2": "｜DESIGN\n\t 기존의 딱딱한 관공서 웹사이트의 이미지에서 탈피하려고 노력하였다. 또한 Festival다운 생동감, 활기 등의 느낌을 주기 위하여 정적인 평행선보다는 동적인 사선을 사용하여 웹사이트에 활기를 불어 넣도록 하였다.\n\t 메인 페이지에는 어느 대륙에서 많은 참여도를 보이는 지 한 눈에 볼 수 있도록 그래프로 대륙별 참여자 현황을 볼 수 있도록 하였고, 국기등을 표시하여 본 축제가 세계적인 축제인 것을 한 눈에 알아볼 수 있도록 노력하였다.\n\t 다른 웹사이트보다 페이지가 길지만, 컨텐츠 구역을 나누어 스크롤을 내릴 때마다 구역과 구역 사이가 하나의 페이지처럼 보여 페이지가 길다는 느낌보다 다양하다는 느낌을 줄 수 있도록 하였다.",
+    "script3": "｜FUNCTION\n\t 인터넷 환경이 좋은 대한민국 뿐만이 아니라 환경이 좋지 않은 여러 나라들의 인터넷 환경 또한 고려하였기 때문에 최소한의 기능적인 요소를 배제하도록 하였다. 또한 지난 해(2012년) 진행 시 한번에 동접률이 높아짐에 따라 웹사이트의 마비가 여러차례 발생하여 준비 없이 급하게 서버를 증설하였던 경험을 바탕으로 아마존 서버 서비스를 사용하여 서버에 부하가 걸릴 시 효율적, 즉각적으로 서버를 증설할 수 있도록 서버를 설계하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204307/cover1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203714/2.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203718/3.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013online-shopping-mallcybercoex/",
     "PROJECT": "CYBERCOEXWEBSITE MANAGE",
     "TYPE": "WEBSITE MANAGE",
-    "DEBUT DATE": "2012.01"
+    "DEBUT DATE": "2012.01",
+    "script1": "– 전시회의 사이버화를 통해 중소기업 활성화의 목적성을 지향\n\t– 판매전용 상품과 전시전용 상품으로 노출이 가능 (판매 및 전시 기능)\n\t– 오프라인 전시회 및 코엑스몰과 연계로 고객 편의성 증대",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/01/14203812/cyber1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013mobilesk-planet/",
     "PROJECT": "STYLEBOOKMOBILE",
     "CLIENT": "SK PLANET",
     "TYPE": "MOBILE",
-    "DEBUT DATE": "2013.04"
+    "DEBUT DATE": "2013.04",
+    "script1": "정보의 홍수 속에서 좀더 유용한 정보를 얻을 수 있는 방법이 무엇일까? 라는 질문으로 부터 시작된 큐레이션 서비스는 각 유저가 정보의 생성자로서 정보 가공을 통해 양질의 정보를 제공할 수 있는 서비스 입니다. 국내 대표 비교 사이트인 바스켓이 보유하고 있는 소호몰을 통해 양질의 패션 정보를 큐레이션 서비스와 접목하여 스타일북이 만들어지게 되었습니다.  Stylebook은 Social과 Shopping을 결합한 Mobile 특화 Curation 서비스로 언제, 어디서나 Mobile을 통해 사람들과 쇼핑 경험을 공유할 수 있는 Platform입니다.",
+    "script2": "스타일북 이라는 서비스 명을 잘 표현할 수 있도록 책이라는 느낌을 살릴 수 있도록 디자인 하였으며 사용자에게 책을 보고 있다는 경험을 주기 위한 다양한 요소를 적용하였습니다. 전체적인 레이아웃은 이미지 기반의 큐레이션 서비스인 Pinterest를 모티브로 하고 있습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/04/14204508/011-2.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204510/027.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204513/034.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013weblotte/",
     "PROJECT": "LOTTE",
     "CLIENT": "LOTTE",
     "TYPE": "WEBSITE SHOPPING MALLMANAGE",
-    "DEBUT DATE": "2013.01~"
+    "DEBUT DATE": "2013.01~",
+    "script1": "– 롯데슈퍼 인터넷 쇼핑몰 전반적인 운영\n\t– 쇼핑몰 내 기획전 및 이벤트 운영\n\t– 회원 대상 DM 배포 및 온라인 마케팅 관리",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203928/main_780.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203930/sub01-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203931/sub03-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webseoulgas-2/",
     "PROJECT": "SEOULGAS WEBSITE DEVELOPMENT",
     "CLIENT": "SEOULGAS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.01"
+    "DEBUT DATE": "2013.01",
+    "script1": "｜ PALN\n\t 서울도시가스의 대외 이미지 제고를 통한 홍보 강화와 기능강화를 통한 홈페이지 이용 고객의 고객만족을 향상 시키기 위하여 서울도시가스 홈페이지 개편을 진행했다. \n\t 서울도시가스 홈페이지 개편 프로젝트는 업무기능 강화를 위하여 메뉴 변경, 기간계 시스템 연동, 회원정보관리 및 각 부서 사용자 별 권한 관리 admin프로그램 개발을 진행 했다.",
+    "script2": "｜ DESIGN\n\t \n\t 기존의  사이트의 전체 디자인을 변경하여 메인 화면의 단순화, 메뉴 변경, 고객 센터 약도 등에 대한 포털사이트 지도연계를 시행했다.",
+    "script3": "요금 업무 기능 강화를 위하여 기간계 시스템연동 및 운영중인 공인인증, 카드결제 기능 등 기존 유지 및 보안을 했으며 팝뱅킹 시스템을 도입하였다.\n\t 회원 정보 관리 및 각 부서 사용자 별 권한 관리 admin 프로그램을 개발 함으로써 가입회원에 대한 인증 절차 강화하고 부서별 자료 업데이트 기능 및 관리 기능추가, 기존 홈페이지 DATA를 유지하도록 했다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203939/main_7801.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203940/sub-01.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14203942/sub-04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013weblg-u-plus/",
     "CLIENT": "LG U PLUS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.05"
+    "DEBUT DATE": "2013.05",
+    "script1": "LG U+ SMS 기존의 사이트는 군더더기 없는 이미지 사용으로 모던하고, 깔끔한 느낌을 표현해 준 점은 좋으나 통합 홈페이지의 디자인 가이드를 따르지 않은 컬러 및 아이콘의 사용으로 일관성이 떨어지며, 전체 레이아웃이 정렬되지 않아 핵심 콘텐츠의 구분이 약했던 부분이 많았으므로 신규 구축 사이트에서는 이를 모두 보완하고자 새롭게 리뉴얼 사이트를 기획하였다.",
+    "script2": "디자인적인 측면\n\t– 기존 사이트는 디자인적으로 노후화되어 보여 스마트폰 이미지 사용하여 트랜디한 느낌을 주고자 하였고, 사이트 전반적으로 심플하고 세련되어 보이도록 디자인하였다.",
+    "script3": "UI측면\n\t– 메시지전송에서 사용자가 바로 사용법을 인지할 수 있도록 직관적이고 통일된 인터페이스 구현하고 사용자가 문자 메시지를 보내는 흐름에 맞게 UI를 설계하였다.\n\t– 기존 사이트는 로그인 전과 로그인 후 메뉴 위치가 변경되어 사용자가 혼동스러울 수 있었다. 로그인 전과 로그인 후 GNB 메뉴 위치 고정함으로써 사용자의 혼동을 최소화 하고자 하였다.",
+    "script4": "사용성 측면\n\t-기존 사이트에서는 약관이 6개이나 약관 전체동의 버튼이 없어 사용자 반복 TASK 유발하여 약관 전체동의 버튼 제공하여 사용자가 반복작업을 일으키는 요소를 지양하고자 하였다.",
+    "script5": "기본적으로 유플러스의 아이덴티티 컬러, 폰트들을 활용하여 직관적이고 심플하게 디자인하였고, 복잡한 기능을 포함하고 있는 사이트의 특성상 사용자들에게 익숙한 레이아웃과 직관적인 오프젝트 그리고 심플한 디자인을 통해 간결하고 깔끔한 사이트를 구축하는데 노력하였다.\n\t 전반적으로 과한 디자인적 효과는 배제하고 면, 선을 위주로 작업하였으며, 자칫 심심해 보일 수 있는 디자인적 문제를 보완하기 위해 카테고리별로의 페이지 특성에 맞는 비쥬얼을 만들어 디자인 밸런스를 맞췄다.\n\t 그리고 특히 문자서비스 기능쪽에서는 UX적 편의를 고려하여 메시지 보내기 창의 구조들을 다방면으로 고려하여 사이트의 디자인 완성도를 높이는데 노력하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204644/1-3.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204918/sms01.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204922/sms02.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204925/sms03.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013webcj-cheiljedang/",
     "PROJECT": "CJ CHEILJEDANG BIBIGO",
     "CLIENT": "CJ CHEILJEDANG",
     "TYPE": "WEB",
-    "DEBUT DATE": "2013.05"
+    "DEBUT DATE": "2013.05",
+    "script1": "CJ제일제당의 비비고 글로벌 사이트가 정식 오픈되었습니다. 비빔밥 레스토랑에서 시작되어 한식 장류, 만두 등 가공식품 군으로 확대된 \"비비고\"는 글로벌 시장에서 한식 대표 브랜드로서 자리매김하고자 하는 목표를 가지고 있습니다. 금번 구축 사이트가 비비고 레스토랑과 가공식품의 보다 유기적인 마케팅이 이루어지는 기반이 되길 바라며 프로젝트를 진행 했습니다.\n\t– 영/중/일/국문 4개국어 서비스 가능한 글로벌 레스토랑, 제품, 한식레시피 통합 DB 구축\n\t– 주요 거점국가(미국, 중국, 일본, 영국) 현지 법인을 위한 로컬사이트 제공\n\t– 모바일웹 서비스 제공",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204804/01-e1369983176451.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204808/02-4.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204817/05.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/05/14204822/04-3.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013smart-tvbunnypang/",
     "PROJECT": "BUNNYPANG",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2013.7.10"
+    "DEBUT DATE": "2013.7.10",
+    "script1": "•BunnyPang is the game hitting a rabbit.\n\t•When you hit the turtle or miss the rabbit, you will decrease the player life.\n\t• BunnyPang can be helpful to relieve stress and to increase the concentration.",
+    "script2": "– Service Language : English\n\t– Service Platform : Samsung SMART TV",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204850/01-1.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204857/02-1.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204902/03-1.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/08/14204908/04-1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013weblg-u-plus-2/",
     "PROJECT": "GLOBAL CALL",
     "CLIENT": "LG U PLUS",
     "TYPE": "WEB(RWD)",
-    "DEBUT DATE": "2013.08.14"
+    "DEBUT DATE": "2013.08.14",
+    "script1": "｜  PLAN\n\tLG U+ 국제전화 사업부의 글로벌콜 앱 출시를 기념하여 온라인 프로모션을 위한 웹 플래폼을 구축하였다.글로벌 5개국어(국문, 영문, 일문, 중문, 베트남어)를 지원하는 웹사이트로써 고객 접근성을 높일 수 있도록 RWD를 접목하였다. 뎁스가 깊지 않게 메뉴 및 사이트 구조를 간소화하고, 크레딧 충전 및 마이페이지 기능을 제공한다. 앱을 사용하기 위한 전반적인 서비스 및 기능을 웹을 통해 해결할 수 있도록 하였다. 모바일웹에서 제공되는 FAQ 페이지 등을 글로벌콜 앱에서 활용할 수 있도록 구조화 하여 운영 및 유지보수 시에 효율성을 높일 수 있도록 하였다.",
+    "script2": "｜ DESIGN\n\tLG U+의 메인컬러인 오즈핑크 색을 전반적으로 활용하여 브랜드 아이덴티티를 확립하고, 시즌 별(봄, 여름, 가을, 겨울) BG의 변화를 통해 사이트에 방문하는 고객들에게 시각적인 감성 전달 효과를 증대시킬 수 있도록 하였다.주로 사용하는 기능 및 버튼 등에 보색 효과를 적용하여,빠르게 확인하고, 선택하여 접근할 수 있도록 하였다. 5개국어 전환 시 페이지 레이아웃이 일그러지지 않고, 최적화 표현될 수 있도록, 여백 및 사이트 구조를 정립하였다. 또한 콘텐츠에 집중할 수 있도록, 주와 부의 사이즈, 컬러, 위치 등을 통해 명확히 구분하여 인지할 수 있도록 하였다.",
+    "script3": "｜ FUNCTION\n\t앱을 사용하기 위한 크레딧(온라인 캐시) 충전 기능을 웹에서 제공함으로써 앱과 연동항 쉽게 이용할 수 있도록 편의를 제공하고,스마트폰 이용에 익숙한 사용자들을 고려한 플리킹 기능 적용, 세로스크롤의 확장성 등을 접목하여 모바일 사용성에 일관성을 준수하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204929/GW01.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204933/GW02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204931/GM03.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204934/GM01.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204935/GM02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2013smart-tvchichenpong/",
     "PROJECT": "CHICHENPONG",
     "CLIENT": "MEGAZONE",
     "TYPE": "SMART TV APP",
-    "DEBUT DATE": "2013.8"
+    "DEBUT DATE": "2013.8",
+    "script1": "• ChickenPong is a game to obtain the chick.\n\t• When you conflict the wildlife, the game will end.\n\t• ChickenPong can be helpful to increase the child's concentration.",
+    "script2": "– Service Language : English\n\t– Service Platform : Samsung SMART TV",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204943/01-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204944/02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204945/03.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2013/09/14204946/04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014websochi-olympic/",
     "PROJECT": "SOCHI OLYMPIC",
     "CLIENT": "SBS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.02"
+    "DEBUT DATE": "2014.02",
+    "script1": "｜ PLAN\n\t구축 사이트는 2014 소치 동계 올림픽을 앞두고 제작된 SBS의 공식 사이트입니다.",
+    "script2": "방송사라는 고객사 특수성에 따라 풍부한 뉴스와 미디어를 공급할 수 있도록 하는 대표 창구를 마련함은 물론, 고객사가 독자적으로 보유한 취재 라인의 SNS 소식을 제공하여 뉴스보다 빠르게 현장의 소식을 전하는 재치를 발휘하기도 하였습니다.",
+    "script3": "메인 상단의 영역은 전통적으로 가장 중요한 실시간 뉴스와 2nd Screen의 역할을 하는 라이브팁을 번갈아 제공할 수 있게 함으로써  현재 시점에서 사용자에게 더 중요한 정보를 선별적으로 푸쉬할 수 있도록 개발되었습니다.",
+    "script4": "올림픽 기간 동안 주야간에 걸쳐 운영을 지속해야 할 만큼 빠르게 올림픽 소식을 전하는 것이 무엇보다 중요한 사이트이므로 관리 편의성을 높일 수 있도록 간결하고 쉬운 UI로 Backoffice를 정비하여 제공하였으며,",
+    "script5": "경기일정, 결과, 메달현황 등 주요 올림픽 정보에 대해 기존 수동 관리하던 시스템에서 IOC에서 데이터를 직접 받아  서비스 하는 시스템으로 전환하므로써 명실상부 공식 사이트로의 입지를 공고히 하였습니다.",
+    "script6": "｜ DESIGN\n\t동계 올림픽의 느낌을 살리면서 많은 양의 정보들이 부담스럽지 않게 정리될 수 있도록 소치 로고에 사용된 블루를 포인트 컬러로 하여 화이트 배색으로 정돈하였고, 주요 하일라이트 영역은 짙은 그레이톤으로 강조하여 컨텐츠 집중도를 높여 주었습니다.",
+    "script7": "올림픽 관련 뉴스 등이 분량적으로 가장 많고 핵심적인 컨텐츠였기 때문에, 언론/방송사 특유의 가독성이 좋은 큰 타이포와 적절한 행간을 적용하였으며, 짧은 기간 집중적으로 이용되는 사이트임을 고려하여 최대한 쉽고 간단하며 친숙한 UI를 사용함으로써 사용성을 해치지 않도록 하였습니다.",
+    "script8": "대부분 메뉴들이 실시간성으로 운영되거나 데이터베이스와 연동되어 있는 페이지였기 때문에 이미지 폰트의 사용은 최대한 배제되었으며, 개발 구조화된 페이지임을 감안하여 구성해야 하는 등 여러가지로 제약사항이 많고 그래픽적인 자유도가 낮은 프로젝트였지만 그 가운데서도 소치 동계 올림픽의 느낌을 최대한 녹일 수 있도록 개최국의 공식 디자인 컨셉인 사선 모티브를 곳곳의 디테일에 활용해 주었습니다.",
+    "script9": "｜FUNCTION\n\tSBS 소치 동계 올림픽 사이트는 방송사에서 운영하는 사이트인 만큼 각계 각층의 사용자에 대한 고려가 필수적임에 따라 웹접근성 지침을 준수하여 제작되었습니다.",
+    "script10": "사이트 본연의 역할로서 대한민국 동계 올림픽 참가 소식을 홍보하며 경기 정보를 효과적으로 전달하고  대표 선수단과 대한민국 국민이 소통하고 있는 듯 밀접하게 느낄 수 있도록 지금 가장 핫한 이슈를 적절히 편성 제공할 수 있게 개발되었으며, 쉽고 편리한 UI 구현, 경기 데이터 자동화 및 풍부한 경기 사진과 뉴스 기사를 신속 정확하게 제공하는 것을 최우선으로 고려하였습니다.",
+    "script11": "비록 먼 나라에서 열리는 축제지만 동시에 사용자의 안방에서, 손 안에서 열리는 모두의 축제가 될 수 있도록 각종 경기 영상 과 실시간 방송 서비스를 제공하였고, SNS 로그인 기반의 참여 서비스를 통해 직접 대표 선수단을 응원할 수 있도록 하였습니다. 무엇보다 경기 기간 중 언제 어디서든 경기 소식을 확인하고자 하는 사용자 니즈에 충분히 부응할 수 있도록 모바일 환경에서도 PC 와 동일한 서비스를 쾌적하게 이용 가능하게 개발하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/03/14205000/2_0-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205001/2_1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205003/2_2-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205004/2_3-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014/",
     "PROJECT": "CJ CHEILJEDANG",
     "CLIENT": "CJ CHEILJEDANG",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.02"
+    "DEBUT DATE": "2014.02",
+    "script1": "｜ PLAN\n\tCJ제일제당 통합 사이트는 기 운영중인 CJ제일제당 사이트와 레시피 전문 서비스인 CJ THE KITCHEN 사이트를 필두로 분산되어있던 여러 브랜드 사이트를 하나로 통합하여 구축하였다. 통합된 사이트는 분산된 CJ제일제당의 웹사이트를 쉽고 합리적으로 통합하여 고객에게는 브랜드와 제품에 대한 긍정적인 경험을 지속적으로 제공하고 운영자에게는 통합 마케팅 전개와 운영 효율화를 가져다 줄 수 있는 통합 플랫폼으로서 역할을 수행한다.  일방적인 정보전달 중심의 제당 사이트와 컨텐츠 중심의 레시피 사이트인 CTK는 너무 이질적인 부분이 많아 전체 사이트 구조 내에서 일관성 있도록 구성하기 위해 브랜드-제품-레시피 컨텐츠간의 linkability 강화에 집중하였다. 또한 수 십개의 브랜드 & 사업부 사이트를 통합하기 위하여 기존 모든 사이트에 대한 분석을 통해 사이트 내 사이트라는 컨셉으로 이를 수용할 수 있는 구조를 생성하고 template 형태로 구성하여 관리가 용이하도록 하였으며 브랜드 아이덴티티를 표현할 수 있도록 Custormizing 기능을 강화하는데 집중하였다.",
+    "script2": "｜ DESIGN\n\t브랜드, 사업영역, 레시피등을 통폐합하는 과정에서 많은 양의 컨텐츠들을 보다 효과적으로 노출시킬 수 있도록 사용자들의 니즈에 따른 주요 컨텐츠를 주요영역에 배치하여 보다 쉽고 빠르게 원하는 컨텐츠로 접근할 수 있는 UI구조를 설계하였고, GUI 요소로 단순한 컬러와 아이콘의 조합으로 사용자들에게 직관적으로 접근이 용이한 디자인의 한 트랜드인 Flat Design을 기본 바탕으로 하여 CJ제일제당의 스타일인 텍스쳐를 가미해 엘리먼트, 비쥬얼등에 적용함으로써 트랜드를 반영함과 동시에 브랜드 아이덴티티를 녹이는 방향으로 디자인하였다. Template 구조 내에서 디자인상 제약이 많이 존재했으나 브랜드 아이덴티티를 녹일 수 있는 컬러, 제품, 이미지 등 다양한 조합을 통해 페이지를 생성 관리할 수 있는 기능 중심적인 디자인으로 운영/관리 측면에서 효율적인 디자인 스타일로 구성하였다.",
+    "script3": "｜FUNCTION\n\t서로 다른 업무도메인을 사전 분석하여, 중복된 Class 가 구현되지 않도록 OOP(객체지향 프로그래밍)를 적용하며, 프레임워크가 제공하는 library를 최대한 활용하여 불필요한 하드코딩을 지양하였으며 비지니스 로직과 관리자, 국문, 영문, 중문 등 각각이 모두 모듈로 나누어 별도의 Web Application으로 구성하여 서로 서비스에 영향을 주지 않도록 구성하였다.프로젝트 초반에 UI파트에서 frame을 구성하여 페이지별 중복 코드를 제거함으로써 프로젝트를 효율적으로 진행할 수 있도록 하였다. 또한 CJ제일제당이 보유하고 있는 수 많은 브랜드의 확장과 변경이 용이하도록 구조화하였으며 브랜드/사업부에 사용되는 Template에 대한 추가/수정/삭제를 용이하게 하여 운영이 수월하도록 구축하였다. 통합 사이트 구축을 위한 Database와 Consol을 구현함으로써 기본 인프라를 구축하고 서비스에 대한 확장성을 확보하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205005/1_0-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205006/1_1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205007/1_2-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205009/1_3-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014web-and-appmountain-book-2-0/",
     "PROJECT": "MOUNTAIN BOOK 2.0",
     "CLIENT": "MOUNTAIN BOOK",
     "TYPE": "WEB AND APP",
-    "DEBUT DATE": "2014.01"
+    "DEBUT DATE": "2014.01",
+    "script1": "｜ PLAN\n\t마운틴북은 “산행이 세상을 아름답게 만든다” 라는 슬로건 아래 대한민국의 명산의 아름다움을 알리고, 올바른 산악문화의 발전을 위한 산악정보 홈페이지로, 셰르파를 주축으로 산행경로, 산행시 주의점, 맛집정보, 지도정보 외에도 블랙야크에서 진행하는 다양한 산행관련 프로그램에 참여할 수 있다. \n\t그 동안 산악정보를 한자리에서 쉽게 볼 수 있는 공간이 없어, 산을 사랑하는 사람들이 좋은 정보를 함께 공유하고 나눌 수 있는 소통의 공간을 만들고자 하는 것이 이번 프로젝트의 가장 큰 기획의도였다. 리뉴얼을 통해 기존 명산40 캠페인 중심에서 좀 더 다양한 프로그램을 확장하여 등산 뿐만 아니라 다양한 아웃도어 활동을 포괄할 수 있도록 개선되었다. \n\t마운틴북을 통해 생성되는 다양한 온라인 및 오프라인 컨텐츠, 즉 인증 정보, 스토리정보, 사진, 동영상 및 각종 친구 소식은 타임라인의 형태로 \"베이스캠프\"에서 제공이 되어, 한눈에 자신과 친구의 활동을 볼 수 있다. 마운틴북 내의 모든 정보는 이지파인더 통합검색 시스템을 통해 사용자들의 접근성을 높였다. 가이드북에서 제공하는 탐방계획과 기록, 차량나눔 서비스는 아웃도어 초보일지라도 손쉽게 자신에게 맞는 아웃도어 유형을 확인하고 참여할 수 있도록 정보를 제공한다.\n\t해피스텝은 마운틴북의 사회공헌 플랫폼으로, 내가 등산한 산 높이 1미터에 1원(1스텝)을 적립하고, 각종 사회공헌 프로그램에 기부할 수 있는 아웃도어 기부활동 플랫폼으로 참여자들이 직접 프로젝트를 생성하고, 모금액을 설정하고, 기부활동을 진행할 수 있도록 시스템화 되어 있다.\n\t익스트림팀은 블랙야크에서 후원하는 아웃도어 영역별 전문가 그룹이다. 익스트림팀은 전문가 집단으로써 일반인이 접하기 힘든 각종 프로젝트를 구성하고, 다양한 볼거리와 즐길거리를 회원들과 공유하면서, 아웃도어 문화를 선도하게 된다.",
+    "script2": "｜ DESIGN\n\t마운틴북 웹사이트는 산을 매개로 한 아웃도어족들이 오프라인에서 맺는 사람들과의 관계를 온라인으로 들여오는 공간이다. 그러다보니, 사람을 빼놓고 설명할 수 있는 것이 별로 없다. 대부분의 서비스는\n\t마운틴북이 추구하는 유대관계, 힐링, 합리적 가치관, 프리미엄 라이프 스타일을 표현할 수 있도록\n\t절제된 레이아웃과 감성적인 컬러를 사용하여 좀 더 편안하게 사용자가  최고 품질의 컨텐츠에 접근할 수 있도록 디자인 컨셉을 잡고, 2013년 컬러 트랜드인 “녹색”에 맞춰  사용자에게 편안함과 안정감을 줄 수 있는 컬러 톤 사용하였다. \n\t마운틴북 모바일앱의 가장 큰 특징은 일반적인 모바일앱과는 달리, 마운틴북 앱은 아웃도어 활동시에도 웹에서 제공하는 대부분의 서비스가 사용자들에게 불편없이 제공되도록 구성되어야 했다. 그러다 보니 메뉴 구조나 구성이 일반적인 모바일앱에 비해 많아질 수 밖에 없었고, 전체적으로 안정적인 서비스를 제공하기 위해 사용자 인터페이스와 사용자 경험에 많은 고민을 하지 않을 수 없었다. 설계단계에서부터 디자인팀은 적극 참여하여, UI/UX 에 대해 함께 고민하고, 그 고민에는 고객사까지 포함이 되어 정말 함께 만들어가는 서비스로 접근했다. \n\t디자인은 가능한 심플하고 플랫하지만 사용자들이 다양한 기능을 편리하고 직관적으로 인지할 수 있도록 고려하였다.",
+    "script3": "｜FUNCTION\n\t등산, 캠핑, MTB 등 다양한 분야의 마운틴북 챌린지 프로그램을 통해 만들어지는 역동적이고 감동적인 사람들의 이야기와 사진, 동영상을 올리고, 사람들과 자신의 경험을 함께 한다. 이런 챌린지 프로그램은 구조화되어 관리자가 관리자 기능을 통해, 생성, 운영, 관리 할 수 있도록 플랫폼화 되었다.\n\tGPS는 사이트를 설계하는 초기단계에서부터 빼 놓을 수 없는 중요한 요소였다. 사이트에 적절하게 노출하는 수위를 조절하는 것에서 많은 고민이 있었고, 어떤 방식으로 노출할 것인가가 가장 어려운 과제였다. 지도를 활용하여 탐방지의 정보를 마커와 간단보기 형태로 제공하거나, GPS 추천코스를 지도위에서 플레이할 수 있도록 하는등 가능하면 위치정보 컨텐츠를 잘 녹여내려고 노력했다. \n\t산을 매개로하는 인적네트워크를 확대하고, 마운틴북 소셜네트워크를 활성화하기 위해 회원간 친구맺기 기능, 친구 구독 기능을 제공하고 크루라는 소모임을 형성하여 공통의 관심사를 나눌 수 있도록 서비스를 제공한다. 페이스북 연락처, 모바일 연락처 동기화 기능을 제공하여, 마운틴북의 네트워크를 확대하고, 편리하게 친구 목록을 관리할 수 있다. 또한, 개인정보보호가 이슈로 대두되는 시점에, 비회원, 회원, 친구의 3단계에 걸쳐 내 정보 및 컨텐츠의 공개설정 기능을 제공함으로써, 개인정보보호 기능을 강화하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205010/4_1-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205010/4_2-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205013/4_3-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205014/4_4-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205015/4_5-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014webthe-korea-ski-association/",
     "PROJECT": "THE KOREA SKI ASSOCIATION",
     "CLIENT": "THE KOREA SKI ASSOCIATION",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.04"
+    "DEBUT DATE": "2014.04",
+    "script1": "｜ PLAN\n\t 대한 스키협회 웹사이트는 스키 관련자(협회/선수/선수지망생)과 스키 대회와 경기에 관심있는 자들을 Main Target으로 설계한 사이트로, 주로 스키 대회의 소개, 일정 안내, 대회 신청, 선수 등록, 선수 활동 증명에 포커싱이 맞춰진 스키 전문 사이트이다. 각 메뉴는 스키의 종목별로 구성되어 있고, 종목별 대회정보, 규정 등의 필요 정보를 찾아볼 수 있게 되어 있고, 온라인 신청이라는 일괄 채널을 통해, 인증서, 선수 신청을 진행할 수 있도록 사이트를 구현 하였다.  이는 주 이용층인 선수들은 타 종목의 정보가 섞여 있을 때 확인 하기 어렵다는 VOC를 바탕으로 설계되었는데 종목별로 정보가 섞이지 않고, 각 종목 정보에서 타 종목으로도 이동할 수 있는 메뉴를 둠으로서 필요시 본인이 원하는 종목만 Quick 하게 찾아 들어갈 수 있도록 함이 목적이다.\n\t 그리고 메인 화면에서는 주요 핵심 서비스들의 8~90%는 즉시 확인할 수 있어 메뉴를 찾지 않더라도 누구나 쉽게 접근할 수 있는 것이 핵심이다.",
+    "script2": "｜ DESIGN\n\t 대한 스키협회 디자인의 큰 컨셉은 설원 속에서의 스키어이다. \n\t 컨셉 도출 시 설원, 밝다, 편안하다, 활동적이다, 역동적이다, 눈, 등을 주 키워드 로 도출 하였다.\n\t 스키를 중심으로 모인 Target을 겨냥 하여 밝고  넓은설원과 스키를 직관적으로 연상할 수 있도록 모티브를 잡고 디자인 해, 전체적으로 시원하고 트인 느낌을 주기위한 디자인을 진행하였다.\n\t 전체적인 느낌으로는 일관된 컬러 룩으로 종목이 분산되더라도 전체 사이트에 대한 통일감을 부여 하고, 설원을 배경으로 한 메인 배경화면을 통해 보다 가볍고 역동적인 느낌을 함께 나타내려 하였다. \n\t Key 컬러는 CI컬러와 같은 Blue로 두고 픽토그램과 아이콘을 활용하여 역동적인 느낌과 동시에 특징이 있는 각 종목을 나타내 주어 어느 메뉴에 있더라도 어느 종목인지 확인할 수 있는 암시와 동시에 네비게이터 역할을 수행하도록 하였다. 단, 협회라는 특성상 너무 가벼워 보이지는 않도록 Dark blue 컬러를 활용한 네비게이션 메뉴 표시로 지나치게 가벼울 수 있는 사이트에 무게 중심과 같은 역할을 주었다.",
+    "script3": "｜FUNCTION\n\t 개발시에도 기획의도와 디자인의도와 같이 쉽고 느리지 않게 접근 하는 것이 우선적으로 두고 설계 되었다 또한 기존사이트가 있었기 때문에 기존 db를 가져 오는 것 또한 가져가야 할 숙제 중 하나였다.\n\t 기존 db의 경우 제로보드로 되어 있었기 때문에 최소화 하여 필요한 것만 가져오도록 간추렸으며,\n\t 각 종목과 게시판의 경우는 하나의 종목 키를 기준으로 하여  분산되는 구조를 가지고 있다.\n\t 이는 종목이 확장되더라도 각 메뉴별 전체 개발이 아닌, 종목 확장한 파라미터 추가만으로도 타 게시판에 영향을 덜 미치고 확정 시킬수 있도록 함이 목적이다  종목을 비롯해 게시판등은 전체가 유기적으로 연결 되어 있어 관리시에도 종목이나, 협회인지의 구분값에 따라 자유롭게 이용할 수 있도록 함이 특징으로 꼽을 수 있다.\n\t 또한 워터 마크 솔루션을 도입, 인증서를 프린트 시 워터 마크가 출력되는 기술을 도입 해 인증서의 진위여부를 가릴 수 있도록 구현 되었다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205017/3_0-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205018/3_1-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205019/3_2-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/04/14205020/3_3-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014webkipfa-i-award/",
     "PROJECT": "KIPFA & I-AWARD",
-    "CLIENT": "(\uc8fc)\ud55c\uad6d\uc778\ud130\ub137\uc804\ubb38\uac00\ud611\ud68c",
+    "CLIENT": "(주)한국인터넷전문가협회",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.05"
+    "DEBUT DATE": "2014.05",
+    "script1": "｜ PLAN\n\t (사)한국인터넷전문가협회(kipfa)는 국내 최고의 인터넷 관련 전문가들로 구성된 비영리단체로써, 인터넷전문가의 복리증진과 정보 및 지식의 공유를 통하여 상호 협력을 활성화하기위한 단체이다. 국제화를 통한 우수 웹 서비스를 발굴하고, 인터넷 서비스의 경쟁력 강화 및 산업 발전에 기여함을 목적으로 하고 있다.\n\t 기존 사이트의 복잡하고 혼재되어있는 정보를 교육관련 정보(www.kipfa.or.kr)와 시상식 정보(www.i-Award.or.kr)로 분리해 사이트를 구축 하였다.\n\t www.kipfa.or.kr 사이트는 누구나 쉽게 정보에 접근하고 습득할 수 있도록 구축하였으며, 글로벌 트랜드에 맞추어 디자인을 적용하였다.\n\t www.i-Award.or.kr 사이트는 웹어워드, 스마트앱어워드, 인터넷에코어워드를 구분하여, 각 어워드에 대하여 빠른 접근이 가능하도록 하였다. 또한 글로벌 진출 시 해당 국가의 환경에 따라 웹어워드, 스마트앱어워드, 인터넷에코어워드가 분리되어 제공 될 수 있도록 구축하였다. 다양한 시상식 및 수상 사이트에 대한 정보를 원활하게 전달하기 위해, 빅폰트와 각 어워드별 메인컬러를 적용하여 사용자의 편의성을 높이는데 중점을 두었다.\n\t 새로 개편 및 구축된 www.kipfa.or.kr과 www.iAward.or.kr 사이트는 (사)한국인터넷전문가협회의 국제화의 기반이 될 것이다.",
+    "script2": "｜ DESIGN\n\t www.kipfa.or.kr 사이트의 리뉴얼은 Easy & Simple의 컨셉에 맞추어 디자인되었으며, 대중적이고 쉬운 UI로 구성하였다. 한국인터넷전문가협회의 메인 컬러인 단테 레드를 주 컬러로 사용하여 중요 정보를 강조하였다. 세미나 및 컨퍼런스 등의 주요 행사소개와 공지 및 이벤트 등을 미리보기 형태로 제공함으로써, 유저가 원하는 정보를 쉽고 빠르게 확인 할 수 있도록 디자인 하였다.\n\t www.i-Award.or.kr 사이트는 각 어워드 메인이라 볼 수 있는 3개의 어워드를 이어주는 게이트 페이지와 각 어워드별 메인 및 서브로 구성하였다. www.kipfa.or.kr 과 동일하게 Easy & Simple 컨셉을 적용하였으며 어워드 사이트의 기본을 강조하고자 수상 사이트들을 부각 시킬 수 있도록 디자인 하였다. 게이트 페이지는 트로피와 수상 사이트를 직관적으로 노출하여 어워드 사이트임을 강조하고, 각 어워드로의 진입이 편리하도록 직관적이고 명확한 UI로 구성하였다. 게이트 페이지와 어워드별 메인 페이지의 공존으로 인해 유저의 혼란을 방지하고자 각 어워드의 로고 컬러를 메인 컬러로 사용하여 명확한 구분이 되도록 하였다. 또한 각 어워드의 컨텐츠는 통일성을 유지하여, 집중도가 떨어지지 않도록 작업하였다.",
+    "script3": "｜FUNCTION\n\t www.i-Award.or.kr 사이트의 경우에는 각 어워드 별로 구성하였으며, 다국어를 고려하여 설계 및 구축되었다. 사이트 관리 및 비즈니즈 파트와 사용자 파트의 로직을 분리하여, 사이트 관리를 용이하도록 구축하였다.\n\t www.kipfa.or.kr 사이트의 경우, 다량의 데이터를 처리하는 빈도가 많은 사이트로써 최적화 된 프로시져를 적용하여 데이터베이스 처리의 효율을 증대하였다. 또한 사용자 파트에 적용된 Script는 jQuery를 사용하여, 브라우져 호환성을 높였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/05/14205023/kipfa_main-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/05/14205026/i-Award_01-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/05/14205028/i-Award_05-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/05/14205031/i-Award_06-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2014/05/14205034/kipfa_01-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014wedsbs-2014-brasil-world-cup/",
-    "PROJECT": "SBS 2014\ube0c\ub77c\uc9c8\uc6d4\ub4dc\ucef5 \uacf5\uc2dd\uc0ac\uc774\ud2b8",
-    "CLIENT": "(\uc8fc)\uc5d0\uc2a4\ube44\uc5d0\uc2a4\ucf58\ud150\uce20\ud5c8\ube0c",
+    "PROJECT": "SBS 2014브라질월드컵 공식사이트",
+    "CLIENT": "(주)에스비에스콘텐츠허브",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.06"
+    "DEBUT DATE": "2014.06",
+    "script1": "｜ PLAN\n\t 2014 브라질 월드컵을 앞두고 제작된 SBS의 공식 사이트입니다. \n\t 방송사라는 고객사 특수성에 따라 풍부한 뉴스와 미디어를 공급할 수 있도록 하는 대표 창구를 마련함은 물론, FIFA가 선정해서 보내주는 선수들의 골 득점 및 실수 장면부터 감독이나 선수·관중의 표정까지 실감나는 현장 모습을 최대 23대의 카메라 앵글로 찍은 고화질 멀티앵글을 서비스 하였습니다.\n\t 박문성, 배성재 등 고객사가 독자적으로 보유한 해설위원의 전문적인 관전평 및 브라질 현장 소식을 제공하였으며, 실시간 방송 서비스 및 경기를 관전하면서 경기에 대한 의견을 공유할 수 있는 실시간 관전평, 석자평 서비스도 제공하였습니다.\n\t 메인 상단의 영역과 콘텐츠 영역은 주요 콘텐츠를 편성할 수 있도록 함으로써 현재 시점에서 사용자에게 더 중요한 정보를 선별적으로 제공 할 수 있도록 개발되었습니다. \n\t 경기 시간 동안 빠르게 월드컵 소식을 전하는 것이 무엇보다 중요한 사이트이므로 관리 편의성을 높일 수 있도록 간결하고 쉬운 UI 및 여러 페이지에 유기적으로 연동된 경기일정, 결과, 및 중계 정보를 빠르고 간편하게 관리할 수 있도록 Backoffice를 정비하였습니다.",
+    "script2": "｜ DESIGN\n\t 브라질 월드컵의 느낌을 살리면서 많은 양의 정보가 분산되지 않고 통일될 수 있도록 FIFA 공식 로고에 사용된 그린 컬러를 활용하고, 그레이톤으로 정돈하였습니다.\n\t 동영상 아이콘, 박문성 매치리뷰 등은 옐로우 컬러를 활용하여 콘텐츠 집중도를 높였습니다.\n\t 월드컵 관련 뉴스 콘텐츠가 대부분이며, 핵심적인 콘텐츠였기 때문에 언론/방송사 특유의 가독성높은 크기의 타이포와 적절한 행간을 적용하였으며, 짧은 기간 집중적으로 이용되는 사이트임을 고려하여, 최대한 쉽고 간단하며 친숙한 UI를 사용함으로써 사용성을 해치지 않도록 하였습니다.\n\t 메인 타임라인 영역은 여러 종류의 콘텐츠가 노출되어 다소 복잡해 보일 수 있으므로 콘텐츠를 아이콘으로 구분하여 사용자가 쉽게 인지하도록 하였습니다.",
+    "script3": "｜FUNCTION\n\t 2014브라질월드컵 공식사이트는 방송사에서 운영하는 사이트인 만큼 각계 각층의 사용자에 대한 고려가 필수적임에 따라 웹접근성 지침을 준수하여 제작되었습니다.\n\t 사이트 본연의 역할로서 뉴스, 영상, 포토 등 월드컵 소식을 효과적으로 전달하고, 박문성, 배성재 등의 해설자/캐스터 및 시청자의 소통을 밀접하게 느낄 수 있도록 메인 영역을 적절히 편성하여 제공하고, 따봉, 댓글, 공유로 고객 참여가 가능하도록 개발 되었습니다.\n\t 쉽고 편리한 UI 구현, FIFA API 연동으로 정확도 높은 경기 정보 제공 및 풍부한 경기 사진과 뉴스 기사를 신속 정확하게 제공하는 것을 최우선으로 고려하였습니다.\n\t PC/모바일 등 환경에 구애받지 않고 월드컵을 시청할 수 있도록 실시간 방송 서비스를 제공하였으며, 소셜 로그인 기반의 참여 서비스인 관전평, 석자평을 통해 경기에 대한 의견을 공유할 수 있도록 하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/06/14205035/01.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/06/14205037/02.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/06/14205038/03.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/06/14205040/04.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014mobilelotte-super/",
     "PROJECT": "LOTTE SUPER MOBILE SHOP",
     "CLIENT": "LOTTE SUPER",
     "TYPE": "APP",
-    "DEBUT DATE": "2014.06"
+    "DEBUT DATE": "2014.06",
+    "script1": "｜ PLAN\n\t1) 목표 : 모바일 UX 개선을 통한 사용자 편의성 강화 및 매출 증대\n\t2) 수행범위\n\t① UI 개선 : 스와이프 방식 UI 개선, 핵심상품 집중도 강화, 재구매 유도 개선, 쉽고 빠른 쇼핑 \n\t② 마케팅 강화 : “반여사” 코너 개설(큐레이션 방식의 반값 쇼핑), 마케팅 영역 확대\n\t③ PUSH 기능 개선 : 이미지 push 발송, 성능 및 안정성 향상, 마케팅 강화\n\t④ 컨텐츠 강화 : 레시피 강화를 통해 모바일 활성화 및 매출 촉진\n\t3) 구축범위\n\t① M.web\n\t – 메인 : 자주 사는 상품 / 금주의 전단 / 반여사 / 오늘 뭐 먹지? / 이벤트/쿠폰\n\t – 서브 : 푸드스토리 / 기획전 / 이벤트 / 알림보관함 / 상세페이지 팝업\n\t – 상품리스트 : 금주의 전단 / 카테고리 / 검색페이지 / 기획전 / 위시리스트 / 최근 본 상품 / 장바구니 / 영수증보관함 / 자주 사는 상품 / 쿠폰북 / 레시피 리스트 / 상품평\n\t② Backoffice : 금주의 전단 / 반여사 / 기획전 / 이벤트 / 전사 행사배너 / 전면팝업 / 푸드스토리 배너 / 영수증 이벤트 배너 / 반여사 매출통계\n\t③ APP : 하단 APP 메뉴 / 알림보관함 / 매장 전화연결",
+    "script2": "｜ DESIGN\n\t1) 트렌드에 맞는 디자인\n\t – 플랫한 디자인(단순하게), 아이콘은 밝은 색의 라인 아이콘으로 제작\n\t – 키친 느낌으로 밝고 재미있고 아이디어/ 감성적인 디자인\n\t2) color\n\t – 슈퍼의 레드, 그린 아이덴티티 컬러를 유지하면서 그린 80%, 레드 20% 비중으로 부드러운 톤의 컬러 사용\n\t3) element\n\t – 아기자기한 느낌의 아이콘 사용\n\t – 버튼 등에 롯데슈퍼 아이덴티티를 녹임\n\t4) 마케팅 측면\n\t – 상품 이미지가 돋보일 수 있는 디자인\n\t – 판매가/ 할인률 강조될 수 있는 디자인",
+    "script3": "｜FUNCTION\n\t1) 스와이프\n\t – 메인 금주의 전단/ 반여사 / 자주사는 상품 / 오늘 뭐먹지? / 이벤트 쿠폰 총 5개의 메뉴를 스와이프 처리\n\t – 여러 단계를 거치치 않고 쉽게 페이지 이동이 자유로움\n\t – 스와이프 되면서 5개의 페이지 DB를 호출해야 하므로 속도(퍼포먼스) 문제가 발생될 수 있고 진저브레드 이하의 환경에서는 스크립트가 깨지는 현상이 자주 발생됨\n\t – 퍼포먼스 향상을 위해 DB 노출 개수를 제한하고 소스를 정제하고 불필요한 스크립트를 정리하여 속도 이슈 해결함 \n\t2) PUSH \n\t – 기존 텍스트 푸쉬 발송에서 이미지 푸쉬 발송으로 개선\n\t – 안드로이드는 리치푸쉬(이미지) 발송이 가능하지만 IOS는 텍스트 푸시만 가능함\n\t – 롯데닷컴이 구글 플레이 마켓에서 푸쉬 관련해서 2번의 아웃 경고를 받은 상태이므로 이미지 푸쉬 발송 버전과 노티만 노출되도록 하여 발송하는 2가지 버전으로 작업 (고객이 다른 앱 실행시 닷컴 푸쉬 팝업 으로 인한 불편신고를 여러차례 구글 플레이 마켓에 신고함. 구글 플레이마켓에서 닷컴에 경고를 주고 닷컴에서는 자체적으로 푸쉬 발송 자제하고 있는 입장 ) \n\t3) 상품 리스트\n\t – 상품 유닛 등을 PC와 동일하게 정리하여 모바일에 맞게 노출 될 수 있도록 작업\n\t – [금주의 전단 / 카테고리 / 검색페이지 / 기획전 / 위시리스트 / 최근 본 상품 / 장바구니 / 영수증보관함 / 자주 사는 상품 / 쿠폰북 / 레시피 리스트 / 상품평]의 전체 상품 리스트 유닛 수정\n\t4) 마케팅 플랫폼 ‘ 반여사’ 코너 개설\n\t – 기존 소셜 커머스 방식 UI로 시간 카운터가 노출되고 기간내 MD가 엄선한 주력상품 할인가에 판매하는 프로세스\n\t – 모바일 운영 목적으로 기획되었다가 PC웹에서도 구현 가능할 수 있도록 작업(운영팀)\n\t5) 재구매 유도 페이지 개선\n\t – 온/오프 구매이력을 노출하여 고객이 주문했던 상품을 바로 찾아서 구매 할수 있도록 하는 ‘자주 사는 상품 ‘ 페이지 개선 작업\n\t6) APP\n\t – 개선에 따른 APP 메뉴 수정\n\t – 기존 잘못된 스크립트 소스 개선, IOS7 관련 결함 수정",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205042/Lottemobile_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205044/Lottemobile_%EC%83%81%EC%84%B8%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014webcgv/",
-    "PROJECT": "CGV \ud648\ud398\uc774\uc9c0 \uc6f9\uc811\uadfc\uc131 \ub9ac\ub274\uc5bc",
+    "PROJECT": "CGV 홈페이지 웹접근성 리뉴얼",
     "CLIENT": "CJ CGV",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.06"
+    "DEBUT DATE": "2014.06",
+    "script1": "｜FUNCTION\n\t 프로젝트 초기 단계에세 가장 중점을 둔 부분은 각 기능들의 모듈화이다. 각 기능들을 최소화하여 어느 위치에 넣어도 가능한 동일한 UI를 유지할 수 있도록 모듈화를 통해 Markup과 CSS를 최소화하고 재활용이 가능하도록 하였다. 이를 구현하기 위해 Naming 예약어 정의 및 Class Naming 중복을 최소화하고 하위 Class Naming을 지정하였으며, 컬럼 형식으로 지정되는 레이아웃 또는 콘텐츠는 Grouping을 통해 쉽게 알아볼 수 있도록 cols, col이라는 접두사를 사용하였다. 특이 케이스에 대해서는 상위 도메인 값으로 지정한 Class에 상속 받아 UI를 변경할 수 있도록 조치하였으며, Attribute Selector를 이용하여 디자인 분리를 원활하게 할 수 있도록 CSS를 정의하였다. \n\t 기존 프로젝트 소스가 닷넷코드임에도 불구하고 스파게티 코드로 구성되어 있고, 소스관리가 전혀 되지 않았다. 또한 .NET Framework 4.0을 사용함에도 불구하고 소스는 1.0 버전의 코드를 사용하고 있어 초기 분석에 어려움이 많았다. 다만 이번 프로젝트가 DB 변경이나 비지니스로직에 대한 전면 개편 수준이 아닌 관계로 Presentation Code를 정리하는데 중점을 두었다. 더불어 효율적인 코드관리를 위해 Server Control을 최소화하고 DataSet 형태의 모든 데이터를 Generic으로 변경하였다. 페이지의 성격에 따라 적절한 Ajax 사용과 주요 기능들에 대한 모듈화를 통해 접근성, 사용성, 효율성을 높이는데 주력하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205045/01-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205047/02-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205048/03-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205050/04-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2014/07/14205051/05-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014applicationsamsung-everland/",
-    "PROJECT": "\uc5d0\ubc84\ub79c\ub4dc \uae30\uc5b4 \uccb4\ud5d8 APPLICATION",
+    "PROJECT": "에버랜드 기어 체험 APPLICATION",
     "CLIENT": "SAMSUNG EVERLAND",
     "TYPE": "APPLICATION",
-    "DEBUT DATE": "2014.04"
+    "DEBUT DATE": "2014.04",
+    "script1": "｜ PLAN\n\t Everland 內에서 GearFit을 활용하여 ‘티켓’,‘에버코인’과 같은 디지털 결제 정보 및 테마파크 시설과 행사 정보를 실시간으로 조회하고, 즐겨찾기·알람과 같은 이용자 편의기능을 제공할 수 있는 GearFit향 소프트웨어를 개발",
+    "script2": "｜ DESIGN\n\t[Concept]\n\t Samsung GearFit의 Common Design과 같이 직관적인 Icon을 적용하고 Everland의 고유 Color를 활용하여 메뉴를 구분한 GUI 구성과 모든 메뉴가 2depth에서 마무리되는 Simple한 UI구조를 기반으로 Samsung GearFit을 통하여 Everland에서 그동안 경험하지 못했던 보다 편리한 서비스를 사용자가 체험할 수 있도록 구성\n\t  – Color\n\t    기존 Everland App의 고유 Color를 사용하여 Identity를 담아낼 수 있도록 제공하며\n\t    Main Menu의 각 영역 별 Color를 2Depth의 Main Color로 사용하여 되어 일관성을 유지\n\t   – Icon\n\t   기존 Everland App과의 일관 된 Look&Feel을 유지하면서 GearFit Icon Style을 나타내기 위해 Line Icon을제작\n\t[디자인 특징]\n\t 삼성전자 UX파트로부터 메가존의 다른 디자인 레퍼런스도 소개하는 기회가 될 정도로 좋은 반응을 얻었으며, 에버랜드에서는 신규 디자인 된 Icon을 기존의 에버랜드 App(Android)에 반영하는 등 높은 만족도를 이끌어냄",
+    "script3": "｜ FUNCTION\n\t[Concept]\n\t 1. GearFit Concept를 최대한 어필할 수 있도록 CUP (Companion UI Profile)를 활용한Front UI 개발\n\t 2. GearFit 사용자가 에버랜드를 이용할 때 다른 사용자들보다 차별화 된 경험을 제공할 수 있도록 편의 기능 제공\n\t 3. 데이터가 주기적으로 원활하게 제공될 수 있도록 제공\n\t[개발 특징]\n\t 1. Custom UI : SDK에서 기본 제공하는 CUP에 제약이 많아  대부분의 UI Control을 custom하여 사용\n\t 2. Stand Alone 구조 제안 : 초기 고객 요구사항은 에버랜드 App 실행 중에만 동작하는 구조로 Android App과 Gear App의 dependency가 강한 구조로  논의되었으나, 실제 사용자 입장에서는 에버랜드 App을 계속해서 실행하고 있는데 사용 불편이 있을 것으로 파악, 메가존에서 제안하여 에버랜드 App 설치 이후에는 GearFit App이 독립적으로  구동될 수 있도록 구현\n\t 3. 예매 및 결제 완료/취소문자 범용 대응 : 초기 요구사항에서 일반 문자 SMS를 parsing하여 GearFit에 해당 정보를 제공하도록 요청받았으나, 실제 사용되는 문자 유형이  다양하며(SMS/MMS/LMS), 이동통신사별 제공 규약이 다른 부분을 확인, 모든 경우의 수에 대응할 수 있도록 유연하게 개발",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2014/08/14205052/%EA%B8%B0%EC%96%B4-%EC%B2%B4%ED%97%98-APPLICATION_01.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2014/08/14205055/%EA%B8%B0%EC%96%B4-%EC%B2%B4%ED%97%98-APPLICATION_02.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014webhyundai-hilife/",
-    "PROJECT": "\ud604\ub300\ud558\uc774\ub77c\uc774\ud504 \uc6f9\uc0ac\uc774\ud2b8 \ub9ac\ub274\uc5bc",
-    "CLIENT": "\ud604\ub300\ud558\uc774\ub77c\uc774\ud504\uc190\ud574\uc0ac\uc815(\uc8fc)",
+    "PROJECT": "현대하이라이프 웹사이트 리뉴얼",
+    "CLIENT": "현대하이라이프손해사정(주)",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.11"
+    "DEBUT DATE": "2014.11",
+    "script1": "｜ PLAN\n\t현대하이라이프손해사정 웹사이트는 사업 영역과 기업 정보를 알기 쉽고 가치 있게 보여줄 수 있어야 하며 지속적이고 일관성 있는 브랜드 이미지를 매력적으로 전달하려 했으며, 현대하이라이프손해사정의 철학을 공감하고 회사의 이미지를 누구나 좋아할 수 있게 프로세스나 절차 중심이 아닌 고객과의 관계 중심으로 일반 고객에게 감성적이고 친근하게 어필하는 기업 브랜드 가치를 확립할 수 있도록 접근하였다.",
+    "script2": "｜ DESIGN\n기업의 정체성 표현을 위한 디자인 개선을 위하여 Graphic Motif로 DIAMOND 패턴을 활용하여 견고함, 신뢰, 우아함을 표현하였으며, 믿음과 신뢰를 바탕으로 절제된 화면 구성과 명확한 선과 면 처리로 단단한 레이아웃을 지향하였다. 또한, 효과적인 정보 전달을 위해 픽토그램 등을 활용한 정보의 시각화를 통하여 업무 중심이 아닌, 쉽게 다가갈 수 있는 서비스 중심의 정보를 제공하였다.",
+    "script3": "｜FUNCTION\n\t1. DB Scheme 재설계 및 Migration / OOP 관점의 설계 / MVC 패턴 도입을 통한 시스템 확장성 개선\n\t2. 코드 재활용하여 중복 된 코드를 제거하고 프레임워크를 통한 코드 일관성을 확보\n\t– 자동화 된 단위테스트 통항 안정성 유지\n\t3. 보안성 강화\n\t– OWASP 10대 취약점 개선을 위한 Security Coding\n\t4. 채용 프로세스 개선\n\t– 채용문의 편의성 증대, 지원 결과 통지 프로세스 개선\n\t– 입사지원서 작성 개선",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205103/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205104/%EC%83%81%EC%84%B8_01.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205106/%EC%83%81%EC%84%B8_02.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205107/%EC%83%81%EC%84%B8_03.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014mobilelottemall/",
-    "PROJECT": "\ub86f\ub370\ubab0 \ub3d9\ubd80\uc0b0 \ubaa8\ubc14\uc77c\uc571 \uad6c\ucd95",
-    "CLIENT": "\ub86f\ub370\uc1fc\ud551 \ub86f\ub370\ubab0\ub3d9\ubd80\uc0b0\uc810",
+    "PROJECT": "롯데몰 동부산 모바일앱 구축",
+    "CLIENT": "롯데쇼핑 롯데몰동부산점",
     "TYPE": "APP",
-    "DEBUT DATE": "2014.12"
+    "DEBUT DATE": "2014.12",
+    "script1": "｜ PLAN\n쇼핑몰, 아울렛, 마트, 영화관 등이 모두 입점되는 종합 쇼핑몰 롯데몰 동부산점의 신규 오픈에 맞추어, 방문한 고객이 이용하고자 하는 시설과 브랜드를 현장에서 쉽게 찾을 수 있도록 지원하는 목적으로 모바일앱을 개발. 고객의 실제 쇼핑몰 이용 상황을 시뮬레이션하여 원하는 정보에 최대한 빠르게 접근할 수 있는 서비스를 목표로 기획함.",
+    "script2": "1. 메인 : 앱을 실행한 고객에 고민하지 않도록 주요 정보를 모아서 제공\n\t– 층별 정보\n\t– 쇼핑정보(할인, 이벤트)\n\t– 주요시설 정보(마트, 영화관, 쇼핑몰, 아울렛)",
+    "script3": "2. 메뉴 : 메인에서 제공하는 정보를 전문화하여 제공\n\t– 층별 정보\n\t– 매장 정보 \n\t– 편의시설 정보\n\t– 주차 위치 정보\n\t– 이벤트/할인 정보",
+    "script4": "3. 공통 : 넓은 매장에서 원하는 매장이나 시설 접근이 용이하도록 실제 쇼핑몰 지도를 사용하여 위치 정보 제공",
+    "script5": "4. Backoffice : 롯데몰 전체 관리자 외 입점 매장 관리자 CMS를 제공하여 매장 및 브랜드에 대한 이미지/정보를 직접 관리하도록 제공",
+    "script6": "｜ DESIGN\n\t롯데몰 동부산 전체 컨셉이 '부산의 산토리니'이므로 Blue와 White 계열 컬러를 사용하였으며, 롯데몰 동부산의 트레이드마크인 등대 건물의 이미지를 최대한 살리기 위해 산토리니 성당 건물과 바다를 배경으로 메인 비쥬얼을 구성하여 시원하고 여유로운 느낌을 최대한 표현하고자 함.",
+    "script7": "[Concept]\n\t1. 앱 출시 후 고객 요구사항 변경에 유연하고 빠르게 대응하기 위한 Hybrid App 구조\n\t2. 지연으로 인한 이용 불편을 최소화 하기 위한 데이터 설계\n\t3. Native App과 같은 Interaction 및 사용성 제공",
+    "script8": "[개발 특징]\n\t1. Hybrid App\n\t – iOS, Android, Mobile Web을 모두 대응하기 위해 Titanium Framework을 사용한 Webview에 SPA로 구현한 Web App을 제공할 수 있도록 구현.\n\t – Android Webview의 성능 문제로 초기 기대했던 만큼의 \"Native App과 동등한 수준의 Interaction\"을 구현하는데 어려움이 있었음.",
+    "script9": "2. Provisioning\n\t – Android Market의 경우에는 해당되지 않지만, iOS App의 경우에는 등록에서 출시까지 평균 2주 정도가 소요되므로, App의 재배포 없이 업데이트를 고려하여 개발.\n\t – 초기 앱 배포 시에는 모든 소스를 포함하여 배포하지만, 일부 변경이 발생할 경우 web server 배포 후 Provisioning을 통해 일부 소스만 업데이트받아 사용할 수 있음.",
+    "script10": "3. Map\n\t – 원활한 Zoom In/Out과 선명한 이미지를 제공하기 위해 Google Map, SVG Map 등을 고려하였으나, 무료 사용 시 API 사용 횟수 제한과 Android 하위 버전의 SVG 렌더링 성능 저하 문제로 인해 오픈소스인 Leaflet을 Customizing하여 사용하여 목표를 달성.",
+    "script11": "4. 주차 위치 조회 연동 개발\n\t – 롯데정보통신의 주차 관리 서버와 연동한 데이터를 실제 주차장 Map에 표시하여 제공하는 기능 구현.",
+    "script12": "5. 롯데시네마 연동 개발\n\t – 현재 상영 영화 정보를 제공하기 위해 롯데시네마 API를 활용한 상영관/일자별 영화 정보 조회 기능 구현.",
+    "script13": "6. 다국어 대응\n\t – 한글, 영문, 일문, 중문(간/번ㅊ)을 대응하고 추후 확장을 고려하여 Resource를 언어별로 통합관리하도록 개발. 추후 언어 추가가 필요할 경우 동일한 set의 property 파일을 셋팅하고 일부 UI를 변경하면 빠르게 대응할 수 있음.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205110/Lottemall_dong_busan_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205109/Lottemall_dong_busan_%EC%83%81%EC%84%B8%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2015webinterpark-ticket/",
-    "PROJECT": "\uc778\ud130\ud30c\ud06c \ud2f0\ucf13 PC\uc6f9\uc0ac\uc774\ud2b8 \uba54\uc778\ud398\uc774\uc9c0 \uac1c\ud3b8",
-    "CLIENT": "\uc778\ud130\ud30c\ud06c",
+    "PROJECT": "인터파크 티켓 PC웹사이트 메인페이지 개편",
+    "CLIENT": "인터파크",
     "TYPE": "WEB",
-    "DEBUT DATE": "2015.3"
+    "DEBUT DATE": "2015.3",
+    "script1": "｜ PLAN\n기존의 복잡한 구조로 만들어진 인터파크 티켓 메인페이지와 전체 GNB의 UI를 개선하여 방문한 고객이 직관적으로 정보를 알아보고 찾기 쉽게 구성하기 위한 개선 프로젝트로 기획와 UI디자인을 담당하였다.",
+    "script2": "초기 제안때부터 키 컨셉으로 가져왔던 이미지를 통한 감성을 통해 고객과 소통하자라는 주제를 가지고 기존대비 텍스트의 양을 줄이며 복잡하게 섞여있었던 콘텐츠의 재 그룹핑을 통해 접근성과 사용성을 증진시키는 서비스를 목표로 기획하였다.",
+    "script3": "｜ DESIGN\n연극과 공연의 티켓을 판매하는 인터파크 티켓사이트에서 방문자에게 보다 생동감 넘치며 감성적인 정보를 전달하고자 상단의 프로모션 영역을 실제 공연장의 이미지를 제공하여 현장감과 주제의 특징을 효과적으로 전달하여 이미지에서 묻어나오는 감성의 메시지를 전달하고자 하였다. 중단과 하단의 콘텐츠도 기존대비 썸네일의 크기를 크게하여 시원한 느낌을 전달하고 정돈된 그리드를 통해 다양한 정보를 일목요연하게 정리하여 전반적으로 콘텐츠에 대한 사용성을 크게 높혔다.",
+    "script4": "티켓을 빠르게 찾을수 있는 검색기능에 감성적인 모티브를 추가하여 사용자에게 알맞는 티켓을 감성적인 추천을 통해 찾아볼 수 있게 제작하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205111/interpark_ticket_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_02-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205113/interpark_ticket_%EC%83%81%EC%84%B8_01-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205115/interpark_ticket_%EC%83%81%EC%84%B8_02-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205116/interpark_ticket_%EC%83%81%EC%84%B8_03-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205117/interpark_ticket_%EC%83%81%EC%84%B8_04-1.jpg",
+    "image6": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205117/interpark_ticket_%EC%83%81%EC%84%B8_05-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2015weblg-u-biz-web-accessibility/",
-    "PROJECT": "LG U+\uba54\uc2dc\uc9d5 4\uac1c \uc6f9\uc0ac\uc774\ud2b8 \uc6f9\uc811\uadfc\uc131 \uac1c\uc120",
+    "PROJECT": "LG U+메시징 4개 웹사이트 웹접근성 개선",
     "TYPE": "WEB",
-    "DEBUT DATE": "2015.07"
+    "DEBUT DATE": "2015.07",
+    "script1": "웹 접근성이란 장애에 구애 없이 모든 사람들이 손쉽게 정보를 공유할 수 있는 인터넷 공간 만들기 입니다. 다시 말해 장애를 가진 사용자들이 비장애인과 동일하게 웹사이트에 접근하고 이용에 불현함이 없도록 하는 것을 말합니다. 고령자등을 포함한 웹 이용자의 확대, 법률 의무화, 효율성에서 웹 접근성 준수는 꼭 필요한 부분이라 생각합니다.",
+    "script2": "SMS, MMS, SURVEY, URL 4개 사이트는 한국형 웹 콘텐츠 접근성 지침 2.0 (KWCAG 2.0)을 기준으로 인식의 용이성, 운용의 용이성, 이행의 용이성, 견고성 4가지 원칙, 22가지 세부항목의 지침에 따라 작업되었습니다.",
+    "script3": "4개 사이트는 스크린 리더로 웹사이트를 이용하는 유저와 인지 장애가 있는 유저들에게 미치는 영향이 클 수 있는 네비게이션의 일관성을 가지고 갔으며,  의미적 마크업을 가질 수 있도록 노력하였으며, 스크립트 또한 일관성을 가지고 가기 위해 Tool Tip, Layer Popup, Datepicker, Tree, Rolling Contents, Range Slider, Form Validate, DropDown 팩키지화하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205118/UBiz_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205119/UBiz_%EC%83%81%EC%84%B8_01.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205120/UBiz_%EC%83%81%EC%84%B8_02.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205121/UBiz_%EC%83%81%EC%84%B8_03.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014weblotte-super-fresh/",
     "PROJECT": "LOTTE FRESH",
     "CLIENT": "LOTTE SUPER",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.12"
+    "DEBUT DATE": "2014.12",
+    "script1": "｜ PLAN\n롯데슈퍼 고객 중 서초 지역 고객을 대상으로한 롯데프레시 서비스를 오픈하였습니다. 기존 오프라인으로 운영하던 일반 매장을 폐장하고 강남, 서초 지역을 아우르는 온라인 전용 물류 센터를 개설하여 센터를 통해 재고를 자체적으로 보유하고 주문이 들어오면 즉시 피킹, 출하, 배송이 되는 시스템을 구축하였습니다. 또한 롯데프레시는 인근에 위치한 베이커스필드와 김연심찬 등을 롯데프레시센터 내에서 운영, 생산하고 올가홀푸드를 입점하여 기존 오프라인 매장에 없던 차별화된 상품을 서비스 합니다.",
+    "script2": "그리고 이번 프로젝트에서 배송관리 시스템을 도입하여 서초센터 배송기사에게 회차별로 자동으로 주문을  배차 할 수 있는 시스템을 구축하였습니다. 서초센터는 일 5회 배송을 기본으로 하며 강남, 서초 구역을 10개 구역으로 구분하고 각 구역별로 배송기사를 지정하여, 배송기사가 본인의 스마트폰(모바일웹)을 통해 회차별 배송을 진행할 수 있습니다.",
+    "script3": "｜ DESIGN\n롯데프레시는 주문 후 3시간 이내 배송이라는 신선함과, 강남 서초 지역의 고객들을 대상으로한 고급스러움을 표현하고자 하였습니다. 롯데슈퍼의 기본 레이아웃을 변경하지 않으면서 롯데프레시를 디자인하여야 했기에 제약된 사항이 많았습니다. 최소한의 GNB 수정과 상단 비쥬얼 영역만을 변경하여 롯데프래시만의 Identity를 만들기 위해 아마존 프레시 등 많은 해외 사이트를 벤치마킹하고 분석하였습니다.",
+    "script4": "이를 통해 올리브그린을 메인 컬러로 선정하여 하여 롯데프레시만의 브랜드 노출은 고급스러운 컨셉이미지로 차별화된 서비스를 제공하고 있음을 인지 시켰습니다.",
+    "script5": "｜FUNCTION\n롯데프레시 개발은 두가지로 볼 수 있습니다. 롯데슈퍼의 단골매장이 서초지역일 경우 롯데프레시의 UI를 보여주도록 하는 부분과 모바일 배송관리 시스템 구축에 대한 부분 이였습니다. 롯데프레시의 경우 기존 롯데슈퍼 고객과 롯데프레시 대상 고객에게 서비스 전환에 관하여 안내 푸시를 어떻게 진행할 것인지에 대한 부분과 도메인 리다이렉트에 대한 이슈가 있었습니다.",
+    "script6": "배송관리 시스템은 서초센터의 DCS(Digital Cart System)와 인터페이스를 하여 온라인으로 접수된 주문을 카트 모니터에 출력하여 피커가 주문 상품을 쉽게 픽킹 할 수 있도록 처리하는 부분과 이렇게 픽커를 통해 포장된 장바구니를 배송기사가 별도 출력된 주문서 없이 스마트폰으로 배송관리 시스템에 접속하여 고객에게 배송을 하며 배송이 완료된 건에 대해  ‘배송확정’ 처리할 수 있는 기능을 개발하였습니다. 이를 통해 감열지 절약 및 불필요한 프로세스를 최소화 하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205122/KakaoTalk_20150626_143524469-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205123/KakaoTalk_20150626_144049434-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205124/KakaoTalk_20150626_144049644-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014weblottemart-toysrus/",
     "PROJECT": "LOTTEMART TOYSRUS",
     "CLIENT": "LOTTEMART",
     "TYPE": "WEB,APP",
-    "DEBUT DATE": "2014.11"
+    "DEBUT DATE": "2014.11",
+    "script1": "기존 롯데마트 완구/유아 카테고리를 분리하여 별개의 전문몰로 구성하는것이 이번 프로젝트의 목적이었다. 토이저러스는 전 세계 36개국에 1500개의 매장을 운영하는 장난감/유아용품 전문 매장으로써 다양한 브랜드의 제품을 합리적인 가격에 제공한다는 취지에서 이번 프로젝트를 런칭하게 되었다.",
+    "script2": "롯데마트의 완구/유아 카테고리를 분리하는만큼 회원 체계 및 결제 프로세스를 기존과 유지해야했기에 장바구니, 마이마트, 고객센터 등의 공통화면에서 체크 및 개선부분에 대한 검토가 상당히 까다로운 작업이었다.\n아울러, 완구/유아용품 제품의 특성 상 실제 사용하는 아이의 연령대 및 성별에 맞게 상품평과 제품후기(R스토리) 컨텐츠로 제품에 대한 사용정보를 공유할 수 있도록 기획하였다.",
+    "script3": "모바일의 경우 여러 프로모션 쿠폰 및 아이콘을 그룹필하여 각각의 영역을 할당하여 전반적으로 정돈 레이아웃으로 좁은 화면에서의 다양한 정보제공에 대한 복잡함을 탈피하고자 하였다.",
+    "script4": "｜ DESIGN\n토이저러스라는 사이트명에서 알 수 있듯이 장난감을 다루는 사이트인만큼 딱딱한 텍스트보다는 이미지(일러스트)를 많이 사용함으로써 사이트 전반적으로 재미있는 컨셉을 가지려 노력하였다.",
+    "script5": "또한, 쇼핑몰의 특성상 많은 정보를 노출해야하는 부분에 있어 영역 구분 및 선택된 정보에 대해 다른 정보와 차별되게 보여지면서 지저분해지지 않도록 노력하였다.",
+    "script6": "모바일에서는 장난감 제품의 특성상 보여지는 이미지가 대부분인 점을 감안하여 제품이미지를 부각시키는 방향으로 포커싱하였다.",
+    "script7": "｜FUNCTION\n퍼블리싱 파트에서는 메인 카테고리 영역(LNB)에서 커서의 방향 및 속도를 감안하여 오른쪽 대각선 위/아래로 이동(선택된 카테고리의 우측 레이어로의 이동으로 간주)시에는 다른 카테고리 롤오버가 되지 않는 이른 바 “스마트move”를 적용하여 고객의 소소한 실수도 배려하는 세심한 쇼핑몰로 거듭 태어날 수 있었다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205125/%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%93%B1%EB%A1%9D_%ED%86%A0%EC%9D%B4%EC%A0%9C%EB%9F%AC%EC%8A%A4_780x480.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205127/%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%93%B1%EB%A1%9D_%ED%86%A0%EC%9D%B4%EC%A0%9C%EB%9F%AC%EC%8A%A4_%EC%83%81%EC%84%B81.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205129/%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%93%B1%EB%A1%9D_%ED%86%A0%EC%9D%B4%EC%A0%9C%EB%9F%AC%EC%8A%A4_%EC%83%81%EC%84%B82.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205130/%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%93%B1%EB%A1%9D_%ED%86%A0%EC%9D%B4%EC%A0%9C%EB%9F%AC%EC%8A%A4_%EC%83%81%EC%84%B83.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014weblg-n-sys/",
     "PROJECT": "LGNSYS",
     "CLIENT": "LGNSYS",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.04"
+    "DEBUT DATE": "2014.04",
+    "script1": "｜ PLAN\n\t 리뉴얼 된 LG엔시스 사이트는 웹표준 및 웹접근성을 준수한 코딩과 최신 디자인 트렌드를 반영하였으며, 보다 쉽고 편리한 사이트 이용이 가능한 UI를 제공한다.\n\t 사용자에게 전문화된 정보를 직관적으로 전달 할 수 있는 메뉴구조를 형성되었으며, 중요도가 높은 채용파트는 사용자가 더욱 쉽게 접근 할 수 있도록 별도 사이트로 분리되여 서비스 되고 있다.\n\t LG엔시스는 사이트 리뉴얼 이후 홈페이지 상에서 활발한 프로모션 진행과 웹진 서비스를 통해 IT 인프라 전문업체로써의 위치를 고수하고 있다.\n\t 또한, 보안이 확실한 구조의 어드민 페이지를 구축하여 국문 사이트는 물론 영문과 모바일 사이트까지 체계적인 관리가 진행되고 있다.",
+    "script2": "｜ DESIGN\n\t LG의 메인컬러인 레드핑크 색을 전반적으로 사용하여 브랜드 아이덴티티를 확립하였고 임팩트 있는 감성사진과 카피를 메인 비주얼에 노출하여 전문적인 기업 브랜드 이미지를 보여주었다.\n\t 사용자들이 직관적으로 접근이 용이하고 보기 편안한 Flat Design을 바탕으로 하여  작업되었으며, 익숙한 가로 레이아웃을 적용하였고, 사각 그리드를 적용하여 컨텐츠를 정돈하여 보기 편하게 쉽고 편리한 사이트를 만드는데 초첨을 맞췄다.\n\t 자칫하면 딱딱해 보일수 있는 제품 및 서비스를 이해도 높은 아이콘을 활용하여 쉽게 다가도록 하였으며, 일관성 있는 아이콘 스타일로 톤 앤 매너를 유지하고자 하였다.",
+    "script3": "｜FUNCTION\n\t 기존에 다양한 브라우저에서 호환이 되지 않아 불편했던 점과 웹접근성 및 보안취약점을 개선하여 사용자가 사이트를 이용하는데 있어 편리하도록 작업 하였다.\n\t 또한, 기존 웹사이트의 가이드를 바탕으로 제작하여 일관성을 유지시켰으며, 모바일 환경에서도 최적화하게 제작 하였다. \n\t 초기 다음체로 구현되 있었으나 웹폰트를 로딩하는데 시간이 많이 소요되고, 유저 환경에 따라 자간 등으로 인해 보여지는 느낌이 달라 돋움체로 통일하였다.\n\t html5, css3, jQuery를 사용하였고, 최소한의 이미지를 사용하여 페이지 로딩속도와 가독성을 높였다.\n\t 또한 인터페이스 기반 연동으로 모듈간 변경 영향을 최소화한 것으로 사용자가 편리하게 이용할 수 있다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205131/LG%EC%97%94%EC%8B%9C%EC%8A%A4_MZ%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205132/LG%EC%97%94%EC%8B%9C%EC%8A%A4_main_re-1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205133/LG%EC%97%94%EC%8B%9C%EC%8A%A4_sub_01-1.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205134/LG%EC%97%94%EC%8B%9C%EC%8A%A4_sub_02-1.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205136/LG%EC%97%94%EC%8B%9C%EC%8A%A4_sub_03-1.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2014weblg-international-corp/",
-    "PROJECT": "LG\uc0c1\uc0ac \uad6d/\uc601\ubb38 \uc6f9\uc0ac\uc774\ud2b8",
-    "CLIENT": "LG\uc0c1\uc0ac",
+    "PROJECT": "LG상사 국/영문 웹사이트",
+    "CLIENT": "LG상사",
     "TYPE": "WEB",
-    "DEBUT DATE": "2014.08"
+    "DEBUT DATE": "2014.08",
+    "script1": "｜ PLAN\n국내 굴지의 종합 상사인 LG상사의 대표 사이트를 구축하면서, 단편적인 디자인, 기능의 개선을 넘어 기업의 Value Chain을 명확히 이해하고 비즈니스를 지원할 수 있는 Total 기업 브랜딩 사이트를 구축하였다.",
+    "script2": "상사의 연혁과 비전 등 걸어온 역사를 간략하고 알기 쉽게 표현하면서도 전체적인 시대 별 흐름에 따라 재분류하여 기업 철학을 한 번에 이해하고, 나아가 기업에 대한 공감대 형성을 통한 호의적인 브랜딩으로 발전할 수 있도록 구성하였다.",
+    "script3": "제품과 비즈니스영역은 다양한 사업군을 다루는 종합 상사의 특성과, 자원 개발등의 핵심 사업을 한 눈에 쉽게 이해하고 관련 사업 문의로 바로 연결 될 수 있도록 구성하여 명실 공히 마케팅 채널의 일환으로 활용될 수 있도록 구성하였다.",
+    "script4": "상사 관련 제품의AS및 문의처는 검색 UI의 강화를 통해 그래픽으로 쉽게 제공하고, 고객 문의 등의 커뮤니케이션 수단을 강화하여 전시적인 홈페이지의 역할에서 대 고객 소통 채널로 변화를 유도하였다.",
+    "script5": "상사의 비즈니스와 관련된 이미지를 대화면으로 느낌 있게 제시하여 명확한 인상을 심어 주고, 해당 내용과 관련된 액션을 집약적으로 제시하여 굳이 네비게이션 메뉴를 활용하지 않더라도 원하는 정보와 연관 활동을 손귑게 수행할 수 있도록 구성하여 처음 방문자가 많은 고객 특성에 따른 최적의 동선을 제공하였다.",
+    "script6": "LG고유의 로즈레드와 그레이, 화이트와 블랙을 믹스하여 컬러 시스템을 구성하였고, 지적이고 명쾌한 종합상사의 이미지를 표현하기 위해, 불필요한 그래픽을 최대한 자제하고, 흰 여백 위에 핵심적인 내용을 대담한 타이포그래피로 표현하였다.",
+    "script7": "｜FUNCTION\n모바일 매체를 고려하여 전 페이지를 반응형 웹으로 제작하였고, 한국형 웹 접근성 규칙과 웹 표준을 준수하여 어느 매체에서도 고객이 관련 정보를 열람하고 비즈니스 문의를 할 수 있도록 개편하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205136/LG_%EC%83%81%EC%82%AC-%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205146/LG%EC%83%81%EC%82%AC1-1.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205151/LG%EC%83%81%EC%82%AC2-1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2015webparadise-casino/",
-    "PROJECT": "\ud30c\ub77c\ub2e4\uc774\uc2a4 \uce74\uc9c0\ub178 \ud648\ud398\uc774\uc9c0/\ubaa8\ubc14\uc77c APP",
-    "CLIENT": "(\uc8fc)\ud30c\ub77c\ub2e4\uc774\uc2a4",
+    "PROJECT": "파라다이스 카지노 홈페이지/모바일 APP",
+    "CLIENT": "(주)파라다이스",
     "TYPE": "WEB, APP",
-    "DEBUT DATE": "2015.04"
+    "DEBUT DATE": "2015.04",
+    "script1": "｜ PLAN\n총 5개의 지점을 보유한 국내에서 가장 오래 된 외국인 전용 카지노인 파라다이스 카지노의 웹사이트 및 모바일 App을 리뉴얼하였다. 오래되고 관리되지 않은 컨텐츠와 미미한 운영 체계 등으로 사이트가 상당히 노후화 되어 있어 이를 개선하기 위한 작업이 진행되었다.",
+    "script2": "지루하고 나열식으로 구성된 텍스트 위주의 소개 컨텐츠를 방문 빈도가 적은 내방객이 한 페이지에서 쉽게 이해하고 내방 시 참조할 수 있는 정보로 활용하기위해 컨텐츠를 간략화하고  모바일과 웹 간의 컨텐츠 공유를 위해 공통적인 포맷으로 통일화하고, 매체에 맞게 재구성하였다.",
+    "script3": "5개 객장의 특성을 살려, 각 객장의 페이지가 독립적인 마케팅 시 개별적인 홈페이지처럼 사용할 수 있도록 구성하였고, 각 객장 별로 고객의 동선을 고려, 한 페이지에서 관련 정보를 순차적으로 습득하고 내방할 수 있도록 UX를 구성하였다.",
+    "script4": "또한, 해외 고객 대상 서비스인 만큼 글로벌 고객 대상의 APP마케팅을 전개할 수 있도록 Push및 소셜 관련 서비스를 개발, 적용하였다.",
+    "script5": "｜ DESIGN\n세련되면서도 무겁지 않고 액티브한 이미지를 표현하기 위해, 블랙과 골드 베이지 위에 액센트 컬러를 매칭하여 활용하였고, 빅 모델을 사용하는 사이트의 특성에 맞추어 오프라인 광고와 연계되는 이미지 및 표현 방법을 적용하였다.",
+    "script6": "동종 업게에서 시도하지 않은 빅 이미지를 활용한 스타일리시한 화면과, 각 객장의 특성을 살린 고유 컬러를 적용하여 차별화 하였고, 기존 카지노 사이트들의 음울한 분위기 대신 격조 높고 럭셔리하면서도 활기차고 즐거운 요소를 삽입하여 디자인하였다.",
+    "script7": "｜FUNCTION\n기존 시스템의 고질적 문제인 속도 저하 및 원인 불상의 오류를 해결하고자, JSP기반의 새로운 프레임웍으로 전면 재개발하였고, 모바일 및 여행사 고객이 사용하는 기능 또한 추가로 개발하여 퍼포먼스를 향상하고 활용성을 증대하였다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205156/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80-1.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205203/unnamed-file.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205222/1.png",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205230/2.png",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2015/07/14205238/unnamed-file-1.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2017-web-channel-atomy-website/",
-    "PROJECT": "\ucc44\ub110 \uc560\ud130\ubbf8 \uc6f9\uc0ac\uc774\ud2b8",
+    "PROJECT": "채널 애터미 웹사이트",
     "TYPE": "WEB",
-    "DEBUT DATE": "2017"
+    "DEBUT DATE": "2017",
+    "script1": "네트워크 마케팅에 대한 선입견과 경계심을 완화하고, 애터미 비즈니스에 대한 기대감과 신뢰성을 전달할 콘텐츠 강화를 목적으로 콘텐츠 중심 웹 사이트로 개편하게 되었습니다.",
+    "script2": "기업과 사업자, 그리고 사업자와 사업자가 정보와 비즈니스 마인드를 공유하고 관계를 형성할 수 있는 새로운 소통의 채널로 구축하고자 했으며, 주요 타겟인 50대 여성이 쉽고 편리하게 이용할 수 있는 UX를 적용하여 사용성을 높이고자 했습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2018/05/11182724/01_detail.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2018/05/11182821/02_detail.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2018/05/11182823/03_detail.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2017-application-woongjin-book-club/",
-    "PROJECT": "\uc6c5\uc9c4\ubd81\ud074\ub7fd \uc2a4\ud130\ub514 \uc11c\uc220\ud615 \uc218\ud559",
+    "PROJECT": "웅진북클럽 스터디 서술형 수학",
     "TYPE": "APPLICATION",
-    "DEBUT DATE": "2015.07"
+    "DEBUT DATE": "2015.07",
+    "script1": "초등학교 저학년 수학 교육과정에서 문제 인식, 추론 등 창의적 문제해결 능력 강화를 목적으로 서술형 학습이 도입되었습니다. 서술형은 충분한 개념 이해와 논리적 응용력이 있어야 풀이가 가능한 심도 깊은 학습입니다.",
+    "script2": "이에 웅진씽크빅에서는 학습자가 탐색하여 문제를 인식하고, 다양한 추론을 통해 단계적 풀이 과정을 도입하여 논리적 문제해결에 도달할 수 있는 초등학교 저학년 서술형 서비스를 제공하고자 하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2018/05/14160543/wj_main.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2018/05/14160615/wj_sub_1.jpg",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2018/05/14160616/wj_sub_2.jpg",
+    "image4": "https://img.mz.co.kr/wp-content/uploads/2018/05/14160616/wj_sub_3.jpg",
+    "image5": "https://img.mz.co.kr/wp-content/uploads/2018/05/14160617/wj_sub_4.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2017-web-volkswagen-approved/",
-    "PROJECT": "\ud3ed\uc2a4\ubc14\uac90 \uacf5\uc2dd \uc778\uc99d \uc911\uace0\ucc28",
+    "PROJECT": "폭스바겐 공식 인증 중고차",
     "TYPE": "WEB",
-    "DEBUT DATE": "2017"
+    "DEBUT DATE": "2017",
+    "script1": "폭스바겐 코리아에서 공식 인증하는 중고차량 판매 채널 강화 및 내차팔기, 비교견적, 커뮤니티를 제공하여 지속적인 고객의 유입을 유도합니다.",
+    "script2": "폭스바겐, 중고차 딜러사, 사용자 각각의 편의성을 고려하여 “고객과 폭스바겐과의 시작”이라는 최초 접점을 목표로 구축하였으며, 중고 매물을 직접 관리하는 딜러사의 관리 편의성을 고려한 관리자 구축을 통해 사용성 및 신뢰성 확보를 추구하였습니다.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2018/05/14130815/%EB%A9%94%EA%B0%80%EC%A1%B4_%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%93%B1%EB%A1%9D_%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%90_780x500.jpg",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2018/05/14130855/%ED%8F%AD%EC%8A%A4%EB%B0%94%EA%B2%902.jpg"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2017-application-hyper-media/",
     "PROJECT": "Hyper Media",
     "TYPE": "APPLICATION",
-    "DEBUT DATE": "2017"
+    "DEBUT DATE": "2017",
+    "script1": "익숙한 Windows UI로 트랜스코딩 시 복잡한 설정값을 입력하지 않고 필요한 옵션을 “프리셋 그룹”으로 미리 구성할 수 있으며 영상을 애플리케이션 내에서 Drag & Drop하면 한번의 클릭만으로 트랜스코딩이 가능함.",
+    "script2": "Hyper Transcoder, Player, Manager, Backend로 구성되어 있으며 Hyper Transcoder와 연동된 Hyper Subtitle Editor를 통해 자막을 편집하고 업로드 가능.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115551/hypermedia_02.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115726/hypermedia_011.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115727/hypermedia_021.png"
 }, {
     "link": "https://www.mz.co.kr/portfolio-items/2017-application-hyper-browser/",
     "PROJECT": "Hyper Browser",
     "TYPE": "APPLICATION",
-    "DEBUT DATE": "2017"
+    "DEBUT DATE": "2017",
+    "script1": "메가존 Platform Service 사업에서 제공하는 HyperCDN 서비스를 일반 사용자가 손쉽게 이용할 수 있도록 편의기능을 제공하는 클라이언트 프로그램으로써 인터넷 저장소에 여러 CDN서비스를 제공하며 최적의 속도가 보장되도록 제공함.",
+    "script2": "직관적인 UI로 인터넷 저장소에 있는 파일을 브라우징하여, 사용자가 쉽게 관리할 수 있으며 AWS의 Cloud Front와 Akamai, Lime light 등을 제공.",
+    "image1": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115905/hyperbrowser_00.png",
+    "image2": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115925/hyperbrowser_01.png",
+    "image3": "https://img.mz.co.kr/wp-content/uploads/2018/05/15115927/hyperbrowser_02.png"
 }]
