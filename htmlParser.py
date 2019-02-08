@@ -14,6 +14,30 @@ def printY(y, jsonData):
         #print("%s , %s" % (str(y.text) , str(y.nextSibling).strip()))
 		jsonData[str(y.text).replace(u'\xa0', u'').strip()] = str(y.nextSibling).replace(u'\xa0', u'').strip()
 
+def getTag(bs):
+	divClassGrid4 = bs.find("div", {"class": "grid4 col"})
+			
+	tagP = divClassGrid4.find_all("p")
+
+	chkList = ['PROJECT', 'CLIENT', 'TYPE', 'DEBUT DATE', 'Production Coordinator', 'Design, Animation', 'Storyboards, Animation', 'Lighting, Shading, Rendering', 'Animation, Modeling', 'Created']
+
+	jsonData["link"] = req.full_url
+
+	for x in tagP:
+		try:
+			for y in x.contents:
+				for z in chkList:
+					if str(y).find(z) > 1:
+						printY(y, jsonData)
+						break
+		except UnicodeEncodeError:
+			print("Error : UnicodeEncodeError")
+		finally:
+			pass
+
+def getImage(bs):
+	pass
+
 if __name__ == "__main__":
 	print("Hello World!")
 
@@ -22,6 +46,7 @@ if __name__ == "__main__":
 	linkFile = open(linkTextFilePath,'r')
 	outData = []
 	links = linkFile.readlines()
+	linkFile.close()
 	for link in links:
 		try:
 			req = urllib.request.Request(link.replace(u'\n', u''))
@@ -29,31 +54,14 @@ if __name__ == "__main__":
 
 			bs = BeautifulSoup(reqData, 'html.parser')
 
-			divClassGrid4 = bs.find("div", {"class": "grid4 col"})
-			
-			tagP = divClassGrid4.find_all("p")
-
-			chkList = ['PROJECT', 'CLIENT', 'TYPE', 'DEBUT DATE', 'Production Coordinator', 'Design, Animation', 'Storyboards, Animation', 'Lighting, Shading, Rendering', 'Animation, Modeling', 'Created']
-
 			jsonData = {}
 
-			jsonData["link"] = req.full_url
+			getTag(bs)
+			getImage(bs)
 
-			idxTagP = 0
-			for x in tagP:
-				try:
-					idxTagY = 0
-					for y in x.contents:
-						for z in chkList:
-							if str(y).find(z) > 1:
-								printY(y, jsonData)
-								break
-				except UnicodeEncodeError:
-					print("Error : %d" % (idxTagP))
-				finally:
-					idxTagP += 1
 			print(jsonData)
 			outData.append(jsonData)
+
 		except:
 			print("error link : %s" % (req.full_url))
 		finally:
